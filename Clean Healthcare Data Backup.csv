@@ -1,0 +1,1657 @@
+ID,Name,Age,City,Blood Type,Education,Employment Status,Salary,Health Condition,Credit Score,Date of Admission
+1010,Cathy Small,36,Albuquerque,O-,Master's,Retired,"48,000",Excellent,750,23/12/2023
+1017,Derek Carter,30,Albuquerque,O+,Unknown,Unemployed,0,Poor,420,20/01/2022
+1022,Evan Hernandez,24,Atlanta,A+,PhD,Unemployed,0,Unknown,,15/12/2022
+1025,Joshua Richmond,45,Albuquerque,A+,PhD,Retired,0,Average,537,11/02/2022
+1029,Ryan Harris,37,Atlanta,A-,High School,Employed,"55,000",Excellent,780,26/03/2023
+1038,Phillip Espinoza,35,Atlanta,A+,Bachelor's,Self-employed,"70,000",Average,670,06/02/2020
+1045,Brian Larson,18,Baltimore,AB-,Associate,Unemployed,0,Good,,21/01/2021
+1047,Joseph Ellis,28,Atlanta,A+,High School,Employed,"60,000",Excellent,810,14/10/2021
+1055,Angela Montgomery,39,Atlanta,AB-,Bachelor's,Student (Part-time),"18,000",Good,0,07/04/2020
+1062,Keith Johnson,31,Atlanta,O-,Associate,Unemployed,0,Poor,,19/06/2021
+1068,Alexis Allen,46,Atlanta,AB+,Associate,Unemployed,0,Excellent,,08/10/2019
+1074,Christina Miller,3,Atlanta,O+,Unknown,Student,0,Good,,05/09/2019
+1076,Raymond Park Jr.,38,Atlanta,B-,High School,Student (Part-time),"15,000",Good,0,26/05/2021
+1077,Justin Le,29,Albuquerque,AB-,PhD,Retired,"75,000",Excellent,810,02/12/2021
+1082,Robin Cox,23,Albuquerque,O-,High School,Employed,"55,000",Excellent,780,11/01/2020
+1084,Nancy Davis,15,Baltimore,B-,PhD,Gig Worker,"45,000",Average,590,28/10/2022
+1094,Thomas Haas,40,Atlanta,A+,Bachelor's,Student (Part-time),"18,000",Good,0,05/02/2024
+1101,Erica Myers,23,Albuquerque,A+,High School,Employed (Part-time),"25,000",Excellent,740,30/01/2020
+1111,Kelli Thompson,58,Albuquerque,O-,High School,Employed (Part-time),"25,000",Excellent,740,04/08/2023
+1120,Steven Smith,21,Atlanta,AB-,Master's,Retired (Early),"35,000",Average,650,23/03/2024
+1127,Sarah Smith,27,Atlanta,B-,Associate,Unemployed,0,Poor,550,07/12/2022
+1134,Ann Sullivan,48,Baltimore,B-,Associate,Employed,"40,000",Good,650,08/02/2024
+1140,Jessica Keller,25,Atlanta,B+,Bachelor's,Student (Full-time),0,Excellent,0,27/03/2021
+1154,Cynthia Nelson,43,Atlanta,A+,Bachelor's,Employed (Contract),"85,000",Excellent,720,18/01/2024
+1157,Katherine Barnett,33,Albuquerque,AB-,Unknown,Student (Full-time),0,Good,0,15/03/2022
+1158,Carl Best,94,Albuquerque,B+,High School,Gig Worker,"38,000",Average,610,22/08/2022
+1161,Holly Armstrong,33,Atlanta,O-,Bachelor's,Self-employed,"150,000",Poor,500,03/04/2020
+1164,Thomas Donaldson,23,Baltimore,AB-,Master's,Retired,"50,000",Average,700,26/06/2019
+1168,Michael Doyle,37,Atlanta,O-,Bachelor's,Employed (Contract),"85,000",Excellent,720,17/04/2022
+1169,Cheryl Foster,18,Atlanta,O+,Master's,Retired,"50,000",Average,680,09/10/2020
+1170,Shirley Wilkinson,33,Albuquerque,O+,Bachelor's,Employed (Contract),"85,000",Excellent,720,03/10/2022
+1177,Kenneth Clark,25,Baltimore,AB-,Associate,Unemployed,0,Good,,28/02/2022
+1178,Debbie Wilson,48,Atlanta,B-,Associate,Unemployed,0,Good,,14/07/2019
+1180,Shaun Guzman,40,Albuquerque,AB-,Associate,Unemployed,0,Poor,,02/04/2022
+1192,Sheila Sellers,33,Atlanta,AB+,Unknown,Retired,"40,000",Good,710,15/06/2021
+1202,Cynthia Thomas,29,Atlanta,B+,High School,Student (Full-time),0,Excellent,0,13/05/2019
+1202,John Lopez,64,Atlanta,AB-,Master's,Student (Full-time),0,Excellent,0,03/11/2021
+1212,Dr. Donald Anderson,32,Atlanta,O-,PhD,Unemployed,0,Unknown,,04/07/2020
+1226,Richard Hall,30,Baltimore,B-,Master's,Self-employed,"140,000",Excellent,850,16/12/2019
+1228,William Ford,42,Atlanta,B+,Unknown,Unemployed,0,Average,400,26/10/2020
+1229,Rachel Romero,22,Albuquerque,AB+,PhD,Employed,"110,000",Good,770,08/01/2024
+1233,Albert Thomas,30,Albuquerque,B+,Associate,Employed,"45,000",Average,680,25/04/2020
+1248,Lisa Moran,64,Atlanta,B-,Associate,Unemployed,0,Poor,,17/02/2024
+1249,Zachary Collins,19,Atlanta,B+,PhD,Employed,"140,000",Good,730,27/08/2019
+1265,William Ruiz,46,Albuquerque,B+,Bachelor's,Self-employed,"80,000",Average,630,13/02/2022
+1274,Kyle Reed,18,Atlanta,AB+,Associate,Unemployed,0,Poor,,28/08/2022
+1291,Jennifer Lopez,12,Atlanta,O-,Associate,Employed,"65,000",Unknown,750,27/08/2021
+1294,Jeffrey Gutierrez,25,Baltimore,B-,Bachelor's,Student (Part-time),"18,000",Good,0,23/06/2021
+1306,Angela Cox,18,Baltimore,O-,Associate,Unemployed,0,Poor,,02/12/2020
+1309,Monica Walker,33,Baltimore,A-,PhD,Employed,"110,000",Good,770,10/02/2021
+1311,Scott Werner,28,Atlanta,O-,PhD,Employed,"110,000",Good,770,13/07/2023
+1312,Jessica Jones Dds,63,Atlanta,AB+,PhD,Employed,"130,000",Average,710,21/09/2022
+1313,Christopher Cochran,20,Atlanta,AB-,Bachelor's,Self-employed,"70,000",Average,670,12/05/2019
+1316,Heather May,22,Albuquerque,A-,PhD,Employed,"100,000",Average,750,13/11/2019
+1317,Dr. Eileen Thompson,47,Albuquerque,A+,Bachelor's,Self-employed,"150,000",Poor,500,02/08/2021
+1328,Willie May,40,Atlanta,AB-,PhD,Gig Worker,"45,000",Average,590,29/01/2024
+1329,Ashley Warner,49,Atlanta,A+,Master's,Student (Full-time),0,Excellent,0,21/12/2021
+1334,Stacy Gillespie,24,Atlanta,B-,PhD,Self-employed,0,Poor,480,28/01/2023
+1334,Christopher Hurst,65,Baltimore,AB+,High School,Gig Worker,"38,000",Average,610,30/05/2020
+1341,Katie Martinez,53,Atlanta,O+,Associate,Unemployed,0,Good,,22/02/2021
+1342,Taylor Hunter,3,Baltimore,B+,Unknown,Retired,"40,000",Good,710,12/10/2021
+1355,Julie Mejia,20,Albuquerque,A-,Unknown,Employed (Part-time),"15,000",Excellent,690,10/02/2020
+1355,Felicia Wiley,56,Atlanta,O-,Associate,Employed (Part-time),"30,000",Excellent,760,06/06/2020
+1360,James Rasmussen,59,Albuquerque,AB-,Bachelor's,Employed (Contract),"85,000",Excellent,720,03/03/2024
+1360,Paul Mack,23,Baltimore,B+,Master's,Self-employed,"140,000",Excellent,850,14/05/2023
+1368,Jonathan Yates,28,Albuquerque,AB-,Bachelor's,Student (Part-time),"18,000",Good,0,24/07/2023
+1368,William Evans,47,Atlanta,AB+,Associate,Unemployed,0,Good,,10/03/2021
+1368,Teresa Strong,32,Baltimore,B-,Unknown,Retired,"40,000",Good,710,31/03/2022
+1370,Joseph Carpenter,33,Albuquerque,A-,Associate,Unemployed,0,Good,,26/07/2019
+1377,Heidi Evans,16,Atlanta,A+,Associate,Unemployed,0,Poor,550,16/06/2019
+1378,Jorge Singh,30,Atlanta,O+,High School,Employed (Gig Work),"30,000",Poor,420,29/08/2023
+1378,Jessica Wood,25,Baltimore,O+,Master's,Retired,"55,000",Good,730,05/03/2024
+1379,Jillian Silva,40,Atlanta,A+,High School,Student (Full-time),0,Excellent,0,22/01/2022
+1389,William Mccoy,30,Albuquerque,A-,Associate,Unemployed,0,Poor,,20/02/2023
+1392,Kelly Thomas,48,Atlanta,A+,Unknown,Self-employed,"120,000",Average,660,17/02/2021
+1393,Glenn Rodriguez,49,Baltimore,A+,Associate,Unemployed,0,Poor,,02/07/2023
+1402,Sabrina Gonzalez,40,Baltimore,AB-,PhD,Unemployed,0,Poor,,17/05/2020
+1403,Amanda Johnson,62,Baltimore,O-,High School (GED),Unemployed,0,Poor,,17/02/2024
+1405,Alexander Garcia,35,Atlanta,B+,Bachelor's,Self-employed,"120,000",Excellent,840,07/01/2020
+1415,David Crawford,17,Albuquerque,AB-,Bachelor's,Student,0,Excellent,0,20/05/2021
+1419,Jessica Phillips,28,Albuquerque,O-,High School (GED),Unemployed,0,Poor,,24/07/2022
+1423,Wendy Levine,33,Albuquerque,AB-,PhD,Gig Worker,"45,000",Average,590,22/01/2023
+1425,Jacob Young,19,Atlanta,AB+,Associate,Self-employed,"80,000",Poor,590,25/09/2023
+1432,Lauren Anderson,30,Albuquerque,O-,Associate,Unemployed,0,Poor,,18/10/2020
+1433,Zachary Reed,25,Baltimore,AB-,Bachelor's,Self-employed,"80,000",Average,630,12/08/2023
+1442,Dennis Morrow,28,Atlanta,B+,Master's,Retired,"50,000",Average,700,03/10/2019
+1449,Cindy Orozco,17,Albuquerque,B-,High School,Student (Full-time),0,Excellent,0,12/05/2023
+1451,Allison Cordova,24,Albuquerque,O-,High School,Employed,"60,000",Excellent,810,19/12/2020
+1452,Lonnie Dominguez,30,Atlanta,A-,PhD,Employed,"150,000",Excellent,880,02/10/2023
+1453,Robyn Miranda,41,Albuquerque,A-,Unknown,Unemployed,0,Poor,420,11/10/2020
+1461,Javier Hamilton,36,Atlanta,O-,Master's,Retired (Early),"35,000",Average,650,12/02/2022
+1465,Olivia Powell,66,Atlanta,A+,High School,Gig Worker,"38,000",Average,610,20/02/2024
+1486,Michael Rogers,51,Atlanta,B+,High School,Gig Worker,"32,000",Average,600,11/10/2022
+1488,Faith Foster,21,Atlanta,A+,Unknown,Unemployed,0,Poor,380,06/05/2020
+1494,Carrie Scott,19,Baltimore,AB-,PhD,Employed,"150,000",Good,820,12/03/2021
+1495,Danny Smith,15,Albuquerque,A-,PhD,Self-employed,"120,000",Poor,550,22/09/2022
+1496,Jennifer Knight,57,Atlanta,O-,Bachelor's,Retired,0,Unknown,0,07/08/2020
+1498,Eric Park,50,Atlanta,AB+,High School,Self-employed,"30,000",Excellent,600,27/04/2023
+1505,Tamara Leonard,48,Atlanta,AB+,Master's,Retired,"55,000",Good,730,15/03/2020
+1520,David Spence,37,Albuquerque,AB+,PhD,Self-employed,"120,000",Poor,550,11/11/2021
+1524,Ian Duffy,32,Atlanta,B+,Associate,Employed,"65,000",Unknown,750,24/05/2019
+1530,Brad Lewis,47,Atlanta,O+,Unknown,Self-employed,"60,000",Poor,580,29/05/2019
+1533,Julia Wade,24,Atlanta,A-,Unknown,Unemployed,0,Average,400,01/01/2024
+1541,George Mason,81,Atlanta,AB-,PhD,Unemployed,0,Poor,,17/02/2024
+1553,Bonnie Williams,53,Albuquerque,B-,Master's,Retired,"55,000",Good,730,23/01/2024
+1557,Lauren Taylor,53,Atlanta,B-,Master's,Retired,"55,000",Good,730,15/03/2024
+1563,Kaitlyn Smith,60,Atlanta,AB-,Master's,Retired,"65,000",Good,760,09/12/2022
+1567,David Curtis,50,Atlanta,B+,Master's,Student (Full-time),0,Excellent,0,14/05/2021
+1571,Peter Nichols,29,Atlanta,B+,Bachelor's,Student (Full-time),0,Excellent,0,27/03/2020
+1575,Rhonda Jackson,42,Atlanta,B+,PhD,Unemployed,0,Poor,,24/02/2020
+1579,Jonathan Chavez,43,Atlanta,AB+,Bachelor's,Employed (Contract),"80,000",Good,750,11/03/2021
+1593,Tonya Campbell,36,Albuquerque,B+,Bachelor's,Self-employed (Business Closed),0,Poor,450,12/02/2021
+1599,Chad Perez,18,Atlanta,A+,High School,Employed (Part-time),"25,000",Excellent,740,15/11/2023
+1607,Rachel Hickman,33,Albuquerque,B+,PhD,Employed,"150,000",Good,820,19/12/2022
+1609,Regina Matthews,35,Atlanta,AB+,High School,Employed,"60,000",Excellent,800,17/03/2021
+1610,Emily Johnson,91,Albuquerque,A+,Unknown,Student,0,Good,,20/12/2023
+1612,David Hensley,26,Atlanta,AB+,PhD,Employed,"130,000",Average,710,03/03/2020
+1613,Michael Ellison,23,Albuquerque,O+,Bachelor's,Student (Full-time),0,Good,0,09/07/2021
+1615,Anna Clements,16,Baltimore,A-,Unknown,Unemployed,0,Poor,380,11/03/2022
+1619,Paul Henderson,88,Albuquerque,AB+,Associate,Unemployed,0,Unknown,,15/05/2020
+1625,Peter Spencer,17,Baltimore,O-,High School,Gig Worker,"32,000",Average,600,10/03/2021
+1647,Jennifer Edwards,39,Atlanta,AB-,Bachelor's,Employed (Part-time),"20,000",Excellent,700,26/10/2019
+1648,Kristin Smith,31,Albuquerque,AB+,Associate,Gig Worker,"42,000",Average,640,17/10/2020
+1648,Misty Clark,21,Atlanta,B-,Bachelor's,Employed (Contract),"95,000",Excellent,790,12/10/2019
+1652,Emily Valdez,28,Atlanta,B+,High School,Employed,"40,000",Good,720,08/01/2022
+1658,William Williams Dds,33,Albuquerque,B-,Associate,Employed,"65,000",Unknown,750,22/05/2023
+1666,Sophia Conway,49,Atlanta,O+,Associate,Unemployed,0,Poor,,07/10/2021
+1667,Roger Hamilton,34,Baltimore,O-,High School,Student (Full-time),0,Excellent,0,16/05/2020
+1669,Lauren Cuevas,33,Baltimore,B-,High School,Student (Full-time),0,Excellent,0,19/08/2021
+1671,Christopher Tate,59,Atlanta,A-,Bachelor's,Self-employed,"150,000",Poor,500,24/09/2023
+1679,Anthony Guzman,42,Atlanta,AB-,Unknown,Student (Internship),"20,000",Good,0,26/08/2019
+1680,Bonnie Buckley,52,Baltimore,A-,Associate,Employed (Part-time),"30,000",Excellent,760,19/03/2021
+1699,Brett Stevens,31,Baltimore,AB+,High School,Unemployed,0,Poor,,04/08/2020
+1704,Brandi Hood,55,Atlanta,A-,PhD,Employed,"110,000",Good,830,20/01/2022
+1706,Alexandria Coleman,66,Atlanta,O+,Associate,Employed (Part-time),"30,000",Excellent,760,20/06/2023
+1718,Kenneth Smith,32,Atlanta,A+,High School,Unemployed,0,Poor,,28/02/2020
+1724,Natalie Anderson,18,Atlanta,A+,High School,Employed (Part-time),"25,000",Excellent,740,23/04/2023
+1725,Eric Miller,38,Atlanta,O+,High School,Employed (Gig Work),"30,000",Poor,420,01/08/2019
+1736,Mrs. Lauren Morgan,51,Atlanta,B-,High School,Employed (Part-time),"25,000",Excellent,740,07/08/2021
+1740,Lisa Booker,49,Baltimore,O+,Unknown,Student (Internship),"20,000",Good,0,02/12/2019
+1745,Matthew Shannon,20,Atlanta,A+,Associate,Employed,"65,000",Unknown,750,24/06/2019
+1745,Deanna Ferrell,30,Baltimore,AB-,Associate,Employed (Part-time),"12,000",Average,630,27/02/2024
+1749,Paul Williams,18,Albuquerque,N/A,Bachelor's,Employed (Contract),"80,000",Good,750,23/08/2020
+1759,Donald Murphy,28,Atlanta,A+,Bachelor's,Self-employed,"120,000",Excellent,840,11/11/2023
+1769,Jody Lopez,29,Atlanta,O+,High School,Gig Worker,"22,000",Average,540,12/05/2020
+1772,Nathan Ray,33,Albuquerque,AB+,Bachelor's,Self-employed,"80,000",Average,630,10/03/2021
+1775,Eric Turner,17,Baltimore,A+,Unknown,Unemployed,0,Poor,420,19/12/2022
+1789,Melissa Hoffman,22,Atlanta,B+,Unknown,Student (Full-time),0,Good,0,27/07/2022
+1794,Mark Fuentes,19,Albuquerque,A-,PhD,Self-employed,"120,000",Poor,550,21/01/2020
+1806,Jesse Sanchez,29,Atlanta,A+,PhD,Unemployed,0,Poor,,06/01/2021
+1808,Alexis Wilson,32,Albuquerque,B+,Master's,Student (Full-time),0,Excellent,0,16/08/2019
+1810,Emily Clark,49,Albuquerque,AB+,High School,Gig Worker,"38,000",Average,610,23/03/2023
+1811,Michael Patton,17,Atlanta,O-,PhD,Gig Worker,"45,000",Average,590,19/11/2022
+1815,Nathan Montoya,27,Atlanta,O-,High School,Employed,"55,000",Excellent,780,22/05/2020
+1821,Norman Thomas,24,Atlanta,A-,Associate,Employed,"40,000",Good,650,05/05/2023
+1822,Sylvia West,54,Albuquerque,B-,PhD,Employed,"110,000",Good,770,06/07/2020
+1822,Jerome Morales,48,Atlanta,B-,PhD,Self-employed,"-102,073",Poor,780,21/07/2019
+1834,Rita Nelson,89,Atlanta,B+,PhD,Employed,"100,000",Average,750,15/09/2019
+1841,Gary Wilson,24,Atlanta,B+,Associate,Employed,"40,000",Good,650,15/11/2020
+1846,David Reyes,39,Albuquerque,A-,PhD,Employed,"100,000",Average,790,27/12/2022
+1846,John Moore,50,Atlanta,O-,Bachelor's,Student (Full-time),0,Good,0,30/06/2021
+1847,Sean Jennings,19,Albuquerque,AB-,PhD,Unemployed,0,Poor,,12/11/2023
+1850,Laurie Garcia,40,Atlanta,B-,High School (GED),Unemployed,0,Poor,,01/05/2021
+1852,Stephen Hudson,34,Atlanta,AB+,High School,Gig Worker,"35,000",Average,620,31/10/2023
+1854,Sean Gray,56,Baltimore,B+,Master's,Self-employed,"140,000",Excellent,850,03/06/2022
+1858,Sandra Williamson,30,Atlanta,AB-,Unknown,Employed (Part-time),"15,000",Excellent,690,14/02/2021
+1858,Nathan Woods,40,Atlanta,O-,Master's,Unemployed,0,Poor,,30/12/2023
+1861,Jeffrey Long,23,Baltimore,B+,PhD,Self-employed,"-102,073",Poor,780,16/08/2019
+1886,Aaron Simmons,40,Atlanta,B+,High School,Gig Worker,"30,000",Poor,580,29/03/2020
+1890,Lawrence Miranda,1,Albuquerque,O-,Master's,Student (Full-time),0,Excellent,0,02/09/2021
+1901,Robert Robinson,68,Atlanta,O-,Bachelor's,Student (Part-time),"18,000",Good,0,04/09/2020
+1904,Connor Barton,20,Atlanta,B+,PhD,Gig Worker,"45,000",Average,590,20/02/2020
+1919,Kelly Walker,38,Atlanta,B-,Associate,Unemployed,0,Poor,,19/07/2019
+1927,Victoria Evans,35,Atlanta,B+,Master's,Unemployed,0,Poor,,09/01/2020
+1933,Brandi Woodard,25,Baltimore,AB-,Bachelor's,Self-employed,"120,000",Excellent,840,10/12/2021
+1933,Noah Moon,48,Baltimore,O+,Bachelor's,Student (Full-time),0,Good,0,17/10/2020
+1935,Jeffery Williamson,1,Albuquerque,A-,High School,Student (Part-time),"15,000",Good,0,21/08/2021
+1939,Larry Ramsey,66,Atlanta,B+,Associate,Gig Worker,"42,000",Average,640,14/05/2021
+1940,Zachary Rice,31,Baltimore,AB-,Associate,Unemployed,0,Excellent,,16/10/2022
+1943,Brian Osborne,51,Atlanta,B-,PhD,Unemployed,0,Poor,,07/12/2023
+1949,Christopher Mcclain,31,Albuquerque,O-,High School,Employed,"55,000",Excellent,780,17/05/2023
+1949,Brendan Parker,24,Atlanta,A+,PhD,Employed,"140,000",Good,730,21/09/2019
+1952,Tracey Harrison,62,Atlanta,B+,PhD,Gig Worker,"45,000",Average,590,07/11/2021
+1977,John Miller,22,Atlanta,B-,PhD,Gig Worker,"45,000",Average,590,22/10/2023
+1979,Joshua Turner,21,Atlanta,AB+,High School,Employed,"60,000",Excellent,810,18/08/2019
+1998,Raymond Galvan,28,Atlanta,A+,High School,Unemployed,0,Good,457,19/02/2023
+2001,Sharon Ferrell,23,Atlanta,AB-,PhD,Retired,"75,000",Excellent,810,15/03/2023
+2001,Chloe Hunt,36,Baltimore,O-,Associate,Unemployed,0,Good,,05/12/2019
+2014,Jacob Newman,54,Albuquerque,A+,Master's,Self-employed,"100,000",Average,690,09/03/2024
+2021,John Young,26,Baltimore,A+,Unknown,Student (Part-time),"15,000",Good,0,23/03/2021
+2028,Bryan Bowers,101,Atlanta,O+,Unknown,Unemployed,0,Poor,420,01/09/2020
+2030,Andrew Arnold,25,Atlanta,A-,Unknown,Student,0,Unknown,,25/02/2022
+2032,Christina Davis,22,Atlanta,AB-,Unknown,Student (Internship),"20,000",Good,0,12/12/2019
+2068,Justin White,37,Atlanta,AB-,Unknown,Unemployed,0,Average,400,28/07/2022
+2090,Ryan Butler,29,Atlanta,AB-,Unknown,Unemployed,0,Poor,400,26/08/2023
+2090,David Espinoza,21,Atlanta,A+,Associate,Employed,"40,000",Good,650,18/12/2021
+2093,Cassandra Rice,47,Atlanta,A-,Master's,Self-employed,"100,000",Average,680,23/09/2023
+2096,Cory Pierce,33,Atlanta,B-,Bachelor's,Self-employed (Business Closed),0,Poor,450,11/06/2022
+2098,James Ward,37,Baltimore,O-,PhD,Unemployed,0,Poor,,02/12/2020
+2099,Joel Bartlett,25,Atlanta,B+,Bachelor's,Student (Full-time),0,Excellent,0,06/09/2019
+2104,Anthony Hall,39,Albuquerque,O-,Bachelor's,Student (Part-time),"18,000",Good,0,30/03/2022
+2107,William Sims,18,Baltimore,B+,Bachelor's,Self-employed,"80,000",Average,630,05/04/2020
+2110,Nicole Hughes,52,Albuquerque,O+,Bachelor's,Employed (Contract),"85,000",Excellent,720,04/12/2020
+2112,Andrea Torres,18,Baltimore,A-,High School,Unemployed,0,Good,457,27/01/2020
+2122,Amanda Lopez,53,Albuquerque,O+,Unknown,Unemployed,0,Average,400,21/12/2021
+2130,Donna Bernard,24,Baltimore,B+,Associate,Unemployed,0,Poor,,22/09/2020
+2131,Cynthia Bryant,22,Atlanta,A+,Unknown,Unemployed,0,Excellent,,09/12/2021
+2133,Kevin Robinson,20,Atlanta,A+,Bachelor's,Employed (Contract),"95,000",Excellent,790,31/01/2022
+2136,Connie Page,35,Atlanta,A+,PhD,Retired,0,Average,537,06/02/2024
+2145,Andre Harvey,47,Atlanta,AB-,Associate,Employed,"45,000",Average,680,04/10/2022
+2146,Jessica Murphy,40,Atlanta,A+,PhD,Gig Worker,"50,000",Average,700,20/09/2022
+2153,Nicholas Garcia,28,Baltimore,B-,High School,Employed,"40,000",Good,720,21/03/2022
+2157,Bryce Klein,32,Atlanta,O+,High School,Unemployed,0,Poor,,24/01/2024
+2166,Edward Duran,51,Atlanta,B+,High School,Employed,"55,000",Excellent,780,19/04/2020
+2167,Mr. Cameron Robinson,32,Atlanta,AB+,PhD,Employed,"90,000",Good,800,12/01/2021
+2174,Danielle Lopez,37,Albuquerque,O-,Bachelor's,Self-employed,"70,000",Average,670,20/11/2020
+2177,Carolyn Cooper,16,Atlanta,A+,PhD,Employed,"100,000",Average,750,04/05/2021
+2177,Jacob Farmer,25,Baltimore,B-,Associate,Employed,"45,000",Average,680,22/03/2021
+2178,John Ellis,25,Albuquerque,A-,High School,Unemployed,0,Good,457,15/06/2023
+2182,William Henry,24,Atlanta,AB-,PhD,Self-employed,0,Poor,480,22/06/2022
+2182,Michael Bruce,19,Baltimore,A+,PhD,Employed,"90,000",Good,800,04/06/2021
+2194,Michael Martin,55,Albuquerque,A+,Associate,Unemployed,0,Poor,,06/09/2022
+2197,Christopher Chapman,8,Albuquerque,O+,PhD,Unemployed,0,Poor,,01/12/2021
+2201,Stephanie Anderson,19,Atlanta,B+,High School,Gig Worker,"30,000",Poor,580,14/11/2019
+2202,Gary Curtis,13,Atlanta,A+,High School,Gig Worker,"30,000",Poor,580,10/02/2021
+2203,Lynn Martinez,27,Albuquerque,O+,Master's,Retired,"55,000",Excellent,790,12/10/2022
+2207,Jordan Vargas,75,Atlanta,B+,Bachelor's,Retired,0,Unknown,0,01/11/2023
+2211,Brenda Fuller,30,Atlanta,A-,Bachelor's,Student (Part-time),"15,000",Good,0,08/02/2024
+2213,Bradley Combs,69,Albuquerque,AB-,Unknown,Unemployed,0,Poor,420,14/05/2021
+2223,Robert Dunn,21,Baltimore,B+,High School,Employed (Part-time),"25,000",Excellent,740,12/09/2022
+2234,Curtis Garcia,21,Baltimore,A-,Associate,Unemployed,0,Poor,,13/01/2022
+2235,Christine Frazier,37,Atlanta,AB+,PhD,Employed,"150,000",Good,820,15/05/2021
+2237,Susan Hurley,23,Atlanta,B+,Bachelor's,Student (Part-time),"18,000",Good,0,27/08/2022
+2259,Lee White,23,Baltimore,AB-,High School,Employed,"60,000",Excellent,810,31/10/2021
+2266,Michael Duarte,44,Atlanta,AB-,Associate,Employed,"40,000",Good,650,23/05/2021
+2270,Philip Reyes,23,Atlanta,O+,Associate,Unemployed,0,Poor,,23/10/2021
+2277,Christina Martin,48,Albuquerque,A-,Bachelor's,Employed,"80,000",Good,720,16/12/2023
+2280,Jared Yoder,19,Atlanta,O+,PhD,Employed,"130,000",Average,710,02/08/2021
+2280,Mark Bradshaw,36,Atlanta,AB+,High School,Student (Full-time),0,Excellent,0,27/12/2019
+2297,Devin Stewart,35,Atlanta,B+,PhD,Employed,"110,000",Good,830,14/07/2019
+2301,Michelle Lane,42,Atlanta,O+,Master's,Student (Full-time),0,Excellent,0,19/10/2021
+2311,Henry Castro,23,Atlanta,A+,Bachelor's,Self-employed,"80,000",Excellent,760,17/05/2021
+2311,Lori Rivas,31,Baltimore,A-,Associate,Employed,"40,000",Good,650,18/09/2020
+2313,Vanessa Taylor,33,Albuquerque,O+,PhD,Employed,"90,000",Good,800,22/03/2021
+2315,Christina Miller,44,Baltimore,O+,Bachelor's,Unemployed,0,Excellent,0,16/09/2020
+2318,Timothy Lopez,25,Atlanta,A-,Bachelor's,Self-employed,"80,000",Average,630,30/05/2023
+2320,Glenn Massey,26,Atlanta,A-,Bachelor's,Student (Full-time),0,Excellent,0,06/08/2020
+2333,David Payne,19,Atlanta,A+,Master's,Student (Full-time),0,Excellent,0,08/07/2020
+2335,Jay Galloway,21,Baltimore,O+,Master's,Self-employed,"100,000",Average,680,20/01/2021
+2336,Jonathan Simon,52,Atlanta,A-,Master's,Retired (Early),"35,000",Average,650,27/01/2024
+2341,Carol Mcclain,24,Atlanta,B-,High School,Student (Full-time),0,Excellent,0,20/01/2022
+2348,Luke Burgess,22,Albuquerque,A-,Master's,Unemployed,0,Good,814,04/03/2021
+2350,Jessica Rodriguez,20,Atlanta,A-,PhD,Employed,"100,000",Average,750,20/04/2024
+2359,Peter Fitzgerald,27,Albuquerque,AB+,PhD,Employed,"110,000",Good,830,15/05/2020
+2369,Dr. Leonard Brewer Ii,19,Atlanta,A+,Master's,Retired,"55,000",Good,730,08/09/2022
+2371,Dennis Clarke,44,Atlanta,AB+,High School,Gig Worker,"22,000",Average,540,17/09/2019
+2386,Cory Perry,56,Atlanta,O+,PhD,Unemployed,0,Poor,,19/12/2019
+2390,Samantha Lowery,32,Atlanta,A+,Associate,Employed,"65,000",Unknown,750,27/11/2019
+2396,Cassie Nelson,51,Baltimore,AB+,Master's,Self-employed,"140,000",Excellent,850,01/08/2022
+2431,Cameron Miller,33,Albuquerque,O+,Unknown,Unemployed,0,Poor,400,19/07/2023
+2433,Terri Stewart,16,Atlanta,AB-,Associate,Unemployed,0,Poor,,20/07/2023
+2436,Stephanie Rodriguez,55,Atlanta,O+,Associate,Self-employed,"80,000",Poor,590,15/05/2023
+2440,Christopher Henderson,47,Atlanta,AB-,Master's,Student (Full-time),0,Excellent,0,12/09/2022
+2443,Elizabeth Shields,2,Atlanta,O+,Bachelor's,Employed (Contract),"90,000",Excellent,770,06/04/2022
+2446,Jasmine Short,4,Atlanta,O-,Bachelor's,Employed (Contract),"95,000",Excellent,790,23/02/2021
+2452,Jessica Barry,27,Atlanta,A-,Associate,Employed,"40,000",Good,650,06/12/2020
+2454,Chris Nunez,27,Baltimore,B+,PhD,Unemployed,0,Excellent (?!),,30/12/2023
+2455,Nicholas Sullivan,17,Baltimore,B+,Bachelor's,Self-employed (Business Closed),0,Poor,450,15/12/2020
+2457,Patricia Kim,24,Atlanta,AB+,Master's,Retired,"60,000",Average,740,31/03/2021
+2465,Joe Davila,26,Atlanta,O-,Unknown,Unemployed,0,Average,400,10/03/2024
+2467,Casey Hamilton,21,Atlanta,O-,Associate,Employed,"40,000",Good,650,24/01/2021
+2467,Dave Kennedy,26,Baltimore,A+,Master's,Retired,"55,000",Good,730,27/08/2022
+2469,Scott Arnold,26,Atlanta,B-,Bachelor's,Employed (Contract),"95,000",Excellent,790,09/11/2023
+2473,David Spears,26,Atlanta,A+,Associate,Unemployed,0,Good,,03/12/2022
+2477,Erin Clark,46,Atlanta,B+,Bachelor's,Employed,"80,000",Good,720,10/03/2022
+2479,Mary Bell,17,Baltimore,O+,Associate,Unemployed,0,Poor,,31/12/2023
+2481,Cody Taylor,22,Atlanta,AB+,Associate,Unemployed,0,Poor,,15/07/2023
+2484,Lisa Chambers,38,Atlanta,A-,Associate,Unemployed,0,Poor,550,22/04/2022
+2487,Katrina Warren,65,Atlanta,AB-,High School,Gig Worker,"38,000",Average,610,11/09/2023
+2508,Christina Brown,22,Atlanta,B+,PhD,Employed,"100,000",Average,790,30/04/2023
+2517,Christopher Berg,43,Albuquerque,AB-,PhD,Employed,"100,000",Average,790,23/05/2021
+2520,Robyn Thompson,18,Atlanta,B+,High School,Employed (Part-time),"25,000",Excellent,740,12/11/2019
+2523,Alan Taylor,17,Albuquerque,B-,PhD,Self-employed,"-102,073",Poor,780,10/08/2021
+2527,Gabriel Garcia,25,Atlanta,A-,Bachelor's,Employed (Part-time),"20,000",Excellent,700,02/01/2021
+2546,Kristen Stephens,26,Atlanta,B+,Associate,Unemployed,0,Poor,,01/02/2021
+2554,Phillip Lyons,23,Albuquerque,B-,Master's,Student (Full-time),0,Excellent,0,14/09/2022
+2558,John Simmons,57,Atlanta,O+,High School,Unemployed,0,Poor,,10/02/2023
+2570,Christina Dyer,43,Atlanta,O-,Unknown,Student (Internship),"20,000",Good,0,04/05/2021
+2576,Jonathan Meadows,37,Albuquerque,O+,Bachelor's,Self-employed,"110,000",Excellent,820,14/01/2021
+2578,Austin Lewis,27,Atlanta,AB-,Unknown,Student (Full-time),0,Good,0,28/03/2021
+2586,Rebecca Jones,47,Atlanta,B-,High School,Student (Full-time),0,Excellent,0,12/05/2019
+2594,Aaron Bradshaw,21,Atlanta,O+,Master's,Self-employed,"120,000",Good,810,30/11/2019
+2601,Juan Klein,42,Albuquerque,B-,PhD,Employed,"110,000",Good,770,19/08/2023
+2605,Kenneth Perez,28,Atlanta,O+,High School,Employed,"55,000",Excellent,780,09/08/2023
+2617,Shannon Edwards,29,Baltimore,O+,High School,Gig Worker,"30,000",Poor,580,21/04/2022
+2624,Marcus Henry,35,Albuquerque,B-,PhD,Unemployed,0,Excellent (?!),,20/12/2022
+2624,Debbie Thompson,28,Atlanta,B+,Master's,Retired,"50,000",Average,700,14/07/2023
+2629,Michael Smith,4,Albuquerque,AB+,PhD,Employed,"130,000",Average,710,27/03/2020
+2631,Briana Bowen,30,Baltimore,O+,PhD,Employed,"100,000",Average,750,18/04/2024
+2647,Robert Ross,18,Atlanta,O-,Bachelor's,Employed (Contract),"80,000",Good,750,16/11/2022
+2653,Allison Price,26,Baltimore,AB+,PhD,Gig Worker,"50,000",Average,700,20/03/2022
+2669,John Becker,30,Atlanta,O-,Unknown,Student (Internship),"20,000",Good,0,27/04/2022
+2686,Hannah Carey,22,Atlanta,AB-,Bachelor's,Student,0,Excellent,0,17/02/2021
+2690,Samantha Patel,29,Atlanta,A+,PhD,Employed,"110,000",Good,770,21/01/2022
+2690,Joseph Brown,37,Atlanta,O+,PhD,Employed,"90,000",Good,800,30/06/2019
+2691,Erin Ortega,1,Albuquerque,AB-,Unknown,Self-employed,"60,000",Poor,580,24/05/2023
+2702,Kurt Murphy,55,Albuquerque,AB-,Unknown,Unemployed,0,Average,400,24/11/2021
+2707,Michael Contreras,36,Atlanta,A-,Master's,Unemployed,0,Average,650,25/07/2022
+2708,Steven Vaughan,46,Atlanta,A+,Unknown,Self-employed,"60,000",Poor,580,23/05/2020
+2726,Michael David,21,Albuquerque,O+,Master's,Self-employed,"100,000",Average,680,20/08/2021
+2730,Robert Fields,38,Albuquerque,A+,Master's,Retired,"65,000",Good,760,04/02/2021
+2730,Andrew Johnson,58,Baltimore,O-,Master's,Student (Full-time),0,Excellent,0,15/01/2023
+2736,Christopher Castillo,26,Baltimore,B+,High School,Gig Worker,"30,000",Poor,580,06/04/2020
+2737,Brittany Edwards,18,Atlanta,A-,Bachelor's,Student (Part-time),"18,000",Good,0,03/04/2023
+2745,Kenneth Jones,67,Atlanta,O+,PhD,Employed,"130,000",Good,740,09/12/2022
+2748,Taylor Petersen,28,Atlanta,A+,Associate,Employed,"50,000",Good,690,20/07/2023
+2752,Maria Gardner,24,Atlanta,B+,PhD,Employed,"110,000",Good,770,23/08/2020
+2752,Seth Bartlett Ii,19,Atlanta,AB+,Bachelor's,Student,0,Excellent,0,23/07/2020
+2758,Becky Rivera,24,Baltimore,AB-,PhD,Employed,"90,000",Good,800,09/10/2022
+2760,Samantha Willis,1,Atlanta,A-,PhD,Employed,"100,000",Average,790,03/10/2022
+2770,Brian Olson,32,Atlanta,B+,Master's,Unemployed,0,Poor,,26/02/2024
+2775,Kevin Daniel,26,Atlanta,A+,PhD,Unemployed,0,Poor,,30/08/2019
+2786,Joseph Livingston,50,Atlanta,AB-,Unknown,Self-employed,"120,000",Average,660,28/01/2024
+2789,Linda Wilson,36,Baltimore,A+,High School,Employed,"60,000",Excellent,810,26/02/2023
+2793,Chad Huff,5,Albuquerque,AB+,Associate,Employed,"40,000",Good,650,12/03/2024
+2793,David Roberts,33,Atlanta,A+,Master's,Retired,"50,000",Average,700,05/06/2022
+2797,Shane Tate,17,Atlanta,O+,Master's,Unemployed,0,Poor,,19/03/2024
+2799,Michael Anderson,33,Albuquerque,AB-,Associate,Unemployed,0,Poor,,16/08/2019
+2816,Travis Simmons,33,Albuquerque,B-,Master's,Retired,"50,000",Average,680,20/07/2022
+2818,Jerry Lee,22,Atlanta,AB+,High School,Employed,"60,000",Excellent,810,19/09/2020
+2822,Sara Cook,55,Albuquerque,O-,PhD,Employed,"110,000",Good,770,26/12/2021
+2830,Stephanie Reid Dvm,41,Atlanta,AB+,High School,Employed,"40,000",Good,720,17/03/2020
+2833,Chad Green,23,Baltimore,A+,Master's,Retired,"55,000",Good,730,21/10/2021
+2836,Michael Parker,33,Atlanta,O+,PhD,Employed,"100,000",Average,750,01/01/2024
+2838,Samuel Davis,57,Atlanta,B+,Associate,Unemployed,0,Poor,,04/11/2022
+2840,Jesus Jordan,49,Atlanta,O-,Unknown,Unemployed,0,Average,400,03/07/2021
+2841,Robert Burton,31,Baltimore,O+,Master's,Student (Full-time),0,Excellent,0,30/03/2020
+2842,Peter Cunningham,57,Atlanta,B+,Bachelor's,Student (Full-time),0,Good,0,05/07/2019
+2843,Billy Johnson,26,Atlanta,B+,Bachelor's,Student (Full-time),0,Good,0,30/09/2021
+2846,Melissa Nguyen,39,Baltimore,A-,High School (GED),Unemployed,0,Poor,,19/09/2022
+2859,Kendra Walker,29,Baltimore,AB-,Master's,Retired,"55,000",Good,730,21/04/2023
+2862,Amanda Lawson,24,Atlanta,AB-,Associate,Unemployed,0,Good,,16/09/2022
+2863,Thomas Martinez,42,Albuquerque,B-,Unknown,Unemployed,0,Excellent,,18/08/2019
+2863,Jessica Dunn,33,Atlanta,AB-,Bachelor's,Self-employed (Business Closed),0,Poor,450,04/06/2022
+2878,Mark Hernandez,40,Atlanta,AB-,High School,Employed (Part-time),"25,000",Excellent,740,15/04/2021
+2879,Cameron Sanchez,70,Albuquerque,A+,PhD,Gig Worker,"50,000",Average,700,04/06/2019
+2882,Brianna Williams,29,Atlanta,B+,High School,Gig Worker,"30,000",Poor,580,29/02/2020
+2889,Michael Yu,17,Atlanta,AB-,High School,Gig Worker,"32,000",Average,600,18/07/2022
+2891,Colton Strong,30,Albuquerque,AB-,Associate,Unemployed,0,Good,,13/05/2022
+2892,Scott Berry,40,Atlanta,B+,High School,Gig Worker,"28,000",Poor,520,25/09/2021
+2894,Melissa Robertson,52,Atlanta,A-,High School,Self-employed,"30,000",Excellent,600,21/12/2019
+2908,Jamie Price,20,Baltimore,A-,Associate,Gig Worker,"42,000",Average,640,19/07/2022
+2914,Melinda Austin,0,Atlanta,A+,High School,Employed,"55,000",Excellent,780,03/09/2022
+2916,Susan Nichols,62,Atlanta,A+,Bachelor's,Employed,"80,000",Good,720,05/10/2020
+2921,Michael Liu,64,Albuquerque,AB-,Unknown,Unemployed,0,Poor,480,05/04/2024
+2927,Kelly Brown,57,Atlanta,B-,High School,Gig Worker,"35,000",Average,620,16/05/2020
+2928,Christopher Arnold,39,Albuquerque,B+,Master's,Student (Full-time),0,Excellent,0,17/11/2019
+2940,Christopher Moore,29,Atlanta,O+,Associate,Employed,"50,000",Good,780,19/12/2021
+2941,Daniel Palmer,47,Atlanta,B+,High School,Gig Worker,"28,000",Poor,520,16/05/2022
+2962,Brian Downs,30,Baltimore,AB-,Unknown,Unemployed,0,Average,400,07/07/2022
+2963,Kelsey Porter,26,Atlanta,O-,High School,Gig Worker,"32,000",Average,600,08/08/2019
+2966,Zachary Larsen,19,Albuquerque,A+,Master's,Self-employed,"140,000",Excellent,850,14/07/2021
+2968,Lance Torres,27,Atlanta,B-,Bachelor's,Employed (Part-time),"20,000",Excellent,700,20/10/2023
+2970,Eric Duncan,26,Albuquerque,AB-,Unknown,Unemployed,0,Average,400,02/12/2020
+2970,Isabella Daniel,19,Baltimore,AB-,PhD,Employed,"130,000",Good,740,04/09/2023
+2981,Andrea Willis,6,Albuquerque,AB-,PhD,Unemployed,0,Poor,,18/11/2023
+2982,Katherine Hart,46,Albuquerque,A+,Associate,Unemployed,0,Poor,,10/08/2021
+3001,Cassandra Martinez,29,Atlanta,A-,Associate,Unemployed,0,Poor,,02/01/2020
+3003,Michelle Zhang,16,Atlanta,B-,Bachelor's,Student,0,Excellent,0,18/01/2022
+3005,Dr. Dana Leonard,25,Baltimore,B+,Associate,Unemployed,0,Poor,,27/05/2020
+3007,Donna Johnson,28,Atlanta,A-,Associate,Gig Worker,"42,000",Average,640,17/10/2019
+3008,Jeffrey Hall,27,Atlanta,O-,PhD,Employed,"-50,975",Good,0,16/09/2019
+3022,Peggy Lee,52,Albuquerque,A-,High School,Gig Worker,"28,000",Poor,520,08/04/2022
+3032,Jesse Sutton,20,Baltimore,O-,Master's,Self-employed,"120,000",Good,810,17/05/2023
+3038,Donald Alvarez,33,Albuquerque,O-,Master's,Retired,"60,000",Average,740,11/02/2022
+3044,Amanda Wilson,54,Baltimore,B-,Master's,Student (Full-time),0,Excellent,0,23/07/2021
+3052,Michael Brady,29,Atlanta,O+,Bachelor's,Self-employed (Business Closed),0,Poor,450,30/03/2022
+3060,Todd Martinez,32,Atlanta,A+,PhD,Unemployed,0,Poor,,19/10/2021
+3075,Kimberly Welch,31,Baltimore,AB-,High School,Employed,"55,000",Excellent,780,23/11/2023
+3076,Mallory Diaz,16,Atlanta,O+,High School,Employed,"45,000",Excellent,800,16/08/2022
+3079,Matthew Harper,30,Baltimore,A-,Unknown,Retired,"40,000",Good,710,28/02/2021
+3088,Eric Cook,31,Atlanta,B-,PhD,Employed,"110,000",Good,770,05/12/2023
+3094,Gary Bowen,37,Atlanta,B+,PhD,Employed,"150,000",Excellent,880,04/06/2019
+3095,Kara Li,19,Atlanta,A+,Master's,Retired,"50,000",Average,700,20/03/2024
+3097,Sheryl Martinez,19,Albuquerque,A-,Unknown,Unemployed,0,Poor,420,21/01/2022
+3098,Susan Lee,35,Baltimore,AB+,Master's,Student (Full-time),0,Excellent,0,14/09/2021
+3099,Sara Hall,15,Baltimore,A+,Unknown,Student,0,Unknown,,05/12/2020
+3104,Charles Finley,15,Atlanta,A-,Unknown,Student (Full-time),0,Good,0,17/04/2024
+3111,Steven Tran,44,Albuquerque,AB+,High School,Employed,"60,000",Excellent,810,05/07/2022
+3112,Christina Burns,72,Baltimore,B+,High School,Employed,"45,000",Excellent,800,13/11/2022
+3118,Tracy Burke,33,Albuquerque,A+,Associate,Unemployed,0,Excellent,,05/12/2020
+3132,Jennifer Spence,28,Atlanta,A+,Bachelor's,Self-employed,"80,000",Excellent,760,14/05/2019
+3135,Sara Green,32,Atlanta,A+,PhD,Retired,"75,000",Excellent,810,02/06/2023
+3149,Matthew West,38,Atlanta,AB+,Bachelor's,Employed (Part-time),"20,000",Excellent,700,30/08/2023
+3150,Mark Saunders,50,Albuquerque,O+,Unknown,Unemployed,0,Poor,380,12/06/2021
+3169,James Garcia,29,Atlanta,O+,Bachelor's,Unemployed,0,Excellent,0,01/01/2021
+3169,Jordan Brown,21,Baltimore,A-,PhD,Employed,"110,000",Good,770,31/07/2019
+3174,Nicole Flynn,30,Baltimore,O-,Associate,Employed,"50,000",Good,690,05/03/2024
+3178,Matthew Simmons,45,Atlanta,B-,PhD,Employed,"90,000",Good,800,31/03/2023
+3179,Jorge Richard,23,Baltimore,AB+,Master's,Student (Full-time),0,Excellent,0,18/09/2022
+3180,Jonathan Miller,20,Baltimore,B+,High School,Employed,"60,000",Excellent,810,17/07/2023
+3193,Heather Curtis,64,Albuquerque,AB+,PhD,Employed,"110,000",Good,830,03/03/2024
+3194,Mary Parrish,28,Atlanta,A-,Associate,Unemployed,0,Poor,,24/02/2021
+3199,Paul Martinez,38,Albuquerque,B+,Associate,Employed (Part-time),"12,000",Average,630,13/10/2019
+3199,Larry Leonard,22,Atlanta,B-,High School,Employed,"40,000",Good,720,06/06/2019
+3200,Sandra Flynn,30,Atlanta,B+,High School,Employed,"60,000",Excellent,810,24/05/2020
+3202,Brenda Le,19,Baltimore,A+,PhD,Unemployed,0,Poor,,27/10/2020
+3204,Brett Ferguson,33,Albuquerque,A+,High School,Employed,"45,000",Excellent,800,16/12/2022
+3214,Marissa Mora,18,Atlanta,O-,High School,Employed,"60,000",Excellent,810,17/05/2022
+3226,Kenneth Thompson,15,Atlanta,A-,PhD,Employed,"120,000",Excellent,830,08/05/2022
+3229,Gordon Kelly,22,Atlanta,O-,Unknown,Student,0,Unknown,,06/08/2023
+3229,Amanda Wilson,17,Atlanta,B+,PhD,Employed,"150,000",Excellent,880,16/01/2021
+3239,Jordan Leon,41,Atlanta,O+,Unknown,Unemployed,0,Average,400,11/08/2023
+3241,Michael Zimmerman,29,Atlanta,AB-,High School,Gig Worker,"35,000",Average,620,31/05/2020
+3242,Shelby Black,53,Atlanta,A+,Bachelor's,Student (Part-time),"15,000",Good,0,07/09/2020
+3243,Meagan Miranda,25,Atlanta,A+,PhD,Employed,"110,000",Good,830,23/07/2022
+3248,Bridget Adams,36,Atlanta,B-,Master's,Retired,"55,000",Good,730,12/06/2022
+3253,Matthew Clark,44,Atlanta,B-,Unknown,Unemployed,0,Poor,420,09/10/2020
+3257,Elizabeth Ramirez,39,Baltimore,O+,Associate,Employed,"50,000",Good,780,04/06/2023
+3259,Miguel Gomez,49,Atlanta,B+,Unknown,Retired,"40,000",Good,710,10/05/2019
+3263,Katherine Whitaker,26,Atlanta,O+,Bachelor's,Employed (Contract),"95,000",Excellent,790,25/05/2022
+3266,Alexandria Colon,19,Atlanta,B+,PhD,Employed,"130,000",Good,740,01/03/2022
+3272,Barbara Stewart,25,Atlanta,A-,Associate,Unemployed,0,Excellent,,17/07/2022
+3276,Mary Rice,24,Atlanta,B+,PhD,Employed,"110,000",Good,770,25/07/2023
+3284,James Miller,32,Albuquerque,O+,Bachelor's,Student (Full-time),0,Good,0,29/08/2019
+3292,Brandon Davis,33,Albuquerque,O-,Unknown,Self-employed,"120,000",Average,660,11/06/2020
+3299,Ronald Park,35,Baltimore,A+,High School,Gig Worker,"30,000",Poor,580,09/09/2019
+3323,Robert Mccormick,23,Atlanta,AB+,Associate,Unemployed,0,Poor,,28/07/2019
+3328,Steven Price,18,Baltimore,AB+,Bachelor's,Self-employed,"80,000",Excellent,760,11/06/2022
+3332,David Griffin,33,Albuquerque,AB-,High School,Employed (Gig Work),"30,000",Poor,420,07/02/2024
+3333,Diane Branch,42,Albuquerque,O+,Associate,Employed,"40,000",Good,650,30/05/2020
+3342,Kimberly Brooks,53,Albuquerque,B-,Master's,Unemployed,0,Poor,,03/01/2020
+3363,Aaron Oneal,48,Atlanta,A-,Master's,Unemployed,0,Poor,,22/09/2019
+3371,Jesse York,43,Atlanta,O+,Bachelor's,Self-employed,"70,000",Average,670,06/07/2022
+3385,Terry Thomas,26,Albuquerque,B-,Master's,Student (Full-time),0,Excellent,0,03/06/2021
+3400,Derek Singleton,23,Atlanta,AB+,Master's,Self-employed,"135,068",Average,794,14/02/2021
+3402,Cynthia Williams,39,Baltimore,A-,High School,Gig Worker,"22,000",Average,540,01/11/2023
+3410,Jessica Reyes,21,Atlanta,AB+,Bachelor's,Self-employed,"110,000",Excellent,820,21/08/2021
+3412,Jonathan Woods,24,Atlanta,B+,Bachelor's,Self-employed,"80,000",Excellent,760,29/08/2022
+3420,Christina Martinez,52,Albuquerque,A+,Associate,Employed,"65,000",Unknown,750,28/12/2021
+3425,Robert Higgins,38,Albuquerque,AB-,Associate,Unemployed,0,Poor,,06/05/2021
+3429,Laurie Joseph,33,Albuquerque,B-,Associate,Employed,"40,000",Good,650,10/05/2020
+3438,David Anderson,19,Albuquerque,AB+,PhD,Retired,"75,000",Excellent,810,07/01/2021
+3448,Jason Smith,24,Atlanta,AB+,Unknown,Retired,"40,000",Good,710,11/01/2021
+3462,Mary Gonzales,29,Atlanta,B-,High School,Unemployed,0,Good,457,20/11/2020
+3490,Mrs. Monica Craig,40,Atlanta,O-,PhD,Employed,"120,000",Excellent,830,17/09/2019
+3491,Caitlin Hill,22,Baltimore,B+,Associate,Employed (Part-time),"30,000",Excellent,760,02/02/2023
+3492,Erika Hernandez,32,Atlanta,B+,Master's,Retired,"55,000",Excellent,790,17/03/2021
+3493,Alexander Coleman,50,Atlanta,B+,Bachelor's,Student (Full-time),0,Good,0,06/09/2019
+3496,Tamara Hernandez,39,Albuquerque,B-,Bachelor's,Employed (Contract),"90,000",Excellent,770,17/08/2023
+3496,Paul Hahn,10,Albuquerque,O-,Bachelor's,Self-employed,"70,000",Average,670,16/02/2023
+3499,Frederick Mcintosh,25,Baltimore,O+,High School,Gig Worker,"38,000",Average,610,23/09/2020
+3504,Michael Gomez,38,Baltimore,AB+,High School (GED),Unemployed,0,Poor,,26/07/2021
+3505,Misty Burton,46,Atlanta,B+,High School,Employed,"55,000",Excellent,780,27/01/2023
+3505,Kelly Zamora,19,Baltimore,AB+,High School,Employed,"55,000",Excellent,780,11/04/2023
+3508,Joseph Sanchez,45,Atlanta,B-,Associate,Unemployed,0,Poor,,12/02/2023
+3512,Denise Guerrero,44,Atlanta,A-,High School,Employed,"55,000",Excellent,780,09/05/2019
+3519,Maria Sutton,32,Atlanta,A-,Bachelor's,Employed (Contract),"95,000",Excellent,790,16/01/2020
+3524,Nicole Martin,36,Atlanta,AB-,PhD,Employed,"100,000",Average,750,18/11/2019
+3532,Sarah Porter,40,Atlanta,AB-,Associate,Unemployed,0,Poor,,11/01/2024
+3539,Isaac Morales,46,Atlanta,AB-,Bachelor's,Self-employed,"70,000",Average,670,23/08/2020
+3540,Jeffrey Green,50,Atlanta,AB+,PhD,Employed,"100,000",Average,750,08/09/2023
+3551,Kimberly Williams,29,Atlanta,AB+,Unknown,Student (Full-time),0,Good,0,07/01/2023
+3557,Haley Perkins,52,Albuquerque,A+,Master's,Self-employed,"135,068",Average,794,23/06/2020
+3571,Jessica Garza,48,Atlanta,A+,High School,Employed,"40,000",Good,720,06/06/2022
+3571,Jordan Bush,23,Atlanta,A-,Associate,Unemployed,0,Poor,,26/12/2019
+3574,David Sheppard,27,Albuquerque,B+,PhD,Employed,"130,000",Good,740,20/03/2024
+3575,Mark Bryant,84,Atlanta,O+,Bachelor's,Employed (Contract),"100,000",Excellent,790,05/10/2023
+3589,Isaac Mendez,52,Atlanta,B+,PhD,Employed,"120,000",Excellent,830,21/09/2023
+3596,Jeffrey Wood,22,Albuquerque,AB-,Bachelor's,Employed (Contract),"85,000",Excellent,720,07/07/2021
+3597,Louis Lowery,71,Atlanta,B+,PhD,Unemployed,0,Poor,,29/01/2023
+3602,Martin Hansen,53,Atlanta,B-,Bachelor's,Student (Part-time),"18,000",Good,0,22/12/2020
+3608,Dominique Maldonado,28,Atlanta,A-,Master's,Retired,"48,000",Excellent,750,11/03/2020
+3623,Desiree Frazier,21,Baltimore,AB-,Bachelor's,Student,0,Excellent,0,22/04/2024
+3625,Leslie Collins,16,Atlanta,O-,Bachelor's,Self-employed,"120,000",Excellent,840,12/11/2019
+3626,Daniel Schmidt,49,Albuquerque,B+,PhD,Self-employed,"-102,073",Poor,780,15/11/2022
+3627,Tammy Hall,36,Baltimore,A-,PhD,Self-employed,0,Poor,480,27/07/2019
+3636,John Washington,35,Atlanta,O+,Associate,Unemployed,0,Unknown,,10/01/2023
+3636,Amy White,19,Baltimore,B+,High School,Student (Full-time),0,Excellent,0,09/02/2023
+3639,Jessica Tyler,23,Atlanta,O-,Associate,Employed,"45,000",Average,680,30/11/2023
+3650,Scott Wade,18,Albuquerque,A+,Associate,Unemployed,0,Unknown,,13/02/2022
+3650,Rebecca Harris,34,Atlanta,O+,Associate,Unemployed,0,Good,,11/07/2021
+3651,Kim Pena,27,Albuquerque,O-,Bachelor's,Student (Full-time),0,Good,0,11/08/2020
+3655,Maria Anderson,32,Atlanta,O+,Bachelor's,Employed (Contract),"80,000",Good,750,12/03/2024
+3655,Clifford Bell,62,Atlanta,A-,Master's,Self-employed,"100,000",Average,690,15/05/2020
+3662,Jacob Cunningham,44,Baltimore,O-,Unknown,Unemployed,0,Average,450,13/07/2019
+3668,Marie Turner,26,Baltimore,AB+,PhD,Employed,"130,000",Average,710,03/05/2023
+3669,Dr. Katie Barrett Dvm,34,Atlanta,O-,PhD,Gig Worker,"50,000",Average,700,02/02/2022
+3678,Peter Miller,33,Atlanta,O-,Unknown,Student,0,Good,,06/09/2021
+3685,Steven Baldwin,22,Albuquerque,O+,Unknown,Student (Internship),"20,000",Good,0,16/05/2019
+3688,Patrick Pierce,25,Atlanta,B+,Unknown,Self-employed,"120,000",Average,660,01/08/2019
+3693,Elizabeth Perez,33,Albuquerque,AB-,High School,Gig Worker,"22,000",Average,540,16/01/2022
+3693,Maureen Dunn,28,Atlanta,B-,Bachelor's,Retired,0,Unknown,0,06/01/2023
+3708,Brandon Collins,36,Albuquerque,O+,Bachelor's,Self-employed,"110,000",Excellent,820,19/07/2019
+3708,Angel Mitchell,26,Atlanta,AB+,High School,Employed,"55,000",Excellent,780,11/12/2023
+3722,Jessica Booth,60,Baltimore,O+,High School,Gig Worker,"38,000",Average,610,22/10/2020
+3738,Anne Lam,18,Atlanta,O+,Bachelor's,Employed (Contract),"95,000",Excellent,790,19/01/2024
+3744,Susan Owen,34,Atlanta,B-,Master's,Self-employed,"140,000",Excellent,850,05/05/2021
+3752,Robert Bauer,16,Albuquerque,AB+,PhD,Unemployed,0,Unknown,,22/05/2020
+3769,Carol Gomez,24,Albuquerque,B-,Associate,Unemployed,0,Poor,,07/12/2022
+3773,Diane Schultz,23,Albuquerque,B+,Associate,Unemployed,0,Good,,21/11/2021
+3773,Gregory Cannon,38,Atlanta,A+,Associate,Unemployed,0,Good,,20/04/2020
+3788,Scott Jones,34,Albuquerque,B+,Unknown,Unemployed,0,Poor,400,15/07/2021
+3790,Anne Thompson,17,Albuquerque,O+,PhD,Gig Worker,"50,000",Average,700,24/03/2024
+3797,Steven Williams,25,Baltimore,AB-,PhD,Employed,"130,000",Good,740,23/08/2019
+3806,Bianca Johnson,25,Baltimore,B+,Unknown,Self-employed,"60,000",Poor,580,27/08/2021
+3808,Monica James,18,Baltimore,B+,PhD,Employed,"130,000",Good,740,07/02/2022
+3810,Nancy Hansen,27,Atlanta,O-,Master's,Unemployed,0,Poor,,20/01/2024
+3811,Emma Bennett,34,Atlanta,A-,High School,Gig Worker,"38,000",Average,610,13/02/2021
+3818,Samuel Decker,33,Atlanta,O-,Unknown,Student (Internship),"20,000",Good,0,12/10/2022
+3819,Jill Cunningham,16,Atlanta,O-,High School,Self-employed,"30,000",Excellent,600,22/03/2022
+3831,Catherine Peterson,18,Atlanta,A+,Master's,Self-employed,"120,000",Good,810,13/08/2023
+3834,Darlene Cohen,45,Atlanta,B+,Bachelor's,Student (Part-time),"18,000",Good,0,04/05/2022
+3841,Chase Good,37,Baltimore,O-,Associate,Gig Worker,"42,000",Average,640,07/11/2022
+3842,Shaun Acosta,23,Baltimore,O+,Unknown,Unemployed,0,Poor,420,20/11/2023
+3852,John Graham,22,Atlanta,O+,Unknown,Unemployed,0,Poor,420,01/07/2019
+3855,Alan Alvarez,38,Albuquerque,B+,PhD,Employed,"150,000",Excellent,880,25/10/2021
+3860,Daniel Chen,68,Atlanta,B+,Bachelor's,Self-employed,"80,000",Excellent,760,28/01/2020
+3866,Bradley Ramos,17,Atlanta,A-,PhD,Employed,"120,000",Excellent,830,19/06/2021
+3873,Jeffrey Smith,35,Atlanta,AB-,Master's,Student (Full-time),0,Excellent,0,21/10/2022
+3874,Raymond Bruce,26,Atlanta,AB+,PhD,Employed,"-50,975",Good,0,13/05/2020
+3880,Lisa Keller,46,Atlanta,AB+,PhD,Employed,"110,000",Good,770,26/09/2022
+3886,John Moore,21,Atlanta,A-,Unknown,Student (Full-time),0,Good,0,14/01/2023
+3887,Matthew Rivera,19,Baltimore,O+,Bachelor's,Employed (Contract),"85,000",Excellent,720,14/11/2019
+3889,Mr. Eric Lane,18,Albuquerque,N/A,Associate,Unemployed,0,Poor,550,24/06/2022
+3895,Brianna Moreno,36,Baltimore,O+,PhD,Employed,"-50,975",Good,0,02/06/2022
+3903,John Atkins,20,Atlanta,O+,Associate,Unemployed,0,Poor,,30/08/2019
+3924,Jenna Turner,40,Baltimore,B-,Master's,Unemployed,0,Good,814,31/07/2022
+3933,Edward Smith Jr.,27,Albuquerque,A+,PhD,Gig Worker,"45,000",Average,590,13/09/2022
+3934,Gloria Vance,37,Atlanta,O+,PhD,Employed,"110,000",Good,770,25/04/2024
+3935,Ashley Moore,39,Albuquerque,B+,Unknown,Retired,"40,000",Good,710,12/05/2022
+3949,Katherine Bass,28,Baltimore,O-,Master's,Retired,"50,000",Average,680,24/07/2022
+3952,Kayla Padilla,21,Albuquerque,B-,Unknown,Unemployed,0,Average,400,24/09/2020
+3954,Andre Anderson,23,Atlanta,O+,High School,Gig Worker,"38,000",Average,610,12/09/2020
+3959,John Thomas,35,Albuquerque,A+,Master's,Self-employed,"140,000",Excellent,850,13/11/2021
+3973,Ashley Erickson,26,Albuquerque,AB-,Bachelor's,Student (Part-time),"15,000",Good,0,05/11/2019
+3975,Denise Wall,41,Atlanta,B-,Master's,Retired,"55,000",Excellent,790,05/02/2023
+3977,Christina Calderon,24,Atlanta,AB+,Master's,Self-employed,"140,000",Excellent,850,08/02/2020
+3994,Erika Johnson,17,Atlanta,B+,High School,Employed,"60,000",Excellent,810,03/02/2020
+4010,Dalton Tucker,17,Baltimore,A-,Associate,Unemployed,0,Poor,,26/05/2019
+4033,Douglas Myers,17,Baltimore,O+,Bachelor's,Employed (Contract),"95,000",Excellent,790,13/01/2020
+4035,Jessica Franklin,19,Atlanta,A-,PhD,Employed,"90,000",Good,800,07/04/2023
+4040,Mr. Brandon Perez Md,42,Albuquerque,O-,High School (GED),Unemployed,0,Poor,,06/02/2024
+4047,Duane Haney,16,Albuquerque,AB-,High School,Employed,"55,000",Excellent,780,16/09/2021
+4055,Melinda Richards,15,Albuquerque,A-,Master's,Self-employed,"140,000",Excellent,850,17/11/2023
+4056,David Howard,18,Baltimore,O-,Bachelor's,Employed (Contract),"100,000",Excellent,790,30/12/2023
+4057,Catherine Thompson Dds,18,Baltimore,AB-,Associate,Employed,"40,000",Good,650,30/06/2021
+4072,Christopher Gonzalez,31,Albuquerque,B+,Master's,Student (Full-time),0,Excellent,0,21/11/2019
+4082,Christopher Bright,25,Albuquerque,B+,Unknown,Student (Part-time),"15,000",Good,0,21/01/2020
+4098,Karen Johnson,33,Atlanta,O+,Bachelor's,Self-employed,"150,000",Poor,500,23/06/2019
+4101,Heather Melendez,26,Atlanta,AB+,Associate,Unemployed,0,Poor,,20/10/2020
+4107,Alec Mitchell,43,Atlanta,O+,Master's,Retired,"55,000",Good,730,26/06/2023
+4110,Jamie Baker,29,Atlanta,AB+,PhD,Unemployed,0,Poor,,01/08/2022
+4126,Kayla Perez,62,Atlanta,AB+,Associate,Employed,"40,000",Good,650,15/05/2023
+4140,Devin Bell,33,Albuquerque,B-,High School,Gig Worker,"38,000",Average,610,13/07/2021
+4145,Mark Blake,22,Atlanta,A+,Bachelor's,Retired,0,Unknown,0,29/06/2023
+4152,Austin Anderson,17,Atlanta,B-,Master's,Retired,"50,000",Average,700,04/06/2023
+4155,Daniel Wolf,40,Atlanta,O+,High School,Gig Worker,"35,000",Average,620,13/12/2022
+4157,Stephanie Reynolds,31,Albuquerque,O+,High School,Employed,"55,000",Excellent,780,27/12/2022
+4159,Antonio Smith,29,Atlanta,O-,PhD,Employed,"130,000",Good,740,28/06/2020
+4166,Melanie Morales,41,Baltimore,B-,Bachelor's,Employed (Contract),"90,000",Excellent,770,18/12/2020
+4174,Joseph Gonzales,34,Atlanta,A-,High School,Student (Part-time),"15,000",Good,0,07/04/2023
+4178,Mr. Robert Davis,19,Atlanta,B+,Master's,Self-employed,"135,068",Average,794,16/03/2023
+4179,Shawna Russell,26,Atlanta,O-,Associate,Employed,"40,000",Good,650,27/08/2023
+4187,Andrea Morgan,67,Atlanta,AB-,High School,Gig Worker,"22,000",Average,540,17/08/2023
+4191,Valerie Hunter,28,Atlanta,O+,Associate,Self-employed,"80,000",Poor,590,28/03/2021
+4201,Brandon Smith,18,Baltimore,AB-,Associate,Gig Worker,"42,000",Average,640,15/12/2019
+4208,Jesse Banks,2,Albuquerque,AB+,Associate,Unemployed,0,Good,,29/10/2022
+4223,Jon Spence,36,Atlanta,A+,Bachelor's,Employed (Contract),"90,000",Excellent,770,31/07/2023
+4231,Debbie Shaw,22,Atlanta,A+,Unknown,Unemployed,0,Excellent,,08/02/2021
+4233,Connor Hansen,46,Albuquerque,A+,High School,Unemployed,0,Good,457,12/12/2019
+4239,Jessica Miller,40,Atlanta,AB-,Associate,Employed,"50,000",Good,780,01/02/2023
+4247,Kari Wells,16,Baltimore,AB+,Bachelor's,Student (Part-time),"15,000",Good,0,09/07/2021
+4253,Sarah Lopez,33,Atlanta,AB+,Associate,Unemployed,0,Poor,,18/04/2021
+4257,Christopher Lee,50,Albuquerque,B-,Unknown,Student (Full-time),0,Good,0,15/09/2021
+4261,Mary Mccullough,38,Atlanta,A+,Master's,Retired,"50,000",Average,700,08/06/2022
+4267,Daniel Hendricks,22,Atlanta,O-,High School,Gig Worker,"30,000",Poor,580,17/02/2020
+4272,Amber Reid,27,Atlanta,AB+,High School,Employed (Gig Work),"30,000",Poor,420,17/12/2020
+4274,Theresa Coleman,27,Atlanta,A+,High School,Student (Part-time),"15,000",Good,0,23/12/2021
+4277,Carla Walker,17,Atlanta,O-,Bachelor's,Unemployed,0,Excellent,0,12/04/2020
+4280,Kristen Cohen,20,Atlanta,O-,Bachelor's,Self-employed (Business Closed),0,Poor,450,06/01/2024
+4298,Keith Rodriguez,21,Atlanta,A+,High School,Freelance,"25,000",Excellent,720,14/12/2021
+4299,Tina Price,33,Atlanta,A+,Associate,Unemployed,0,Good,,13/06/2022
+4304,Linda Thomas,33,Albuquerque,AB+,Bachelor's,Student (Full-time),0,Good,0,31/03/2023
+4307,Noah Baxter,60,Albuquerque,AB-,High School,Gig Worker,"35,000",Average,620,07/09/2019
+4307,Jasmine Luna,39,Atlanta,A-,Master's,Unemployed,0,Poor,,10/04/2020
+4307,Tracy Martin,14,Baltimore,A-,High School,Student (Full-time),0,Excellent,0,26/07/2019
+4309,Andrew Watts,32,Albuquerque,O+,High School,Employed,"45,000",Excellent,800,18/11/2020
+4311,Peter Gonzalez,31,Albuquerque,AB-,Associate,Unemployed,0,Good,,03/02/2021
+4313,Jennifer Camacho,29,Atlanta,AB-,Bachelor's,Self-employed,"110,000",Excellent,820,28/10/2019
+4313,Paula Vega,19,Baltimore,O-,PhD,Employed,"150,000",Excellent,880,01/07/2022
+4314,Sarah Green,19,Atlanta,B+,Master's,Unemployed,0,Good,814,06/02/2023
+4315,Samantha Perkins,21,Atlanta,AB-,Bachelor's,Employed (Contract),"95,000",Excellent,790,31/08/2023
+4320,Joshua Love,17,Atlanta,O-,Associate,Gig Worker,"42,000",Average,640,13/01/2023
+4321,Jonathan Young,27,Baltimore,B+,PhD,Employed,"110,000",Good,770,18/02/2024
+4324,Justin Vargas,69,Atlanta,O-,Associate,Unemployed,0,Poor,,01/07/2020
+4325,Timothy Davis,51,Atlanta,O-,Master's,Self-employed,"100,000",Average,680,15/07/2023
+4334,Tony Salas Phd,76,Atlanta,O+,PhD,Employed,"90,000",Good,800,06/10/2023
+4339,Jennifer Leon,27,Atlanta,A-,PhD,Self-employed,"120,000",Poor,550,16/10/2022
+4342,Teresa Campbell,24,Baltimore,A-,Associate,Unemployed,0,Poor,,23/05/2020
+4358,Sara Harris,25,Baltimore,AB+,Bachelor's,Student (Part-time),"18,000",Good,0,04/03/2023
+4361,Mario Haley,40,Baltimore,O+,Bachelor's,Employed (Part-time),"20,000",Excellent,700,26/12/2022
+4363,Michael Bradley,37,Atlanta,O+,Master's,Retired,"55,000",Good,730,22/08/2022
+4364,Zachary Reed,56,Atlanta,A-,Associate,Unemployed,0,Poor,,10/03/2024
+4385,Erin Martin,38,Atlanta,O-,PhD,Retired,"75,000",Excellent,810,29/09/2023
+4388,Patricia Medina,45,Albuquerque,AB+,Bachelor's,Self-employed (Business Closed),0,Poor,450,07/07/2022
+4394,Sandy George,56,Atlanta,B+,Bachelor's,Employed (Contract),"85,000",Excellent,720,10/08/2023
+4401,Christopher Reynolds,34,Atlanta,B-,Master's,Retired,"50,000",Average,700,15/09/2020
+4403,Nicholas Bell,19,Atlanta,AB-,High School,Employed,"40,000",Good,720,05/08/2019
+4410,Timothy Myers,40,Albuquerque,B+,High School,Gig Worker,"30,000",Poor,580,02/03/2024
+4410,Abigail Farmer,64,Atlanta,O+,Master's,Retired,"50,000",Average,680,11/02/2021
+4417,Robert Robbins,22,Baltimore,AB+,PhD,Gig Worker,"45,000",Average,590,07/01/2024
+4420,James Yates,28,Atlanta,B-,High School,Employed (Gig Work),"30,000",Poor,420,15/06/2022
+4422,Tina Griffin,33,Albuquerque,B+,Bachelor's,Employed (Contract),"95,000",Excellent,790,17/06/2022
+4426,Robert Graves,21,Atlanta,A+,Bachelor's,Employed (Contract),"85,000",Excellent,720,06/08/2019
+4432,Dave Parrish,33,Atlanta,B+,High School,Employed (Part-time),"25,000",Excellent,740,24/08/2020
+4437,Christopher Green,22,Baltimore,AB-,High School (GED),Unemployed,0,Poor,,29/04/2022
+4439,Andrew Brooks,21,Atlanta,AB+,Associate,Unemployed,0,Poor,,19/05/2022
+4439,Sandra Murphy,67,Atlanta,A-,Associate,Unemployed,0,Excellent,,29/11/2019
+4441,Andrew Yang,29,Atlanta,AB-,PhD,Unemployed,0,Unknown,,03/10/2020
+4443,Jessica Macias,46,Atlanta,AB-,PhD,Employed,"130,000",Good,740,05/01/2024
+4443,Sandra Murray,30,Atlanta,AB+,PhD,Self-employed,0,Poor,480,16/01/2022
+4451,James Cole,17,Atlanta,AB+,PhD,Unemployed,0,Poor,,19/08/2022
+4452,Kristina Mora,21,Albuquerque,AB+,PhD,Employed,"100,000",Average,790,04/03/2024
+4452,Hector Jones,25,Atlanta,AB+,Unknown,Unemployed,0,Poor,480,29/06/2020
+4452,Ashley Salazar,37,Atlanta,AB-,Bachelor's,Student (Part-time),"18,000",Good,0,21/09/2019
+4463,Debra Harris,22,Baltimore,A-,Bachelor's,Employed (Contract),"95,000",Excellent,790,23/06/2023
+4464,Thomas Morse,51,Albuquerque,N/A,PhD,Employed,"120,000",Excellent,830,27/01/2020
+4469,Ashley Vasquez,33,Albuquerque,O+,Master's,Unemployed,0,Poor,,24/11/2021
+4469,Wayne Lynch,33,Albuquerque,O-,Associate,Unemployed,0,Poor,,03/10/2020
+4471,Terry Graves,25,Atlanta,O-,Master's,Unemployed,0,Good,814,10/04/2021
+4480,Chad Cross,27,Atlanta,B-,Master's,Retired,"50,000",Average,700,05/10/2021
+4486,Jasmine Rodriguez,39,Atlanta,A-,Bachelor's,Self-employed,"70,000",Average,670,07/12/2022
+4492,Charles Johnson,24,Baltimore,A-,Unknown,Unemployed,0,Poor,380,27/03/2022
+4494,Matthew Cunningham,49,Atlanta,O+,Bachelor's,Self-employed,"80,000",Average,630,05/09/2020
+4495,Joseph Smith,69,Albuquerque,O+,PhD,Unemployed,0,Poor,,16/04/2023
+4496,Kyle Thomas,32,Atlanta,B-,Unknown,Employed (Part-time),"15,000",Excellent,690,16/11/2019
+4500,Laura Wells,59,Atlanta,O+,PhD,Employed,"140,000",Good,730,24/01/2023
+4500,Wayne Sharp,38,Atlanta,B+,High School,Employed,"60,000",Excellent,800,28/02/2021
+4504,Robert Nichols,40,Baltimore,O+,High School,Employed (Part-time),"25,000",Excellent,740,18/05/2019
+4509,Anthony Smith,26,Atlanta,O+,Associate,Unemployed,0,Poor,,12/05/2019
+4533,Carlos Lopez,19,Atlanta,O+,Bachelor's,Self-employed (Business Closed),0,Poor,450,29/12/2020
+4534,Nicole Gonzalez,20,Albuquerque,A-,High School,Employed,"60,000",Excellent,810,10/05/2020
+4537,Michael Elliott,55,Atlanta,A-,PhD,Self-employed,"120,000",Poor,550,08/09/2019
+4552,Kiara Clark,24,Baltimore,A-,Associate,Gig Worker,"42,000",Average,640,03/02/2021
+4564,Beth Schwartz,32,Atlanta,AB-,Associate,Unemployed,0,Good,,29/03/2024
+4566,Jodi Lang,25,Albuquerque,O+,Master's,Student (Full-time),0,Excellent,0,27/03/2024
+4567,Sydney Tucker,37,Atlanta,AB+,PhD,Unemployed,0,Poor,,21/09/2022
+4573,Geoffrey Barker,20,Atlanta,AB-,Bachelor's,Employed (Contract),"95,000",Excellent,790,07/07/2023
+4582,Leah Cross Dds,43,Albuquerque,AB+,Unknown,Unemployed,0,Poor,380,17/03/2024
+4585,Karen Gonzalez,27,Atlanta,A+,High School,Employed (Part-time),"25,000",Excellent,740,10/09/2020
+4586,Christopher Mcfarland,34,Atlanta,AB-,Master's,Self-employed,"100,000",Average,680,01/08/2020
+4620,Mike Mcbride,30,Baltimore,AB+,Associate,Unemployed,0,Poor,,07/08/2023
+4625,Alexis Mccall,30,Albuquerque,O-,PhD,Employed,"150,000",Excellent,880,05/11/2019
+4632,Tonya Riley Md,30,Albuquerque,A+,Unknown,Unemployed,0,Poor,420,26/12/2023
+4638,James Patterson,50,Albuquerque,A+,High School,Employed,"40,000",Good,720,03/11/2019
+4648,Marilyn Tran,21,Baltimore,AB-,Master's,Retired,"65,000",Good,760,04/07/2023
+4649,Laura Lawrence,53,Atlanta,O-,Master's,Retired,"50,000",Average,680,19/11/2023
+4655,Patrick Smith,30,Baltimore,AB-,Bachelor's,Employed (Contract),"95,000",Excellent,790,16/04/2021
+4657,Brian Figueroa,44,Atlanta,A-,Associate,Unemployed,0,Good,,27/04/2022
+4657,John Thompson,15,Atlanta,B+,Bachelor's,Employed (Part-time),"20,000",Excellent,700,30/04/2024
+4658,Mr. David Bowen,32,Atlanta,B-,Unknown,Student,0,Good,,24/09/2023
+4661,Angela Randolph,60,Atlanta,O+,Master's,Retired (Early),"35,000",Average,650,19/05/2019
+4664,Douglas Turner,59,Atlanta,B+,High School (GED),Unemployed,0,Poor,,01/03/2020
+4665,Kelly Turner,0,Atlanta,O+,Master's,Self-employed,"140,000",Excellent,850,30/08/2021
+4674,Michael Christian,24,Baltimore,B+,Bachelor's,Student (Part-time),"18,000",Good,0,28/02/2023
+4682,Mr. Timothy Howard,23,Atlanta,A+,High School,Gig Worker,"35,000",Average,620,04/05/2021
+4687,Anthony Jones,24,Baltimore,AB-,PhD,Self-employed,"120,000",Poor,550,11/01/2022
+4693,Amy Osborne,26,Baltimore,A+,Bachelor's,Employed,"80,000",Good,720,12/06/2020
+4700,Michael Weber,44,Atlanta,B-,PhD,Employed,"100,000",Average,750,20/03/2020
+4700,Taylor Brown,18,Atlanta,AB+,Associate,Employed (Part-time),"30,000",Excellent,760,05/05/2023
+4706,Jenny Reynolds,34,Atlanta,B-,Associate,Employed,"50,000",Good,690,03/06/2020
+4717,Margaret Zamora,23,Atlanta,O+,Master's,Retired,"65,000",Good,760,28/08/2020
+4718,Diana Bennett,18,Baltimore,B+,High School,Gig Worker,"22,000",Average,540,26/04/2020
+4721,Amy Ramos,23,Atlanta,B+,Master's,Student (Full-time),0,Excellent,0,28/10/2021
+4721,Joshua Murray,30,Atlanta,A-,Bachelor's,Self-employed,"70,000",Average,670,13/05/2020
+4728,Ashley Rodriguez,18,Atlanta,B-,Bachelor's,Student,0,Excellent,0,07/03/2021
+4729,Maria Hall,24,Atlanta,A+,PhD,Employed,"90,000",Good,800,03/02/2022
+4730,Robert Carter,29,Atlanta,B-,Unknown,Retired,"40,000",Good,710,12/09/2021
+4757,Kristine Mccall,26,Atlanta,B-,Bachelor's,Unemployed,0,Excellent,0,08/09/2023
+4759,Dylan Simon,76,Atlanta,A+,Bachelor's,Self-employed,"80,000",Average,630,29/11/2022
+4771,Kristin Nguyen,20,Atlanta,AB+,Unknown,Student (Part-time),"15,000",Good,0,06/04/2021
+4772,Tanya Soto,23,Albuquerque,AB+,Associate,Unemployed,0,Poor,,31/07/2023
+4775,Shelley Fleming,24,Atlanta,AB-,PhD,Unemployed,0,Unknown,,26/04/2024
+4778,Jeremy Campbell,33,Atlanta,B-,Master's,Retired,"55,000",Good,730,31/07/2019
+4802,Robert Walsh,53,Albuquerque,B+,PhD,Employed,"150,000",Excellent,880,22/11/2020
+4815,Robert Pittman,33,Albuquerque,B-,Unknown,Unemployed,0,Excellent,,17/01/2024
+4819,Stephanie Benson,35,Atlanta,O+,Bachelor's,Employed (Contract),"90,000",Excellent,770,25/08/2020
+4823,Shaun Long,48,Albuquerque,A+,High School,Self-employed,"30,000",Excellent,600,09/02/2024
+4825,Courtney Stephens,23,Atlanta,B-,High School,Student (Full-time),0,Excellent,0,10/04/2022
+4826,Paul Rogers,25,Atlanta,AB-,High School,Unemployed,0,Poor,,22/06/2020
+4838,Kristin Burton,24,Atlanta,B-,Bachelor's,Unemployed,0,Excellent,0,29/12/2019
+4841,Nicole Nguyen,29,Baltimore,O-,Bachelor's,Self-employed,"70,000",Average,670,17/06/2022
+4850,Kristin Ochoa,46,Albuquerque,B+,Associate,Employed,"40,000",Good,650,05/10/2019
+4850,John Fox,23,Baltimore,A+,Master's,Self-employed,"140,000",Excellent,850,20/04/2024
+4861,Bruce Gonzales,0,Albuquerque,O+,Master's,Retired,"55,000",Good,730,17/11/2019
+4861,Lawrence Shepherd,57,Albuquerque,A-,Bachelor's,Self-employed,"150,000",Poor,500,07/05/2022
+4867,Adrian Buckley,26,Albuquerque,A-,Unknown,Unemployed,0,Poor,420,11/10/2023
+4870,Brandy Friedman Md,24,Baltimore,AB-,Unknown,Unemployed,0,Average,400,21/12/2023
+4877,Craig Chavez,23,Baltimore,AB-,Associate,Unemployed,0,Poor,,24/08/2020
+4878,Billy Fitzgerald,78,Atlanta,B+,Unknown,Unemployed,0,Poor,380,31/05/2020
+4882,Kyle Gray,66,Atlanta,AB+,PhD,Unemployed,0,Poor,,15/02/2023
+4884,Barbara Clark,42,Baltimore,B+,PhD,Employed,"150,000",Excellent,880,27/02/2020
+4886,Amanda Mills,28,Baltimore,A-,Master's,Retired,"65,000",Good,760,04/06/2020
+4894,April Valencia,33,Albuquerque,A+,PhD,Gig Worker,"45,000",Average,590,04/01/2024
+4898,Gregory Olson,36,Baltimore,AB-,Unknown,Unemployed,0,Poor,420,27/12/2023
+4902,Patricia Benitez,47,Atlanta,A+,Associate,Unemployed,0,Poor,,01/11/2022
+4905,Elizabeth Miller,47,Atlanta,O-,Master's,Unemployed,0,Average,650,08/08/2020
+4915,Gary Hopkins,33,Albuquerque,O+,Master's,Unemployed,0,Poor,,30/07/2021
+4928,Joseph Madden,19,Atlanta,B+,Unknown,Unemployed,0,Average,450,02/07/2022
+4931,Stacy Jones,17,Baltimore,AB+,High School,Gig Worker,"30,000",Poor,580,28/11/2023
+4932,Susan Walters,20,Atlanta,AB-,Associate,Employed,"40,000",Good,650,03/11/2020
+4932,Bonnie Wilson,19,Atlanta,A-,Unknown,Student,0,Unknown,,19/03/2022
+4938,William Campos,26,Albuquerque,B+,High School,Gig Worker,"38,000",Average,610,07/07/2021
+4939,Sharon Johnson,61,Atlanta,O+,Bachelor's,Self-employed,"70,000",Average,670,08/11/2022
+4939,Nicole Alvarado,19,Atlanta,B-,Unknown,Unemployed,0,Poor,420,05/05/2021
+4940,Jennifer Hayes,34,Atlanta,A+,High School,Employed (Part-time),"25,000",Excellent,740,03/12/2021
+4943,Nathan Scott,40,Atlanta,AB+,Master's,Self-employed,"135,068",Average,794,30/07/2022
+4952,Joseph Foster,23,Albuquerque,O+,High School,Employed,"45,000",Excellent,800,11/09/2019
+4962,Jordan Valdez,47,Atlanta,O-,High School,Gig Worker,"38,000",Average,610,24/09/2020
+4965,Jennifer Cooper,20,Atlanta,A+,PhD,Unemployed,0,Poor,,26/04/2020
+4978,Joyce Mccormick,33,Albuquerque,O+,Associate,Unemployed,0,Poor,,07/05/2021
+4980,Dustin Wright,43,Albuquerque,O+,Unknown,Unemployed,0,Average,450,12/01/2020
+5043,Mark Williams,24,Atlanta,O-,Unknown,Unemployed,0,Excellent,,02/08/2021
+5046,Ricky Meyer,31,Atlanta,A-,Bachelor's,Student (Full-time),0,Good,0,01/12/2022
+5050,Rebecca Hogan,32,Atlanta,O+,PhD,Employed,"140,000",Good,730,18/06/2019
+5053,Michael Jacobs,25,Albuquerque,O+,Associate,Unemployed,0,Good,,01/07/2020
+5066,James Roberts,23,Atlanta,A+,Master's,Retired,"48,000",Excellent,750,18/05/2020
+5069,Lori Roach,82,Atlanta,A+,Unknown,Retired,"40,000",Good,710,10/02/2021
+5073,Devin Harmon,49,Atlanta,AB+,Unknown,Unemployed,0,Average,450,26/06/2021
+5074,Carol Reed,57,Atlanta,AB+,Associate,Unemployed,0,Poor,,27/12/2022
+5077,Donna Smith,21,Atlanta,B+,Bachelor's,Employed (Contract),"95,000",Excellent,790,02/12/2021
+5083,Kim Scott,19,Albuquerque,A-,PhD,Employed,"140,000",Good,730,07/04/2024
+5088,Michael Campbell,23,Albuquerque,O-,High School,Freelance,"25,000",Excellent,720,25/01/2022
+5088,Brittany Braun,19,Atlanta,B-,High School,Gig Worker,"22,000",Average,540,11/08/2020
+5093,Kyle Armstrong,35,Atlanta,AB+,Associate,Employed,"50,000",Good,780,05/02/2023
+5110,Larry Mayer,34,Albuquerque,A+,High School,Gig Worker,"28,000",Poor,520,07/12/2023
+5113,Justin Lewis,26,Atlanta,AB-,Unknown,Student (Internship),"20,000",Good,0,09/05/2023
+5117,Matthew Haley,22,Atlanta,A+,Unknown,Retired,"40,000",Good,710,24/02/2020
+5123,Peter Ramsey,35,Atlanta,O-,High School,Gig Worker,"38,000",Average,610,25/10/2019
+5123,Jennifer Evans,39,Atlanta,A+,Bachelor's,Student (Full-time),0,Excellent,0,10/01/2022
+5135,Christian Lang,26,Albuquerque,AB+,Associate,Employed (Part-time),"12,000",Average,630,27/08/2019
+5147,William Hill,42,Albuquerque,A+,Associate,Unemployed,0,Poor,,16/05/2023
+5148,Lauren Friedman,32,Atlanta,B-,Associate,Unemployed,0,Poor,,14/02/2020
+5150,Brian George,25,Atlanta,B-,Unknown,Employed (Part-time),"15,000",Excellent,690,06/04/2023
+5150,Julie Gonzalez,29,Baltimore,B+,Bachelor's,Student (Full-time),0,Good,0,19/08/2022
+5155,Scott Simon,29,Atlanta,A-,PhD,Gig Worker,"50,000",Average,700,10/05/2023
+5165,Kelly Sanford,25,Atlanta,B-,PhD,Self-employed,"-102,073",Poor,780,02/07/2020
+5167,Kevin Jefferson,33,Albuquerque,B+,Master's,Retired,"48,000",Excellent,750,14/03/2020
+5175,Anne Howell,49,Albuquerque,A-,Associate,Unemployed,0,Poor,,22/08/2022
+5177,Stacey Anderson,19,Atlanta,AB-,Master's,Student (Full-time),0,Excellent,0,10/04/2020
+5181,Brandon Gomez,35,Atlanta,B+,Associate,Employed (Part-time),"12,000",Average,630,31/08/2020
+5184,Amanda Hebert,27,Baltimore,A+,Master's,Retired,"60,000",Average,740,20/06/2022
+5190,Lisa Franklin,23,Atlanta,A+,PhD,Retired,0,Average,537,21/05/2022
+5195,Jacob Lopez,24,Atlanta,B-,Associate,Employed,"40,000",Good,650,13/09/2019
+5196,Jeremy Rich,25,Atlanta,O-,Unknown,Self-employed,"60,000",Poor,580,22/07/2022
+5216,Matthew White,34,Albuquerque,AB+,PhD,Employed,"130,000",Good,740,03/06/2020
+5225,Nicole Rodriguez,21,Albuquerque,AB+,Master's,Unemployed,0,Average,650,17/01/2020
+5227,Dorothy Quinn,21,Atlanta,O+,Bachelor's,Self-employed,"80,000",Average,630,25/05/2022
+5228,Hunter Mckay,5,Albuquerque,A-,Associate,Gig Worker,"42,000",Average,640,14/05/2021
+5234,Christopher Jones,29,Atlanta,O-,Unknown,Unemployed,0,Excellent,,16/06/2020
+5235,Sabrina Cook,35,Atlanta,O-,Master's,Self-employed,"100,000",Average,690,05/09/2022
+5236,Megan Colon,27,Albuquerque,AB+,Associate,Employed (Part-time),"30,000",Excellent,760,04/08/2021
+5244,Elizabeth Taylor,55,Atlanta,B-,High School,Employed,"60,000",Excellent,800,08/11/2020
+5245,Steve Goodman,27,Baltimore,O+,Bachelor's,Self-employed,"70,000",Average,670,09/02/2023
+5266,Heather Carter,22,Baltimore,B+,High School,Employed (Part-time),"25,000",Excellent,740,13/07/2020
+5270,Jeremy Frye,22,Albuquerque,B-,Unknown,Student,0,Good,,25/07/2021
+5277,Parker Moore,90,Albuquerque,B-,Unknown,Self-employed,"120,000",Average,660,08/05/2020
+5286,Daniel Flores,20,Baltimore,AB+,High School,Student (Part-time),"15,000",Good,0,16/11/2021
+5292,Maria Kramer,46,Baltimore,A+,PhD,Employed,"100,000",Average,750,09/02/2022
+5311,Janice Moore,58,Atlanta,A-,Associate,Unemployed,0,Poor,,24/09/2023
+5311,Darryl Williams,31,Baltimore,AB+,Unknown,Unemployed,0,Average,400,26/06/2021
+5313,Nicole Lucero,24,Albuquerque,O-,Bachelor's,Employed (Part-time),"20,000",Excellent,700,12/03/2022
+5319,Thomas Arnold,21,Baltimore,A-,Unknown,Retired,"40,000",Good,710,09/02/2021
+5321,Laura Peters,65,Albuquerque,A-,PhD,Employed,"110,000",Good,770,03/09/2023
+5330,Eileen Harris,17,Atlanta,B-,Bachelor's,Self-employed,"80,000",Average,630,29/07/2022
+5332,Jason Lynch,30,Baltimore,A+,PhD,Gig Worker,"45,000",Average,590,10/09/2021
+5335,Peter Kelly,49,Atlanta,AB+,Master's,Unemployed,0,Poor,,08/09/2021
+5338,Brandon Greene,24,Atlanta,A-,PhD,Unemployed,0,Unknown,,03/06/2020
+5342,Mrs. Jamie Campbell,52,Albuquerque,AB-,PhD,Employed,"-50,975",Good,0,08/03/2020
+5344,Kathleen Armstrong,2,Atlanta,O-,PhD,Self-employed,"-102,073",Poor,780,27/05/2020
+5364,Ryan Berg,18,Atlanta,O-,Bachelor's,Employed (Contract),"85,000",Excellent,720,05/04/2021
+5366,Elizabeth Sheppard,30,Atlanta,O-,PhD,Self-employed,"120,000",Poor,550,13/03/2024
+5366,Brianna Lee,46,Baltimore,A+,Unknown,Retired,"40,000",Good,710,16/03/2021
+5367,Charles Brown,20,Atlanta,B-,Master's,Unemployed,0,Good,814,06/11/2021
+5374,Janice Hall,23,Atlanta,AB-,Master's,Retired,"48,000",Excellent,750,01/07/2021
+5376,Anthony Reyes,1,Albuquerque,AB+,Bachelor's,Self-employed,"80,000",Excellent,760,15/10/2023
+5376,Brittany Norman,23,Atlanta,B-,Associate,Unemployed,0,Poor,,27/07/2023
+5379,Kelsey Fox,18,Atlanta,O+,Unknown,Unemployed,0,Average,400,18/01/2023
+5381,Jason Martinez,24,Baltimore,O-,PhD,Employed,"90,000",Good,800,04/03/2022
+5396,Benjamin Kerr,28,Atlanta,B+,Bachelor's,Self-employed,"110,000",Excellent,820,04/07/2022
+5400,Mario Cox,26,Atlanta,B-,Bachelor's,Employed (Contract),"80,000",Good,750,06/01/2022
+5404,Sean Bennett,47,Atlanta,O+,Associate,Gig Worker,"42,000",Average,640,19/01/2021
+5405,Carlos Burton,27,Baltimore,A+,High School,Employed (Part-time),"25,000",Excellent,740,08/10/2023
+5407,Erica Reyes,1,Atlanta,O+,Unknown,Unemployed,0,Average,400,27/12/2020
+5414,Holly Colon,24,Atlanta,A+,PhD,Employed,"100,000",Average,750,08/01/2022
+5418,Michael Taylor,30,Albuquerque,O-,High School,Gig Worker,"30,000",Poor,580,27/02/2020
+5432,Dalton Nguyen,62,Atlanta,B-,Bachelor's,Employed (Contract),"90,000",Excellent,770,23/08/2020
+5434,Joshua Reyes,60,Atlanta,AB+,PhD,Employed,"150,000",Good,820,28/07/2021
+5439,John Williams,21,Atlanta,A+,Master's,Retired,"50,000",Average,680,31/03/2021
+5443,Stephanie Burke,24,Atlanta,AB-,Associate,Unemployed,0,Poor,,15/11/2019
+5447,Mrs. Sabrina Moreno,29,Atlanta,A+,Associate,Unemployed,0,Good,,05/10/2020
+5450,Tammy Pineda,40,Atlanta,O-,Associate,Unemployed,0,Poor,,23/05/2019
+5461,Ashley Gutierrez,49,Albuquerque,AB+,Unknown,Unemployed,0,Average,450,06/11/2019
+5466,Joseph Farley,33,Atlanta,A+,Unknown,Unemployed,0,Average,450,31/12/2023
+5480,Dwayne Castillo,39,Atlanta,O-,PhD,Retired,0,Average,537,31/10/2020
+5481,Carolyn Steele,21,Albuquerque,AB+,High School,Unemployed,0,Poor,,23/03/2020
+5486,Annette James,58,Atlanta,B-,High School,Employed,"55,000",Excellent,780,27/10/2019
+5486,Amanda Cummings,22,Atlanta,B-,Associate,Unemployed,0,Poor,,24/07/2022
+5489,Jacqueline Hardy,47,Atlanta,O+,PhD,Employed,"100,000",Average,750,12/12/2023
+5489,Joel Bowen,25,Baltimore,B+,Bachelor's,Self-employed,"80,000",Average,630,24/02/2021
+5493,Randy Shaw,40,Baltimore,B+,PhD,Unemployed,0,Poor,,06/02/2020
+5500,Thomas Erickson,33,Atlanta,O-,Associate,Gig Worker,"42,000",Average,640,25/03/2020
+5502,Caitlin Bender,17,Atlanta,O-,High School,Employed,"60,000",Excellent,800,23/12/2019
+5503,Kyle Tyler,52,Albuquerque,AB+,Bachelor's,Self-employed (Business Closed),0,Poor,450,15/05/2020
+5507,Timothy Coleman,44,Albuquerque,AB+,Bachelor's,Self-employed,"80,000",Average,630,04/03/2020
+5510,Christopher Curry,39,Albuquerque,A-,Bachelor's,Employed (Contract),"95,000",Excellent,790,04/11/2019
+5514,Angela Gilbert,27,Atlanta,O+,Bachelor's,Self-employed,"80,000",Excellent,760,30/08/2020
+5518,Aaron Martinez,33,Albuquerque,A-,Bachelor's,Unemployed,0,Excellent,0,13/08/2023
+5521,Omar Lopez,60,Atlanta,AB-,Unknown,Self-employed,"60,000",Poor,580,03/09/2020
+5530,Bryan Stewart,33,Atlanta,O-,Bachelor's,Self-employed,"70,000",Average,670,12/02/2022
+5532,William Bass,35,Atlanta,B+,Unknown,Self-employed,"120,000",Average,660,24/08/2021
+5536,Regina Bright,22,Atlanta,AB-,Bachelor's,Self-employed,"80,000",Average,630,16/05/2023
+5537,Lisa Watts,24,Atlanta,AB+,High School,Student (Full-time),0,Excellent,0,09/03/2024
+5537,Donald Ayala,50,Atlanta,AB-,Bachelor's,Self-employed (Business Closed),0,Poor,450,02/03/2023
+5539,John Taylor,42,Atlanta,A-,Bachelor's,Employed,"80,000",Good,720,06/10/2019
+5540,Jessica Acevedo,56,Albuquerque,O+,Unknown,Retired,"40,000",Good,710,26/05/2021
+5541,David Montoya,38,Atlanta,A-,Associate,Employed,"65,000",Unknown,750,19/04/2024
+5549,Amy Hartman,32,Atlanta,O-,Master's,Retired,"65,000",Good,760,13/09/2020
+5554,Elizabeth Perkins,1,Atlanta,B+,Unknown,Unemployed,0,Average,450,10/11/2019
+5562,Summer Herman,23,Baltimore,A-,Unknown,Self-employed,"120,000",Average,660,09/08/2023
+5563,Linda Hamilton,11,Albuquerque,O+,Associate,Gig Worker,"42,000",Average,640,20/09/2023
+5568,Pamela Fernandez,41,Albuquerque,B-,Master's,Self-employed,"100,000",Average,690,17/01/2021
+5570,Yesenia Mcfarland,33,Albuquerque,B+,High School,Employed (Part-time),"25,000",Excellent,740,17/05/2023
+5579,Whitney Jones,42,Atlanta,B+,Bachelor's,Self-employed (Business Closed),0,Poor,450,13/09/2021
+5580,Tyler Campbell,28,Baltimore,O-,Unknown,Unemployed,0,Excellent,,30/06/2021
+5597,George Wolfe,40,Baltimore,B-,PhD,Employed,"110,000",Good,830,01/08/2019
+5599,Stephanie Chung,21,Atlanta,AB+,PhD,Unemployed,0,Poor,,15/08/2022
+5602,Kayla Moore,29,Atlanta,AB-,Bachelor's,Employed (Contract),"100,000",Excellent,790,08/02/2022
+5602,Erica Hart,25,Atlanta,AB+,Unknown,Unemployed,0,Poor,380,07/01/2020
+5626,Jerome Day,20,Atlanta,O-,High School,Employed,"55,000",Excellent,780,25/02/2021
+5631,Rebecca Martinez,51,Atlanta,A+,Associate,Employed,"50,000",Good,780,23/01/2020
+5634,Geoffrey Daniels,19,Atlanta,B-,Master's,Retired,"50,000",Average,680,15/09/2020
+5635,Joshua Patel,22,Baltimore,A-,Master's,Self-employed,"135,068",Average,794,22/05/2021
+5652,Amber Ortiz,32,Baltimore,O+,High School,Employed,"60,000",Excellent,810,14/10/2021
+5653,Karla Crawford,30,Atlanta,O+,Associate,Unemployed,0,Poor,,10/10/2023
+5655,Sandy Hall,20,Atlanta,AB+,Master's,Retired,"50,000",Average,700,26/05/2019
+5655,Kimberly Hale,24,Atlanta,B-,High School (GED),Unemployed,0,Poor,,13/01/2021
+5659,Nicole Crane,59,Atlanta,AB+,Associate,Unemployed,0,Good,,22/11/2023
+5667,Scott Martin,17,Baltimore,B-,Unknown,Student (Internship),"20,000",Good,0,13/02/2021
+5671,Susan Brown,44,Atlanta,A+,Master's,Self-employed,"140,000",Excellent,850,21/06/2022
+5680,Jennifer Gomez,42,Atlanta,O-,Master's,Retired,"55,000",Good,730,15/12/2020
+5690,Brenda Yu,27,Atlanta,A-,High School,Gig Worker,"38,000",Average,610,18/01/2021
+5692,Mr. George Brown Jr.,46,Atlanta,AB-,Unknown,Student (Internship),"20,000",Good,0,22/10/2019
+5695,Courtney Farrell,9,Albuquerque,B+,Master's,Retired,"50,000",Average,700,24/12/2023
+5697,Leslie Roth,29,Baltimore,B-,Master's,Student (Full-time),0,Excellent,0,27/03/2024
+5703,Herbert Rodriguez,43,Atlanta,A+,Associate,Unemployed,0,Poor,,19/05/2020
+5709,Kelly Miller,28,Atlanta,A+,Unknown,Retired,"40,000",Good,710,28/02/2021
+5715,Alex Rodriguez,21,Atlanta,AB+,High School,Gig Worker,"38,000",Average,610,24/02/2021
+5718,Shari Williams,46,Atlanta,B+,High School,Gig Worker,"28,000",Poor,520,17/08/2021
+5729,Julia Mueller,33,Atlanta,A-,High School,Gig Worker,"32,000",Average,600,06/01/2022
+5730,Melissa Waller,24,Baltimore,B-,Bachelor's,Self-employed (Business Closed),0,Poor,450,15/05/2020
+5738,Bobby Carson,30,Atlanta,A-,Unknown,Student (Internship),"20,000",Good,0,10/09/2022
+5740,Jason Steele,39,Atlanta,AB-,High School,Student (Full-time),0,Excellent,0,03/09/2020
+5748,Anthony Perkins,32,Atlanta,O-,PhD,Unemployed,0,Poor,,10/01/2024
+5764,Jeff Moss,20,Baltimore,B-,Associate,Unemployed,0,Good,,26/01/2021
+5772,Joseph Gutierrez,32,Atlanta,A+,PhD,Unemployed,0,Poor,,10/03/2024
+5772,Annette Pruitt,23,Baltimore,A-,High School,Employed,"60,000",Excellent,800,24/03/2021
+5775,Maria Hayes,52,Albuquerque,A+,Master's,Self-employed,"140,000",Excellent,850,06/11/2023
+5788,Dawn Thomas,17,Baltimore,A+,Associate,Unemployed,0,Poor,,07/12/2021
+5794,Janet Roberts Dds,51,Atlanta,AB+,Associate,Unemployed,0,Poor,,07/01/2020
+5794,Yvette Turner,32,Atlanta,O+,PhD,Employed,"130,000",Good,740,19/07/2023
+5795,Regina Dunn,33,Albuquerque,B-,PhD,Employed,"100,000",Average,750,10/02/2023
+5795,Sara Cantrell,34,Atlanta,O-,Associate,Unemployed,0,Poor,,04/10/2021
+5795,Michael Hoffman,46,Atlanta,AB+,High School (GED),Unemployed,0,Poor,,03/05/2020
+5795,Nicole Harrison,61,Baltimore,O+,Master's,Student (Full-time),0,Excellent,0,21/06/2022
+5803,Mr. Kenneth Moore,47,Albuquerque,A+,High School,Employed (Gig Work),"30,000",Poor,420,21/06/2022
+5809,Joseph Martin,19,Atlanta,A+,PhD,Employed,"120,000",Excellent,830,03/05/2024
+5814,Nicole Francis,27,Atlanta,AB-,Unknown,Student (Part-time),"15,000",Good,0,30/05/2019
+5823,Jason Weber,23,Atlanta,B-,Unknown,Retired,"40,000",Good,710,26/09/2023
+5829,Jeremy Nguyen,37,Atlanta,A+,High School (GED),Unemployed,0,Poor,,31/01/2023
+5835,Laurie Cole,30,Atlanta,A+,Master's,Self-employed,"140,000",Excellent,850,07/08/2021
+5838,Kimberly Crawford,23,Atlanta,AB-,Master's,Retired,"60,000",Average,740,08/07/2021
+5840,Jessica Gonzales,53,Albuquerque,O+,Bachelor's,Employed (Contract),"95,000",Excellent,790,28/08/2023
+5843,Marcus Gillespie,22,Baltimore,AB-,Bachelor's,Self-employed,"110,000",Excellent,820,26/10/2022
+5845,Jessica King,43,Albuquerque,AB-,Master's,Retired,"65,000",Good,760,09/12/2019
+5854,Madison Palmer,34,Baltimore,A+,Associate,Unemployed,0,Poor,,12/11/2020
+5875,Mrs. Jessica Black Md,46,Atlanta,A-,High School,Freelance,"25,000",Excellent,720,09/08/2021
+5878,Katrina Lopez,29,Atlanta,O+,Associate,Employed,"45,000",Average,680,17/11/2019
+5879,Deanna Collins,33,Atlanta,O-,Bachelor's,Employed (Contract),"80,000",Good,750,15/12/2021
+5882,Caitlin Adams,36,Atlanta,A-,High School,Unemployed,0,Good,457,03/04/2020
+5887,Jason Baker,1,Albuquerque,O-,PhD,Employed,"150,000",Good,820,24/10/2020
+5890,Bryan Harper,31,Baltimore,A+,Associate,Unemployed,0,Poor,,27/09/2023
+5896,Larry Singleton,25,Baltimore,A-,Bachelor's,Employed (Contract),"85,000",Excellent,720,05/04/2022
+5896,Jerry Cruz Dds,16,Baltimore,B-,High School,Employed,"60,000",Excellent,800,22/03/2023
+5897,Maureen Grant Md,40,Atlanta,AB+,Bachelor's,Self-employed,"80,000",Average,630,13/09/2021
+5900,Denise Torres,46,Albuquerque,AB+,Associate,Employed,"50,000",Good,780,14/10/2019
+5901,Donald Kane,33,Albuquerque,O+,Bachelor's,Student (Part-time),"18,000",Good,0,31/08/2021
+5904,Heather Sanchez,21,Baltimore,A+,Master's,Retired (Early),"35,000",Average,650,17/02/2021
+5914,Rebecca James,24,Baltimore,O+,PhD,Unemployed,0,Poor,,31/03/2023
+5918,Edwin Castillo,2,Baltimore,O-,Master's,Unemployed,0,Poor,,20/03/2022
+5926,Larry Tanner,43,Atlanta,O+,PhD,Self-employed,"120,000",Poor,550,22/05/2021
+5934,Michael Jordan,47,Albuquerque,AB-,PhD,Employed,"130,000",Good,740,09/01/2022
+5938,Charlene Brown Md,29,Atlanta,O-,Unknown,Retired,"40,000",Good,710,30/07/2023
+5938,Vickie Martinez,20,Baltimore,AB-,High School,Employed (Part-time),"25,000",Excellent,740,20/12/2022
+5941,Thomas Sutton,42,Baltimore,A+,High School,Student (Full-time),0,Excellent,0,07/03/2023
+5943,Denise Rodriguez,19,Albuquerque,A-,High School,Employed,"60,000",Excellent,800,02/03/2020
+5952,Samantha Garza,25,Baltimore,AB+,Associate,Unemployed,0,Poor,,13/11/2021
+5960,Alejandro Pierce,22,Atlanta,B-,Bachelor's,Student,0,Excellent,0,10/02/2023
+5964,Shannon Barrett,24,Atlanta,B-,High School,Student (Full-time),0,Excellent,0,31/08/2021
+5967,Jesse Jones,59,Atlanta,AB-,Master's,Unemployed,0,Poor,,02/11/2019
+5972,Jessica Soto,55,Atlanta,AB+,PhD,Unemployed,0,Poor,,07/03/2020
+5973,Eric Pineda,53,Atlanta,O+,PhD,Employed,"150,000",Excellent,880,12/10/2022
+5985,Joseph Zuniga,23,Albuquerque,O-,High School,Student (Full-time),0,Excellent,0,13/03/2022
+5995,Susan Lynch,19,Baltimore,AB+,Bachelor's,Student (Full-time),0,Good,0,24/10/2023
+5996,Diana Hall,49,Albuquerque,B-,Master's,Unemployed,0,Average,650,21/01/2020
+6000,Amanda Morris,50,Atlanta,B-,PhD,Employed,"150,000",Excellent,880,19/08/2020
+6002,Sara Jones,21,Atlanta,O+,Associate,Employed,"45,000",Average,680,15/11/2022
+6011,Austin Anderson,36,Atlanta,AB-,Master's,Retired (Early),"35,000",Average,650,14/07/2020
+6021,Amanda Sullivan,22,Atlanta,O-,High School,Employed (Part-time),"25,000",Excellent,740,20/01/2023
+6027,Todd Gross,44,Atlanta,B-,Master's,Retired,"50,000",Average,700,17/03/2020
+6028,Elaine Guzman,23,Atlanta,A-,Associate,Self-employed,"80,000",Poor,590,22/07/2023
+6037,Courtney Barnett,21,Atlanta,AB+,Bachelor's,Self-employed,"70,000",Average,670,25/03/2023
+6039,Jeffrey Brown,0,Atlanta,O+,High School,Employed,"55,000",Excellent,780,24/08/2019
+6039,Jason Davis,19,Atlanta,AB-,Bachelor's,Employed (Contract),"85,000",Excellent,720,15/11/2019
+6044,Terry Nicholson,4,Atlanta,B-,Bachelor's,Student (Full-time),0,Good,0,05/11/2019
+6047,Anna Jones,69,Atlanta,O-,Unknown,Student,0,Unknown,,06/10/2020
+6059,Carol Miller,31,Atlanta,AB+,Associate,Unemployed,0,Unknown,,27/12/2019
+6071,Matthew Bentley,22,Baltimore,AB-,Bachelor's,Self-employed,"80,000",Average,630,15/12/2023
+6072,Calvin Barry,30,Baltimore,O-,Master's,Retired,"50,000",Average,700,23/01/2023
+6079,Holly Walters,31,Albuquerque,A-,Master's,Retired,"55,000",Excellent,790,10/11/2019
+6090,Tammy Rivers,16,Baltimore,B-,High School,Gig Worker,"38,000",Average,610,26/04/2020
+6096,Steven Glenn,61,Atlanta,B+,PhD,Gig Worker,"45,000",Average,590,12/09/2022
+6098,Scott King,29,Atlanta,O+,Unknown,Student,0,Unknown,,11/01/2020
+6099,Catherine Smith,39,Atlanta,AB+,PhD,Gig Worker,"45,000",Average,590,11/07/2022
+6103,Troy Gould,29,Baltimore,A+,High School,Self-employed,"30,000",Excellent,600,17/12/2023
+6118,Mark Lane,21,Baltimore,AB+,Master's,Retired,"55,000",Good,730,16/09/2021
+6146,Jennifer Stephens,26,Atlanta,B-,PhD,Gig Worker,"50,000",Average,700,16/07/2022
+6153,Amy Mann,77,Atlanta,AB-,Associate,Employed,"40,000",Good,650,22/05/2021
+6165,Susan Chan,24,Atlanta,AB+,Associate,Gig Worker,"42,000",Average,640,01/03/2024
+6177,Michael Hill,24,Baltimore,O+,Unknown,Unemployed,0,Poor,420,21/11/2019
+6179,Mary Ruiz,54,Atlanta,AB-,Bachelor's,Self-employed,"70,000",Average,670,22/03/2020
+6185,Todd Cooper,16,Albuquerque,N/A,Associate,Self-employed,"80,000",Poor,590,10/12/2022
+6196,Susan Pena,44,Atlanta,B+,Master's,Retired,"55,000",Excellent,790,09/12/2021
+6197,Jason Smith,41,Atlanta,B+,PhD,Employed,"90,000",Good,800,05/12/2021
+6203,Amanda Durham,17,Atlanta,O+,Associate,Unemployed,0,Poor,550,16/06/2021
+6204,Vanessa Garcia,21,Albuquerque,AB-,Associate,Unemployed,0,Poor,,21/04/2020
+6212,Nicole Thornton,21,Baltimore,A-,PhD,Employed,"110,000",Good,770,12/08/2021
+6217,Sean Cardenas,26,Albuquerque,B-,Master's,Self-employed,"100,000",Average,680,07/02/2021
+6222,Timothy Jacobs,18,Albuquerque,O+,High School,Student (Full-time),0,Excellent,0,25/09/2023
+6223,Adam Smith,20,Baltimore,A+,PhD,Employed,"110,000",Good,770,23/12/2020
+6227,Melissa Scott,8,Albuquerque,AB+,Associate,Employed (Part-time),"30,000",Excellent,760,24/01/2020
+6227,Brent Robinson,32,Atlanta,B+,Bachelor's,Self-employed,"120,000",Excellent,840,26/01/2020
+6229,George Phillips,34,Baltimore,A-,High School,Employed,"55,000",Excellent,780,21/03/2021
+6230,Eddie Russo Dvm,33,Atlanta,B+,Associate,Unemployed,0,Poor,,15/08/2019
+6230,Fred Snyder,26,Baltimore,O-,Associate,Self-employed,"80,000",Poor,590,29/12/2021
+6233,Elaine Lynch,63,Atlanta,B+,PhD,Employed,"110,000",Good,770,06/05/2022
+6237,Terry Martin,52,Baltimore,O+,PhD,Unemployed,0,Excellent (?!),,27/09/2022
+6239,Lisa Lewis,44,Albuquerque,O-,High School (GED),Unemployed,0,Poor,,13/11/2021
+6242,Jennifer Mcmillan,42,Albuquerque,A-,Associate,Gig Worker,"42,000",Average,640,22/06/2022
+6249,Robert Gould,66,Atlanta,N/A,Unknown,Student (Part-time),"15,000",Good,0,18/01/2024
+6265,Monique Dominguez,32,Atlanta,B+,PhD,Employed,"90,000",Good,800,05/02/2021
+6268,Taylor Howell Dds,57,Albuquerque,B+,PhD,Unemployed,0,Excellent (?!),,10/09/2021
+6268,Laura Morgan,55,Atlanta,AB+,PhD,Employed,"130,000",Average,710,05/03/2022
+6279,Linda Kennedy,27,Baltimore,O+,Unknown,Employed (Part-time),"15,000",Excellent,690,30/10/2019
+6286,Christopher Wilson,24,Atlanta,A+,Unknown,Unemployed,0,Poor,400,04/10/2022
+6292,Toni Faulkner,56,Albuquerque,AB-,PhD,Employed,"150,000",Excellent,880,14/05/2023
+6301,Joan Archer,20,Atlanta,AB-,High School,Employed,"55,000",Excellent,780,05/05/2024
+6317,Bruce Cox,24,Baltimore,A+,Associate,Unemployed,0,Unknown,,24/09/2020
+6319,Jordan Warren,45,Baltimore,O+,PhD,Gig Worker,"45,000",Average,590,16/10/2022
+6328,Alan Lee,33,Atlanta,AB-,Bachelor's,Employed (Contract),"95,000",Excellent,790,31/05/2023
+6329,Stephanie Hunter,33,Albuquerque,AB+,High School,Student (Full-time),0,Excellent,0,10/03/2024
+6331,Sergio Sanchez,35,Atlanta,AB+,PhD,Employed,"150,000",Excellent,880,14/05/2020
+6332,Michael Hurley,33,Albuquerque,AB-,Master's,Retired,"50,000",Average,700,02/06/2019
+6348,Adrian Bowman,35,Atlanta,A-,Associate,Unemployed,0,Poor,,01/07/2023
+6361,Thomas Stone,35,Atlanta,B-,Master's,Unemployed,0,Good,814,17/07/2019
+6372,Nathaniel Reynolds,33,Albuquerque,O-,Bachelor's,Employed,"80,000",Good,720,11/07/2020
+6374,Chad Maldonado,46,Baltimore,O-,PhD,Employed,"90,000",Good,800,05/07/2019
+6377,Allen Roberts,49,Atlanta,A-,PhD,Retired,"75,000",Excellent,810,01/04/2021
+6378,Samuel Hanson,28,Atlanta,B-,Master's,Student (Full-time),0,Excellent,0,01/03/2023
+6384,Vanessa Martin,34,Atlanta,O+,Master's,Self-employed,"140,000",Excellent,850,25/08/2019
+6397,Caroline Miller,19,Baltimore,AB-,Unknown,Unemployed,0,Poor,420,27/04/2022
+6398,Donna Smith,27,Atlanta,B+,PhD,Unemployed,0,Poor,,29/08/2019
+6405,Shannon Brown,62,Albuquerque,B-,Master's,Retired (Early),"35,000",Average,650,05/08/2020
+6412,William Tucker,44,Atlanta,A-,High School,Employed (Gig Work),"30,000",Poor,420,22/05/2022
+6430,Scott Castillo,20,Albuquerque,O+,PhD,Employed,"100,000",Average,750,10/08/2021
+6436,Steven Robinson,68,Atlanta,AB+,Master's,Self-employed,"120,000",Good,810,04/12/2019
+6443,Kathleen Sandoval,17,Baltimore,AB-,Master's,Self-employed,"140,000",Excellent,850,25/08/2019
+6463,Catherine Welch,56,Atlanta,A-,High School,Gig Worker,"30,000",Poor,580,25/07/2020
+6482,Jill Taylor,35,Atlanta,O-,Associate,Unemployed,0,Poor,550,18/05/2020
+6486,Ariana Brown,27,Baltimore,B+,Associate,Unemployed,0,Poor,,10/02/2020
+6487,Melissa Gomez,34,Albuquerque,B-,Master's,Student (Full-time),0,Excellent,0,16/08/2021
+6490,Jennifer Mayo,44,Atlanta,A+,PhD,Employed,"90,000",Good,800,07/07/2021
+6507,Ernest Taylor,23,Baltimore,B+,Bachelor's,Self-employed (Business Closed),0,Poor,450,23/07/2023
+6515,Lisa Kennedy,31,Albuquerque,B-,PhD,Unemployed,0,Poor,,24/12/2022
+6518,Laura Ryan,36,Atlanta,AB-,High School (GED),Unemployed,0,Poor,,14/12/2021
+6518,Michael Evans,25,Atlanta,B+,Associate,Unemployed,0,Poor,,07/12/2020
+6519,Susan Johnson,24,Baltimore,AB-,Unknown,Unemployed,0,Poor,480,30/10/2020
+6527,Sandra Graham,34,Atlanta,A+,Bachelor's,Self-employed,"150,000",Poor,500,16/06/2022
+6531,Christopher Armstrong,34,Atlanta,O-,Unknown,Unemployed,0,Poor,400,07/09/2020
+6539,Dana Williamson,30,Atlanta,A+,Bachelor's,Self-employed,"80,000",Average,630,16/05/2022
+6540,Keith Henry,22,Atlanta,O-,Bachelor's,Self-employed,"70,000",Average,670,20/08/2020
+6543,William Morton,33,Albuquerque,A+,Bachelor's,Self-employed,"70,000",Average,670,25/06/2023
+6548,Sarah Lee,21,Albuquerque,O+,PhD,Unemployed,0,Poor,,12/09/2020
+6558,Kathleen Marshall,32,Atlanta,A-,Master's,Retired,"50,000",Average,700,15/04/2022
+6558,Christina Sullivan,29,Atlanta,A+,Master's,Unemployed,0,Average,650,28/08/2019
+6561,Stephanie Nielsen,24,Baltimore,AB-,Bachelor's,Self-employed,"70,000",Average,670,27/10/2020
+6564,Courtney Hodges,27,Albuquerque,AB-,High School,Gig Worker,"22,000",Average,540,30/11/2021
+6564,Shannon Williamson,53,Baltimore,A-,Master's,Retired,"48,000",Excellent,750,31/05/2021
+6565,Christine Vargas,20,Atlanta,O-,Master's,Retired (Early),"35,000",Average,650,17/01/2023
+6570,Kelly Hill,24,Atlanta,AB-,Bachelor's,Employed (Contract),"85,000",Excellent,720,05/09/2023
+6573,Joe Berry Phd,18,Atlanta,B-,Bachelor's,Student (Part-time),"18,000",Good,0,20/06/2022
+6574,Amy Combs,25,Atlanta,A+,Master's,Unemployed,0,Good,814,26/11/2021
+6577,Christine Cooper,22,Atlanta,O+,Bachelor's,Retired,0,Unknown,0,06/05/2021
+6591,Steven Goodwin,43,Albuquerque,A-,Master's,Self-employed,"135,068",Average,794,08/09/2020
+6591,Tamara Beltran,29,Atlanta,A+,Master's,Retired,"50,000",Average,700,23/07/2020
+6592,Stephanie Martin,38,Atlanta,A+,PhD,Self-employed,"120,000",Poor,550,10/08/2020
+6596,Shannon Johnson,27,Atlanta,A-,Bachelor's,Self-employed (Business Closed),0,Poor,450,17/01/2023
+6601,Christina Woods,74,Albuquerque,B-,Unknown,Student (Internship),"20,000",Good,0,01/08/2021
+6602,Brandy George,35,Atlanta,A+,Master's,Student (Full-time),0,Excellent,0,12/10/2021
+6620,Shawn King,31,Baltimore,A+,Associate,Employed (Part-time),"30,000",Excellent,760,15/10/2020
+6621,Karen Price,25,Atlanta,O-,PhD,Self-employed,0,Poor,480,20/02/2020
+6622,Casey Johnson,19,Atlanta,O+,Unknown,Unemployed,0,Average,450,05/07/2022
+6626,Cassandra Velazquez,46,Atlanta,B+,Bachelor's,Employed (Contract),"80,000",Good,750,23/04/2022
+6628,David Bowman,16,Baltimore,O+,Associate,Employed (Part-time),"30,000",Excellent,760,19/06/2023
+6642,Tracie Wright,31,Albuquerque,O-,High School,Self-employed,"30,000",Excellent,600,08/07/2020
+6643,Adam Thompson,26,Atlanta,A+,Master's,Retired,"48,000",Excellent,750,12/09/2022
+6645,William Davies,21,Atlanta,A+,High School,Student (Part-time),"15,000",Good,0,26/03/2021
+6650,John Orozco Md,25,Atlanta,B+,Bachelor's,Self-employed (Business Closed),0,Poor,450,27/08/2022
+6662,Andre Smith,25,Atlanta,B+,Associate,Unemployed,0,Poor,,14/02/2024
+6670,Trevor Wright,59,Atlanta,O+,Master's,Retired,"48,000",Excellent,750,22/12/2020
+6682,Katrina Martin,66,Albuquerque,A-,Unknown,Retired,"40,000",Good,710,09/07/2019
+6684,Robert Sexton,33,Albuquerque,A-,Associate,Employed (Part-time),"30,000",Excellent,760,19/11/2020
+6693,Wendy Cain,52,Baltimore,O+,Master's,Unemployed,0,Average,650,17/10/2022
+6700,Kevin Hicks,21,Albuquerque,AB+,Bachelor's,Student (Part-time),"18,000",Good,0,23/06/2021
+6711,Lindsey Cherry,15,Atlanta,O+,Associate,Unemployed,0,Poor,,03/10/2022
+6713,Caroline Swanson,35,Atlanta,A+,High School,Employed,"60,000",Excellent,810,10/01/2021
+6715,Sharon Smith,40,Baltimore,AB-,PhD,Employed,"100,000",Average,750,30/11/2023
+6718,Angela Miller,34,Atlanta,A-,High School,Gig Worker,"38,000",Average,610,03/03/2023
+6730,Pamela Middleton,37,Atlanta,B-,Bachelor's,Self-employed (Business Closed),0,Poor,450,30/03/2022
+6731,Grant George,33,Albuquerque,O+,Bachelor's,Student (Full-time),0,Excellent,0,21/07/2019
+6733,Ellen Mccullough,29,Atlanta,AB-,PhD,Employed,"-50,975",Good,0,29/11/2019
+6746,Sandra Soto,30,Baltimore,AB+,Master's,Retired,"50,000",Average,700,24/05/2019
+6766,Melinda Tanner,33,Albuquerque,AB-,PhD,Unemployed,0,Poor,,01/12/2022
+6774,Jason Moore Md,33,Albuquerque,AB+,High School,Gig Worker,"30,000",Poor,580,21/09/2023
+6777,Veronica Meyer,30,Baltimore,O-,PhD,Retired,"75,000",Excellent,810,09/03/2024
+6778,Angel Randolph Dds,43,Albuquerque,A+,Bachelor's,Self-employed,"80,000",Excellent,760,06/07/2023
+6784,Madison Wright,24,Atlanta,A+,PhD,Unemployed,0,Poor,,12/12/2021
+6786,Thomas Dennis,33,Albuquerque,A+,Associate,Employed (Part-time),"30,000",Excellent,760,28/01/2024
+6786,Laura Myers,49,Atlanta,B+,PhD,Employed,"90,000",Good,800,12/03/2021
+6796,Ryan Sanchez,33,Albuquerque,A-,Unknown,Student (Internship),"20,000",Good,0,15/11/2020
+6804,Lindsey Turner,39,Baltimore,B+,PhD,Gig Worker,"50,000",Average,700,14/12/2021
+6804,Michael Ramos,37,Baltimore,AB-,Bachelor's,Employed (Contract),"85,000",Excellent,720,25/05/2020
+6807,James Horton,83,Atlanta,A+,PhD,Employed,"140,000",Good,730,23/08/2021
+6811,Pam Perkins,58,Albuquerque,AB-,High School,Employed,"60,000",Excellent,800,17/05/2022
+6812,Bobby Jackson,78,Albuquerque,B-,Bachelor's,Employed,"80,000",Good,720,31/01/2024
+6813,Mrs. Sabrina Ball,41,Albuquerque,AB-,PhD,Employed,"110,000",Good,770,11/11/2020
+6819,Mary Hunt,33,Albuquerque,AB-,PhD,Employed,"-50,975",Good,0,31/08/2020
+6824,Mary Savage,26,Atlanta,O+,High School,Employed,"45,000",Excellent,800,12/01/2021
+6826,Denise Ramirez,39,Baltimore,O-,Unknown,Unemployed,0,Average,400,08/08/2022
+6829,Megan Gray,27,Baltimore,AB-,Bachelor's,Employed (Contract),"85,000",Excellent,720,29/07/2023
+6834,Victor Duke,26,Atlanta,B-,High School,Gig Worker,"30,000",Poor,580,25/05/2023
+6837,Brian Arellano,30,Atlanta,O+,Unknown,Unemployed,0,Poor,420,13/03/2022
+6844,Felicia Yang,24,Atlanta,A-,High School,Student (Full-time),0,Excellent,0,30/11/2019
+6849,Regina Stewart,19,Atlanta,O+,PhD,Employed,"110,000",Good,770,15/10/2022
+6851,Julia Keith,25,Atlanta,O-,High School,Student (Full-time),0,Excellent,0,09/12/2022
+6863,Curtis Harding,38,Baltimore,AB+,Associate,Unemployed,0,Poor,,27/01/2021
+6872,Elizabeth Hunt,33,Atlanta,A-,Bachelor's,Student (Part-time),"15,000",Good,0,09/09/2019
+6880,Melinda Jones,26,Albuquerque,AB-,Unknown,Retired,"40,000",Good,710,23/10/2019
+6892,Craig Wyatt,28,Atlanta,AB-,Bachelor's,Self-employed (Business Closed),0,Poor,450,20/05/2019
+6893,Ryan Bradford Dds,57,Atlanta,O+,PhD,Employed,"110,000",Good,830,23/08/2019
+6893,Douglas Foster,51,Atlanta,O+,Master's,Retired,"55,000",Excellent,790,19/06/2019
+6897,Brittney Wagner,36,Atlanta,O+,Associate,Employed,"40,000",Good,650,21/12/2019
+6901,Clifford Lee,21,Baltimore,A-,PhD,Employed,"150,000",Excellent,880,22/05/2020
+6902,Michael Morton,22,Atlanta,A+,PhD,Employed,"150,000",Excellent,880,12/12/2023
+6908,Allison Ramirez,34,Albuquerque,B+,Bachelor's,Employed (Contract),"95,000",Excellent,790,25/03/2024
+6911,Rachel Jackson,27,Atlanta,A+,Associate,Unemployed,0,Poor,,17/07/2020
+6915,Thomas Martin,29,Baltimore,AB+,Associate,Unemployed,0,Poor,,16/10/2019
+6923,Kimberly Singleton,21,Baltimore,AB+,Master's,Retired,"50,000",Average,700,02/12/2022
+6930,Rebecca Lewis,58,Atlanta,A+,Associate,Gig Worker,"42,000",Average,640,14/06/2023
+6931,John Hobbs,32,Baltimore,B-,PhD,Employed,"100,000",Average,790,05/08/2022
+6947,Thomas Hoode,32,Baltimore,N/A,PhD,Employed,"130,000",Good,740,17/07/2023
+6951,Mark Price,36,Albuquerque,B-,High School,Gig Worker,"30,000",Poor,580,22/09/2022
+6955,Rachel Davis,26,Atlanta,B-,PhD,Self-employed,"-102,073",Poor,780,21/07/2021
+6963,Krista Caldwell,44,Baltimore,B+,Bachelor's,Student (Part-time),"15,000",Good,0,28/10/2023
+6964,Clarence Ford Jr.,24,Albuquerque,A-,High School,Employed,"55,000",Excellent,780,28/10/2019
+6972,Nancy May,15,Baltimore,O-,Associate,Unemployed,0,Good,,12/07/2020
+6994,Justin Brown,64,Atlanta,B+,Associate,Unemployed,0,Poor,,26/10/2023
+7005,Alexander Bishop,43,Baltimore,AB-,High School,Freelance,"25,000",Excellent,720,08/02/2022
+7009,Brandon Burke,48,Atlanta,O-,Unknown,Retired,"40,000",Good,710,01/10/2021
+7011,Sheila Church,18,Atlanta,B-,Master's,Unemployed,0,Average,650,25/12/2022
+7013,Tom Brown,24,Atlanta,A+,High School,Gig Worker,"30,000",Poor,580,01/08/2020
+7027,Cynthia Huang,33,Albuquerque,O+,Bachelor's,Retired,0,Unknown,0,12/12/2021
+7029,Mark Lawrence,43,Albuquerque,O-,Bachelor's,Unemployed,0,Excellent,0,08/02/2022
+7032,Thomas Lee,19,Baltimore,AB+,PhD,Employed,"110,000",Good,770,19/01/2024
+7034,Edward Edwards,52,Albuquerque,AB-,Unknown,Unemployed,0,Poor,400,03/11/2020
+7034,Hannah Barton,23,Baltimore,AB+,Associate,Unemployed,0,Good,,02/06/2019
+7037,Elizabeth Ibarra,31,Baltimore,B-,Bachelor's,Self-employed,"70,000",Average,670,31/07/2019
+7038,Justin Gibbs,36,Atlanta,AB-,Master's,Self-employed,"100,000",Average,690,12/07/2019
+7050,Jonathan Garcia,34,Atlanta,AB-,High School,Unemployed,0,Poor,,06/10/2022
+7051,Elizabeth Flores,35,Baltimore,O+,High School,Gig Worker,"30,000",Poor,580,13/11/2023
+7052,Heather Boyle,23,Atlanta,B+,Associate,Unemployed,0,Excellent,,23/10/2022
+7061,Joseph Gonzalez,24,Albuquerque,O+,Bachelor's,Employed (Contract),"100,000",Excellent,790,17/04/2024
+7063,Alexis Simmons,63,Atlanta,A-,Unknown,Unemployed,0,Poor,480,31/03/2022
+7068,Michael Sharp,44,Atlanta,O-,Associate,Employed (Part-time),"30,000",Excellent,760,16/11/2019
+7069,Katie Henry,26,Albuquerque,B+,High School,Employed (Part-time),"25,000",Excellent,740,08/07/2022
+7069,Scott Andersen,23,Baltimore,O+,Bachelor's,Employed (Contract),"95,000",Excellent,790,31/08/2021
+7078,Patrick Flores,37,Atlanta,O+,Unknown,Unemployed,0,Poor,480,11/06/2021
+7082,Tracey Greene,0,Albuquerque,O-,Bachelor's,Self-employed (Business Closed),0,Poor,450,06/12/2023
+7082,Matthew Wyatt,39,Atlanta,B+,Unknown,Unemployed,0,Poor,400,01/03/2021
+7085,Jodi Martinez,62,Albuquerque,AB+,PhD,Employed,"120,000",Excellent,830,08/08/2020
+7089,Charles Strong,1,Atlanta,O-,Bachelor's,Employed (Contract),"100,000",Excellent,790,25/04/2024
+7092,Jeremiah Vazquez,19,Atlanta,B-,Unknown,Self-employed,"120,000",Average,660,01/05/2023
+7096,Laura Baker,40,Atlanta,AB-,High School,Student (Full-time),0,Excellent,0,22/07/2020
+7098,Barbara Young,81,Baltimore,A-,High School,Employed,"55,000",Excellent,780,12/01/2020
+7101,Christian Washington Md,17,Baltimore,A-,PhD,Unemployed,0,Unknown,,11/06/2020
+7107,Michael Jones,32,Baltimore,A+,Master's,Self-employed,"120,000",Good,810,30/10/2023
+7112,Cristian Buchanan,9,Atlanta,A-,High School,Student (Full-time),0,Excellent,0,31/08/2019
+7114,Joshua Nelson,24,Atlanta,B+,Bachelor's,Self-employed (Business Closed),0,Poor,450,29/10/2023
+7114,William Lang,21,Atlanta,B+,PhD,Unemployed,0,Excellent (?!),,06/07/2019
+7118,Misty Williams,23,Atlanta,AB-,Associate,Self-employed,"80,000",Poor,590,13/12/2021
+7118,Charles Thompson,37,Atlanta,A+,Bachelor's,Self-employed (Business Closed),0,Poor,450,01/06/2022
+7123,Daniel Mckinney,33,Albuquerque,O+,Bachelor's,Employed (Contract),"95,000",Excellent,790,20/01/2020
+7128,Steven Thompson,16,Baltimore,O+,Associate,Employed,"40,000",Good,650,16/12/2020
+7134,James Charles,32,Atlanta,A-,Bachelor's,Employed,"80,000",Good,720,06/04/2023
+7156,Ashley Gray,33,Albuquerque,A+,Associate,Unemployed,0,Poor,,06/10/2020
+7166,Sheila Baxter,25,Atlanta,AB-,Associate,Unemployed,0,Poor,,21/11/2022
+7178,Travis Roman,23,Atlanta,B-,High School,Employed,"55,000",Excellent,780,06/02/2020
+7184,Mark Hunter,18,Baltimore,O+,PhD,Retired,0,Average,537,28/09/2020
+7184,Kimberly Mejia,22,Baltimore,B+,Master's,Self-employed,"100,000",Average,680,06/04/2024
+7203,George Woodward,24,Atlanta,B+,Associate,Employed (Part-time),"30,000",Excellent,760,29/12/2020
+7208,Michael Smith,9,Albuquerque,AB-,Master's,Retired,"50,000",Average,700,03/06/2022
+7210,Jesse Molina,29,Atlanta,AB-,Unknown,Unemployed,0,Poor,420,22/05/2019
+7241,Richard Hammond,18,Baltimore,A-,PhD,Unemployed,0,Poor,,01/07/2019
+7246,James Morris,20,Atlanta,AB-,Bachelor's,Employed (Contract),"90,000",Excellent,770,30/12/2020
+7262,Justin Bryant,23,Baltimore,AB+,High School,Student (Full-time),0,Excellent,0,01/01/2024
+7263,Frank Scott,39,Atlanta,A-,Associate,Employed,"40,000",Good,650,19/05/2020
+7267,Jason Foley,14,Albuquerque,B+,Unknown,Self-employed,"120,000",Average,660,17/06/2022
+7278,David Jensen,25,Atlanta,O-,Unknown,Self-employed,"120,000",Average,660,22/11/2019
+7283,David Pratt,62,Atlanta,A-,High School (GED),Unemployed,0,Poor,,24/12/2022
+7285,Kenneth Ramirez,28,Atlanta,A+,Master's,Self-employed,"135,068",Average,794,10/03/2024
+7285,Cindy Shaw,49,Atlanta,O-,Unknown,Unemployed,0,Excellent,,11/09/2023
+7286,Ashley Farmer,17,Atlanta,AB+,Bachelor's,Employed (Contract),"95,000",Excellent,790,20/09/2023
+7288,Andrew Erickson,30,Atlanta,AB+,High School,Employed,"40,000",Good,720,11/03/2020
+7288,Tony Harrison,25,Atlanta,B+,PhD,Gig Worker,"50,000",Average,700,08/10/2022
+7293,Shelly Lynn,51,Atlanta,B+,PhD,Self-employed,"-102,073",Poor,780,04/08/2021
+7298,Jennifer Foster,21,Atlanta,A+,PhD,Employed,"100,000",Average,750,21/11/2019
+7303,Peter Richardson,23,Baltimore,AB+,Master's,Retired,"55,000",Good,730,04/01/2020
+7309,Shelley Ware,54,Atlanta,B-,PhD,Employed,"130,000",Good,740,07/09/2023
+7312,Derek Lawson,23,Atlanta,B+,Associate,Unemployed,0,Poor,,08/07/2019
+7316,Renee Bailey,33,Albuquerque,B+,High School,Gig Worker,"38,000",Average,610,03/07/2021
+7318,David Davis,47,Atlanta,B+,High School,Gig Worker,"38,000",Average,610,14/02/2020
+7318,Christina Williams,36,Atlanta,A+,PhD,Employed,"150,000",Good,820,21/01/2023
+7325,Mark Ford,42,Albuquerque,B+,PhD,Employed,"90,000",Good,800,18/10/2022
+7336,Ashley Webb Dds,31,Albuquerque,AB-,Unknown,Student (Part-time),"15,000",Good,0,12/09/2023
+7337,Melinda Wilson,21,Atlanta,AB-,Associate,Employed (Part-time),"30,000",Excellent,760,26/04/2021
+7341,Shelby Anderson,47,Atlanta,A+,High School,Employed,"45,000",Excellent,800,26/09/2019
+7341,John Mclean,32,Atlanta,AB-,Unknown,Unemployed,0,Poor,480,17/01/2023
+7342,Joe Smith,35,Atlanta,O+,Associate,Employed,"50,000",Good,690,29/05/2019
+7350,Timothy Meadows,17,Baltimore,O-,PhD,Unemployed,0,Poor,,15/03/2023
+7353,Chelsea Finley,33,Atlanta,A+,Associate,Unemployed,0,Poor,,25/05/2020
+7356,Karen Price Dds,14,Albuquerque,AB+,Associate,Employed,"50,000",Good,780,28/05/2021
+7361,Johnny Irwin,19,Atlanta,B-,Unknown,Unemployed,0,Average,400,23/03/2020
+7362,Mr. David Pierce Md,50,Albuquerque,A-,Master's,Retired,"60,000",Average,740,05/11/2023
+7364,Amanda Ponce,24,Albuquerque,AB-,PhD,Employed,"90,000",Good,800,06/07/2020
+7364,Roger Escobar,36,Baltimore,O+,Bachelor's,Student (Full-time),0,Excellent,0,19/11/2020
+7366,David Lopez,18,Atlanta,A+,Bachelor's,Unemployed,0,Excellent,0,09/04/2024
+7372,Pam Powell,31,Baltimore,O-,Master's,Unemployed,0,Poor,,19/06/2021
+7373,Crystal Morris,31,Atlanta,B-,High School,Employed,"55,000",Excellent,780,09/09/2020
+7375,William Ware,24,Atlanta,AB+,High School,Student (Full-time),0,Excellent,0,16/10/2020
+7379,Nathan Wiley,23,Atlanta,A+,Associate,Unemployed,0,Poor,,23/09/2020
+7385,Donald Davis,42,Albuquerque,O+,Bachelor's,Self-employed (Business Closed),0,Poor,450,16/06/2021
+7388,Vanessa Schaefer,44,Atlanta,A-,Bachelor's,Self-employed,"70,000",Average,670,19/06/2023
+7390,Timothy Bennett,27,Baltimore,O-,Associate,Unemployed,0,Poor,,30/11/2020
+7394,Michael Potts,38,Atlanta,A+,Master's,Retired,"55,000",Good,730,19/01/2023
+7395,William Rogers,18,Atlanta,A-,PhD,Unemployed,0,Excellent (?!),,31/08/2020
+7397,April Santiago,18,Albuquerque,B-,PhD,Employed,"100,000",Average,750,30/01/2021
+7401,Michelle Liu,27,Atlanta,B-,High School (GED),Unemployed,0,Poor,,06/11/2023
+7401,Rebecca Moore,22,Baltimore,O+,High School,Employed (Part-time),"25,000",Excellent,740,03/09/2019
+7403,Chad Moreno,19,Albuquerque,AB+,Master's,Retired,"50,000",Average,700,26/08/2020
+7407,Jean Rodriguez,39,Atlanta,B-,Associate,Unemployed,0,Excellent,,02/08/2021
+7414,Antonio Contreras,29,Baltimore,O-,High School,Gig Worker,"28,000",Poor,520,11/12/2023
+7418,Heather Miller,29,Albuquerque,A+,Master's,Self-employed,"120,000",Good,810,17/04/2021
+7418,Rebecca Fuller,19,Atlanta,A+,Master's,Retired,"55,000",Good,730,11/03/2022
+7419,Pamela Lopez,18,Baltimore,O-,PhD,Unemployed,0,Poor,,08/11/2019
+7422,Sarah Caldwell,20,Albuquerque,A-,Bachelor's,Student (Part-time),"18,000",Good,0,30/09/2019
+7424,Mariah Smith,58,Atlanta,AB-,Bachelor's,Employed (Part-time),"20,000",Excellent,700,27/12/2022
+7425,Christopher Rodriguez,56,Atlanta,AB-,Master's,Self-employed,"140,000",Excellent,850,20/10/2019
+7437,Jacqueline Marshall,59,Albuquerque,A+,PhD,Employed,"90,000",Good,800,22/02/2024
+7438,Joshua Johnson,15,Atlanta,B+,PhD,Employed,"150,000",Good,820,10/07/2021
+7440,Katelyn Miller,21,Atlanta,AB+,Master's,Retired,"55,000",Good,730,18/01/2020
+7445,Jamie Leach,23,Atlanta,B-,Master's,Student (Full-time),0,Excellent,0,17/08/2023
+7448,Bonnie Hill,33,Albuquerque,B+,Unknown,Self-employed,"120,000",Average,660,02/05/2024
+7462,Kara Herring,25,Baltimore,AB+,Bachelor's,Student (Part-time),"18,000",Good,0,08/05/2021
+7476,Vincent Sellers,44,Atlanta,B+,Bachelor's,Self-employed,"70,000",Average,670,24/01/2023
+7481,Eric Butler,45,Atlanta,AB-,Associate,Gig Worker,"42,000",Average,640,30/01/2023
+7483,Carrie Whitehead,45,Atlanta,O-,PhD,Employed,"110,000",Good,830,03/03/2024
+7490,Rebecca Rush,33,Albuquerque,AB-,High School,Gig Worker,"38,000",Average,610,21/07/2020
+7490,Heidi Buchanan,23,Baltimore,A-,Associate,Employed (Part-time),"12,000",Average,630,03/04/2023
+7491,Connor Odonnell,31,Atlanta,A-,Bachelor's,Employed (Contract),"95,000",Excellent,790,27/11/2021
+7493,Tamara Davenport,31,Atlanta,O-,Unknown,Student (Part-time),"15,000",Good,0,19/09/2023
+7500,Kyle Bennett,22,Albuquerque,O+,High School,Student (Part-time),"15,000",Good,0,09/09/2023
+7505,Nancy Hamilton,22,Atlanta,O+,Master's,Self-employed,"140,000",Excellent,850,15/12/2022
+7508,Gina Davis,73,Albuquerque,AB+,Bachelor's,Self-employed (Business Closed),0,Poor,450,14/01/2020
+7526,Joseph Cohen Jr.,26,Baltimore,A+,Master's,Retired,"50,000",Average,700,08/06/2019
+7528,Kayla Greene,30,Albuquerque,AB+,Bachelor's,Student (Part-time),"15,000",Good,0,02/10/2020
+7530,Jessica Carter,31,Atlanta,A-,High School,Employed (Part-time),"25,000",Excellent,740,08/12/2019
+7542,Vanessa Walker,23,Atlanta,B-,Bachelor's,Self-employed,"80,000",Average,630,14/08/2022
+7543,Craig Clarke,42,Atlanta,O+,High School,Gig Worker,"30,000",Poor,580,28/12/2019
+7572,Pamela Brown,35,Atlanta,O-,PhD,Retired,0,Average,537,10/01/2023
+7574,Jason Marsh,18,Atlanta,A-,PhD,Employed,"90,000",Good,800,12/07/2023
+7580,Christopher Walton,23,Atlanta,AB-,Associate,Unemployed,0,Unknown,,30/09/2019
+7582,Sandra Greene,15,Atlanta,B-,Associate,Gig Worker,"42,000",Average,640,08/04/2021
+7585,Thomas Hicks,28,Baltimore,AB-,High School,Employed,"55,000",Excellent,780,17/06/2020
+7586,Danielle Cannon,43,Atlanta,B+,PhD,Employed,"100,000",Average,750,19/03/2020
+7588,Herbert Jimenez,59,Atlanta,AB-,Bachelor's,Employed,"80,000",Good,720,03/01/2024
+7594,Judy Johnson,20,Albuquerque,AB-,High School,Student (Full-time),0,Excellent,0,21/08/2020
+7594,Andrea Johnson,24,Atlanta,AB-,Associate,Employed (Part-time),"12,000",Average,630,16/08/2019
+7595,Tammy Cole,25,Atlanta,A+,PhD,Gig Worker,"45,000",Average,590,16/05/2020
+7596,Kevin Wong,33,Atlanta,A+,Master's,Student (Full-time),0,Excellent,0,22/09/2019
+7596,Kathryn Smith,31,Atlanta,B-,Bachelor's,Student (Full-time),0,Good,0,05/01/2020
+7605,Michael Meza,36,Baltimore,O+,Master's,Retired,"50,000",Average,700,01/02/2022
+7611,Timothy Burns,15,Albuquerque,A-,High School,Freelance,"25,000",Excellent,720,28/06/2023
+7614,Angela Sullivan,16,Atlanta,B+,Unknown,Unemployed,0,Poor,420,30/04/2022
+7636,Patrick Morales,31,Atlanta,AB-,PhD,Employed,"90,000",Good,800,16/06/2020
+7644,Holly Lambert,33,Albuquerque,A+,High School,Gig Worker,"30,000",Poor,580,04/01/2020
+7650,Bill Walker,24,Atlanta,A+,Unknown,Unemployed,0,Poor,420,21/01/2023
+7653,Alicia Scott,25,Atlanta,O-,Associate,Employed (Part-time),"12,000",Average,630,20/04/2020
+7657,Dr. Aaron Andersen,22,Atlanta,A+,Unknown,Unemployed,0,Poor,380,22/03/2022
+7670,Jill Serrano,31,Baltimore,AB+,Associate,Employed,"65,000",Unknown,750,06/02/2020
+7674,Tammy Jackson,55,Atlanta,A-,Bachelor's,Employed (Contract),"90,000",Excellent,770,14/02/2024
+7679,Crystal Simpson,44,Baltimore,A+,Associate,Gig Worker,"42,000",Average,640,16/11/2023
+7680,Chris Frye,43,Albuquerque,A-,Associate,Employed,"45,000",Average,680,04/05/2020
+7680,John Hartman,0,Albuquerque,B-,PhD,Employed,"90,000",Good,800,07/01/2023
+7681,Sandra Mccall,48,Atlanta,A-,High School,Freelance,"25,000",Excellent,720,23/11/2019
+7687,Oscar Nelson,46,Atlanta,AB+,Unknown,Student (Internship),"20,000",Good,0,27/06/2023
+7691,Bryan Phillips,27,Atlanta,B+,PhD,Employed,"90,000",Good,800,22/04/2021
+7695,Stephen Harris,33,Atlanta,B-,Bachelor's,Employed (Contract),"95,000",Excellent,790,28/05/2023
+7700,John Donaldson,18,Atlanta,B+,Bachelor's,Unemployed,0,Excellent,0,26/06/2019
+7701,Claudia Downs,25,Atlanta,A-,Master's,Retired,"55,000",Good,730,18/08/2020
+7702,Alexander Cervantes,1,Atlanta,O+,PhD,Employed,"100,000",Average,750,30/07/2023
+7702,Robert Roberts,37,Baltimore,A-,PhD,Employed,"90,000",Good,800,18/03/2024
+7715,Natalie Stanton,36,Albuquerque,B+,Bachelor's,Self-employed,"70,000",Average,670,01/09/2020
+7744,Terri Perry,27,Atlanta,AB+,Bachelor's,Self-employed,"120,000",Excellent,840,22/09/2022
+7745,Frank Hess,31,Atlanta,B-,Associate,Employed,"50,000",Good,780,05/01/2022
+7749,Briana Ross,33,Atlanta,AB+,Bachelor's,Employed (Contract),"85,000",Excellent,720,25/04/2024
+7750,Hector Maxwell,33,Albuquerque,A-,Bachelor's,Employed (Contract),"80,000",Good,750,14/02/2021
+7757,Andrea Kennedy,27,Atlanta,B-,Master's,Retired,"65,000",Good,760,07/12/2020
+7757,Emma Frederick,27,Atlanta,O-,Associate,Unemployed,0,Poor,,16/10/2023
+7765,Sydney Cross,60,Albuquerque,O+,High School,Employed,"40,000",Good,720,25/06/2019
+7767,Pamela Kelly,38,Atlanta,B-,High School,Gig Worker,"30,000",Poor,580,28/06/2021
+7782,Catherine Harvey,39,Atlanta,AB+,High School,Student (Full-time),0,Excellent,0,03/10/2023
+7786,Christopher Charles,28,Baltimore,B-,Bachelor's,Retired,0,Unknown,0,04/12/2019
+7794,Janet Boyd,35,Atlanta,B+,Associate,Unemployed,0,Good,,23/12/2019
+7798,Carol Patterson,30,Albuquerque,O+,Bachelor's,Self-employed,"70,000",Average,670,24/10/2022
+7799,David Brown,25,Atlanta,AB-,Master's,Retired,"48,000",Excellent,750,11/05/2020
+7799,Meredith Hill,45,Atlanta,B-,High School,Employed,"45,000",Excellent,800,13/12/2023
+7807,Jennifer Ortega,29,Atlanta,A-,Associate,Unemployed,0,Poor,,04/04/2023
+7834,Marcus Brown,47,Atlanta,O+,Associate,Employed,"50,000",Good,690,15/03/2021
+7837,Troy Davis,24,Atlanta,A+,Associate,Gig Worker,"42,000",Average,640,17/07/2021
+7840,Jeremy Bowen,18,Atlanta,B-,Associate,Unemployed,0,Poor,,25/07/2020
+7860,Kristen James,20,Atlanta,AB+,Associate,Employed (Part-time),"12,000",Average,630,27/03/2020
+7870,Timothy Terry,39,Atlanta,A-,Master's,Self-employed,"100,000",Average,690,15/07/2020
+7871,Harold Webb,46,Atlanta,B-,PhD,Employed,"130,000",Good,740,21/09/2022
+7880,Sarah Miller,25,Atlanta,B-,Bachelor's,Self-employed (Business Closed),0,Poor,450,29/01/2023
+7884,Michael Gomez,47,Baltimore,AB-,Bachelor's,Self-employed (Business Closed),0,Poor,450,10/10/2020
+7888,Jacob Mcdonald,55,Atlanta,B+,High School,Employed (Gig Work),"30,000",Poor,420,21/08/2022
+7891,Angela Scott,56,Atlanta,B+,High School,Employed,"60,000",Excellent,810,19/10/2022
+7892,Christopher Brown,25,Atlanta,B+,PhD,Employed,"120,000",Excellent,830,18/06/2019
+7895,David Flores,28,Baltimore,A-,Bachelor's,Employed (Contract),"85,000",Excellent,720,14/04/2020
+7911,Kristin Bennett,44,Albuquerque,AB+,Unknown,Unemployed,0,Poor,480,12/09/2020
+7919,Michael Wolfe,19,Atlanta,O+,PhD,Employed,"100,000",Average,750,25/02/2024
+7929,Emily Young,25,Atlanta,O-,Bachelor's,Employed (Contract),"85,000",Excellent,720,04/07/2019
+7933,Donald Vazquez,33,Albuquerque,AB-,Associate,Unemployed,0,Poor,,26/06/2022
+7933,Daniel Blankenship,29,Atlanta,B+,Unknown,Unemployed,0,Poor,420,24/05/2023
+7948,Brooke Brady,54,Albuquerque,AB+,Bachelor's,Retired,0,Unknown,0,08/10/2021
+7949,Morgan Nguyen,27,Atlanta,B+,Associate,Gig Worker,"42,000",Average,640,25/01/2021
+7951,Autumn Peck,40,Albuquerque,A+,PhD,Employed,"130,000",Good,740,06/10/2019
+7953,Jessica Gutierrez,45,Albuquerque,O+,Associate,Unemployed,0,Poor,,27/08/2019
+7953,Robin Clarke,18,Atlanta,O+,Unknown,Unemployed,0,Excellent,,15/07/2022
+7960,Kristy Oneill,26,Atlanta,A-,Master's,Self-employed,"140,000",Excellent,850,01/12/2021
+7968,Mary Stephens,20,Atlanta,A+,PhD,Employed,"100,000",Average,750,20/12/2019
+7969,Isaiah Holt,26,Atlanta,A-,Associate,Employed,"45,000",Average,680,18/10/2021
+7973,Melissa Lawrence,32,Albuquerque,O+,Unknown,Student,0,Unknown,,09/07/2023
+7982,Kerry Hernandez,19,Atlanta,O-,Master's,Student (Full-time),0,Excellent,0,20/11/2023
+7988,Sierra Morton,58,Albuquerque,B-,High School,Employed (Part-time),"25,000",Excellent,740,27/10/2021
+7994,Christine Dyer,35,Atlanta,O+,Associate,Unemployed,0,Good,,08/01/2021
+7996,Christine Davis,22,Atlanta,O+,Master's,Retired,"50,000",Average,700,30/03/2022
+8000,Lisa Mcclure,26,Baltimore,A-,Bachelor's,Employed (Contract),"100,000",Excellent,790,07/09/2022
+8004,Kristen Flores,41,Atlanta,A+,Unknown,Self-employed,"60,000",Poor,580,11/01/2021
+8012,Deborah Evans,33,Atlanta,B-,Associate,Unemployed,0,Poor,,22/07/2020
+8023,Paul Murray,60,Atlanta,AB+,High School,Gig Worker,"28,000",Poor,520,03/06/2022
+8024,Lisa Green,1,Atlanta,AB-,PhD,Employed,"-50,975",Good,0,04/02/2021
+8025,Richard Hines,44,Baltimore,B+,Associate,Employed,"40,000",Good,650,23/03/2023
+8031,Lisa Lopez,31,Atlanta,AB+,PhD,Employed,"150,000",Good,820,07/12/2023
+8039,Greg White,17,Atlanta,B+,Associate,Unemployed,0,Poor,,21/12/2023
+8041,Laura Romero,33,Albuquerque,O+,Master's,Retired,"55,000",Good,730,25/03/2020
+8043,Brian Hall,23,Atlanta,O+,Master's,Self-employed,"100,000",Average,690,21/02/2024
+8045,Dr. Lauren Clark Dds,34,Albuquerque,B+,Master's,Retired,"55,000",Good,730,26/10/2020
+8047,Michael Mann,25,Atlanta,B+,Master's,Retired,"55,000",Good,730,05/05/2023
+8051,Amber Nixon,54,Atlanta,O+,High School,Employed,"60,000",Excellent,810,27/12/2020
+8051,Holly Andersen,25,Atlanta,O-,Master's,Student (Full-time),0,Excellent,0,26/05/2022
+8053,Ronald Banks,38,Atlanta,AB+,Associate,Unemployed,0,Unknown,,16/04/2020
+8061,Erica Stevens,25,Baltimore,O+,Master's,Unemployed,0,Poor,,03/09/2019
+8062,Lance Simpson,57,Atlanta,B+,Unknown,Unemployed,0,Poor,420,07/01/2022
+8065,Kerry Hawkins,17,Atlanta,O-,PhD,Gig Worker,"45,000",Average,590,13/12/2021
+8066,Kathryn Stewart,20,Albuquerque,O+,Master's,Retired (Early),"35,000",Average,650,12/05/2022
+8070,Robert Edwards,33,Baltimore,AB-,Unknown,Unemployed,0,Poor,400,19/06/2020
+8071,Heidi Pope,21,Baltimore,B+,High School,Gig Worker,"30,000",Poor,580,22/11/2021
+8071,Julie Rivas,27,Baltimore,O+,High School,Employed (Gig Work),"30,000",Poor,420,15/09/2022
+8080,Matthew Brown,30,Albuquerque,O+,Unknown,Student (Internship),"20,000",Good,0,22/06/2023
+8083,Anna Norman,31,Albuquerque,B+,Bachelor's,Student (Part-time),"18,000",Good,0,16/06/2023
+8086,Clayton Hoffman,46,Atlanta,B+,PhD,Employed,"110,000",Good,770,17/05/2020
+8099,Lauren Ramirez,0,Albuquerque,A+,Bachelor's,Employed (Part-time),"20,000",Excellent,700,06/08/2022
+8100,Ann Duncan,58,Atlanta,A-,PhD,Employed,"110,000",Good,770,19/03/2024
+8104,Travis Flores,35,Atlanta,AB+,High School,Gig Worker,"30,000",Poor,580,03/10/2019
+8111,William Cooper,3,Albuquerque,N/A,Bachelor's,Student,0,Excellent,0,18/05/2023
+8118,Justin Hicks,37,Atlanta,O-,Unknown,Student,0,Good,,03/01/2021
+8126,Mark Rodriguez,20,Baltimore,O+,Associate,Unemployed,0,Poor,,04/03/2022
+8130,Angela Deleon,28,Atlanta,A-,Unknown,Unemployed,0,Poor,420,12/02/2023
+8135,Jason Jordan,23,Atlanta,O-,PhD,Unemployed,0,Excellent (?!),,12/11/2021
+8146,Stephanie Moon,49,Atlanta,B-,High School,Employed (Part-time),"25,000",Excellent,740,17/12/2021
+8154,Michelle Flynn,66,Albuquerque,O-,PhD,Gig Worker,"45,000",Average,590,26/07/2019
+8168,Matthew Collins,28,Atlanta,B-,Master's,Retired,"60,000",Average,740,09/08/2020
+8187,Kenneth Wilson,33,Albuquerque,A+,Bachelor's,Self-employed,"70,000",Average,670,12/08/2022
+8188,Katherine Hale,25,Atlanta,B+,Master's,Retired,"55,000",Good,730,12/01/2020
+8214,William Griffith,44,Albuquerque,B-,PhD,Unemployed,0,Poor,,20/02/2020
+8217,Melissa Sims,40,Atlanta,O+,Associate,Unemployed,0,Poor,550,28/08/2019
+8243,Tiffany Lee,48,Atlanta,A+,High School,Self-employed,"30,000",Excellent,600,07/03/2023
+8244,Dan Pineda,35,Atlanta,B+,High School,Unemployed,0,Poor,,20/07/2021
+8247,Tim Davis,29,Baltimore,B+,High School,Student (Full-time),0,Excellent,0,06/02/2020
+8253,Charles Murphy,23,Atlanta,A+,High School,Student (Full-time),0,Excellent,0,10/05/2021
+8280,Timothy Diaz,32,Atlanta,B-,Master's,Self-employed,"140,000",Excellent,850,24/10/2021
+8282,Brian Foster,47,Atlanta,AB+,High School,Student (Part-time),"15,000",Good,0,05/01/2022
+8282,Catherine Zhang,49,Atlanta,O+,High School,Student (Full-time),0,Excellent,0,17/02/2020
+8289,Ruben Burton,36,Atlanta,AB-,Master's,Self-employed,"120,000",Good,810,06/09/2021
+8289,Kimberly Shannon,69,Atlanta,A-,PhD,Employed,"140,000",Good,730,21/03/2022
+8293,Isaac Peterson,18,Atlanta,O+,Bachelor's,Student (Full-time),0,Good,0,11/01/2020
+8294,Kevin Simmons Jr.,51,Albuquerque,AB-,Associate,Gig Worker,"42,000",Average,640,28/12/2023
+8303,Amanda Dixon,22,Atlanta,A-,Unknown,Unemployed,0,Average,400,03/01/2024
+8303,Leah Martinez,17,Atlanta,O-,PhD,Unemployed,0,Poor,,08/08/2023
+8307,Keith Wilcox,49,Atlanta,B-,PhD,Self-employed,0,Poor,480,15/01/2024
+8308,James Bell,26,Atlanta,A-,Unknown,Retired,"40,000",Good,710,15/08/2023
+8318,Theresa Wright,29,Baltimore,B-,Bachelor's,Self-employed (Business Closed),0,Poor,450,19/03/2024
+8323,Jacqueline Stanton,34,Atlanta,B-,Unknown,Self-employed,"120,000",Average,660,20/05/2023
+8326,Robert Garcia,24,Atlanta,B-,PhD,Retired,0,Average,537,01/12/2022
+8327,Joyce Moody,33,Albuquerque,AB-,Associate,Unemployed,0,Excellent,,03/04/2022
+8331,Jacqueline Dean,18,Atlanta,A+,High School,Gig Worker,"38,000",Average,610,26/06/2021
+8333,Gregory Nguyen,20,Atlanta,O+,PhD,Unemployed,0,Poor,,28/04/2022
+8333,Victor Sullivan,47,Atlanta,O+,PhD,Unemployed,0,Poor,,06/12/2021
+8335,Aaron Weaver,44,Atlanta,AB-,Master's,Retired,"50,000",Average,700,12/08/2022
+8338,Jasmine Aguilar,56,Albuquerque,AB+,High School,Self-employed,"30,000",Excellent,600,01/07/2020
+8338,Grace Hawkins,16,Baltimore,O+,Unknown,Retired,"40,000",Good,710,11/05/2022
+8350,Michelle Hughes,27,Baltimore,B-,Bachelor's,Student (Part-time),"18,000",Good,0,29/03/2024
+8357,Kevin Stein,25,Atlanta,B+,High School (GED),Unemployed,0,Poor,,11/02/2020
+8359,April Martin,51,Atlanta,AB+,Unknown,Retired,"40,000",Good,710,17/10/2020
+8360,Jessica Davis,44,Atlanta,O-,Master's,Self-employed,"135,068",Average,794,05/06/2022
+8360,Mark Giles,25,Atlanta,A-,Bachelor's,Employed (Contract),"85,000",Excellent,720,21/03/2022
+8371,Kelly Johnson,26,Atlanta,O+,Unknown,Student (Full-time),0,Good,0,27/09/2019
+8371,Brenda Davis,29,Baltimore,B-,High School,Gig Worker,"35,000",Average,620,16/03/2021
+8381,Joel Montgomery,21,Atlanta,O+,Master's,Student (Full-time),0,Excellent,0,27/02/2022
+8381,Maria Carter,17,Baltimore,A+,Bachelor's,Self-employed,"80,000",Excellent,760,09/08/2021
+8381,Emma Bennett,22,Baltimore,AB+,Associate,Gig Worker,"42,000",Average,640,20/07/2023
+8382,Paul Wright,30,Atlanta,AB+,Associate,Employed (Part-time),"30,000",Excellent,760,30/12/2023
+8388,Amber Anderson,48,Atlanta,A+,Bachelor's,Self-employed,"120,000",Excellent,840,29/04/2024
+8396,Paige King,29,Atlanta,B-,PhD,Retired,0,Average,537,21/06/2019
+8399,Michelle Wright,43,Atlanta,A+,Unknown,Retired,"40,000",Good,710,14/08/2020
+8401,Michelle Cruz Dds,39,Albuquerque,AB+,Associate,Gig Worker,"42,000",Average,640,20/04/2023
+8418,Carolyn Wade,24,Atlanta,A+,Master's,Self-employed,"140,000",Excellent,850,08/08/2019
+8439,Alejandro Khan,35,Atlanta,B+,Bachelor's,Student (Part-time),"18,000",Good,0,25/10/2020
+8441,Patrick Cook,64,Atlanta,A+,Associate,Unemployed,0,Good,,01/09/2019
+8442,Michelle Bender,40,Atlanta,O-,Master's,Self-employed,"140,000",Excellent,850,21/07/2020
+8445,Elizabeth Michael,31,Baltimore,B-,Master's,Unemployed,0,Poor,,07/10/2023
+8451,Gabriel Stevens,28,Atlanta,B-,Unknown,Unemployed,0,Poor,420,28/05/2021
+8454,Phillip Wilson,42,Atlanta,O+,High School (GED),Unemployed,0,Poor,,03/04/2020
+8460,Mary Hunter,1,Albuquerque,O-,Bachelor's,Student (Full-time),0,Excellent,0,03/01/2021
+8471,Debbie Scott,34,Atlanta,A-,PhD,Unemployed,0,Excellent (?!),,07/10/2021
+8474,Sarah Jensen,15,Baltimore,A+,PhD,Employed,"120,000",Excellent,830,14/07/2019
+8483,Gregory Walls,57,Atlanta,A-,PhD,Gig Worker,"45,000",Average,590,05/03/2021
+8489,Roy Jones,46,Atlanta,AB-,Master's,Self-employed,"140,000",Excellent,850,16/02/2023
+8499,Eric Rivera,31,Albuquerque,AB+,Master's,Unemployed,0,Good,814,10/04/2024
+8508,Christopher Marshall,59,Baltimore,B-,Associate,Unemployed,0,Poor,550,15/08/2019
+8511,Jessica Holmes,33,Albuquerque,O-,High School,Student (Full-time),0,Excellent,0,24/10/2020
+8520,Karen Price,38,Atlanta,B-,PhD,Employed,"100,000",Average,790,23/09/2019
+8529,Michael Mills,45,Albuquerque,O-,Associate,Employed,"50,000",Good,690,21/09/2022
+8537,Rebecca Parsons,40,Albuquerque,O+,Associate,Employed,"40,000",Good,650,02/12/2019
+8539,Kristin Franco,32,Atlanta,AB+,Bachelor's,Student (Full-time),0,Good,0,22/09/2021
+8554,Pamela Garrett,23,Atlanta,A+,PhD,Employed,"150,000",Excellent,880,30/01/2021
+8556,David Ayala,19,Atlanta,O+,Unknown,Unemployed,0,Poor,480,17/11/2022
+8561,Nicole Hall,28,Baltimore,A+,Associate,Self-employed,"80,000",Poor,590,13/04/2022
+8563,Samantha Gutierrez,38,Atlanta,B+,Unknown,Student (Internship),"20,000",Good,0,24/10/2020
+8569,Eric Torres,19,Baltimore,B+,Associate,Unemployed,0,Poor,,06/01/2023
+8574,Melanie Mitchell,25,Atlanta,A-,Associate,Unemployed,0,Poor,,13/05/2022
+8578,Stephanie Kent,30,Albuquerque,A-,PhD,Employed,"130,000",Average,710,15/06/2019
+8582,Jill Lane,51,Atlanta,AB-,Bachelor's,Student (Full-time),0,Excellent,0,17/06/2020
+8584,Paul Martinez,51,Atlanta,A+,High School,Student (Full-time),0,Excellent,0,27/06/2019
+8585,Mrs. Tiffany Dennis,36,Albuquerque,O-,PhD,Unemployed,0,Unknown,,11/10/2021
+8587,Jonathan Hodges,28,Atlanta,B+,Associate,Employed,"40,000",Good,650,21/05/2019
+8589,Jeffrey Turner,54,Albuquerque,O+,Bachelor's,Employed (Contract),"95,000",Excellent,790,31/05/2020
+8592,Erin Ryan,24,Atlanta,B+,Master's,Self-employed,"100,000",Average,680,29/05/2019
+8597,Alan Roach,25,Atlanta,A+,Bachelor's,Student (Part-time),"15,000",Good,0,13/06/2019
+8606,Marcus Zamora,25,Albuquerque,O+,Associate,Unemployed,0,Poor,,13/11/2021
+8606,Devin Gilbert,32,Albuquerque,A+,High School,Student (Full-time),0,Excellent,0,12/04/2023
+8609,Marisa Golden,26,Atlanta,AB+,Bachelor's,Student (Part-time),"18,000",Good,0,21/10/2022
+8614,Amy Wang,26,Atlanta,B+,PhD,Unemployed,0,Unknown,,09/06/2022
+8623,Courtney Moore,32,Atlanta,O-,Unknown,Student (Part-time),"15,000",Good,0,12/03/2021
+8626,Isabella Kennedy,37,Atlanta,B-,PhD,Employed,"110,000",Good,770,09/02/2022
+8629,Andrea Allen,49,Albuquerque,AB+,Associate,Unemployed,0,Poor,550,09/06/2019
+8636,Steven Mcgee,15,Atlanta,A-,Associate,Unemployed,0,Poor,,04/06/2023
+8658,Kimberly Ramirez,30,Baltimore,B-,Unknown,Unemployed,0,Poor,420,01/02/2024
+8670,Patrick Owens,25,Baltimore,B+,Master's,Self-employed,"100,000",Average,690,19/06/2021
+8671,Marilyn Figueroa,50,Atlanta,B-,Master's,Unemployed,0,Average,650,14/05/2019
+8672,Chris Fletcher,63,Albuquerque,AB+,High School,Gig Worker,"30,000",Poor,580,24/10/2020
+8689,Alyssa Gonzalez,31,Baltimore,B-,Unknown,Self-employed,"120,000",Average,660,04/12/2020
+8694,Tanner Burgess,23,Atlanta,B+,Associate,Employed (Part-time),"12,000",Average,630,25/03/2024
+8704,Eduardo Houston,26,Atlanta,AB+,Bachelor's,Self-employed,"70,000",Average,670,25/11/2022
+8709,Larry Rodgers,36,Albuquerque,B-,High School,Gig Worker,"32,000",Average,600,03/08/2022
+8710,Adrienne Bell,72,Albuquerque,AB+,Master's,Retired,"50,000",Average,680,19/09/2022
+8712,Nathan Small,25,Albuquerque,B+,Bachelor's,Self-employed,"120,000",Excellent,840,22/06/2022
+8713,Tiffany Ferguson,56,Atlanta,A+,Associate,Unemployed,0,Poor,,10/09/2022
+8716,Mr. Cody Navarro,37,Atlanta,A+,PhD,Employed,"150,000",Excellent,880,22/02/2021
+8720,Daniel Kemp,49,Atlanta,O+,Master's,Student (Full-time),0,Excellent,0,14/06/2020
+8731,Mr. Tyler Taylor Phd,33,Albuquerque,A+,Master's,Retired,"55,000",Good,730,05/11/2022
+8740,Brittany Watson,34,Atlanta,A+,High School,Employed,"60,000",Excellent,810,02/09/2021
+8742,Kyle Wiley,42,Albuquerque,AB-,High School,Student (Full-time),0,Excellent,0,21/01/2021
+8742,Jade Baker,24,Atlanta,O-,High School,Self-employed,"30,000",Excellent,600,31/05/2021
+8747,Leah Sullivan,25,Atlanta,A-,Bachelor's,Student (Part-time),"18,000",Good,0,18/01/2024
+8747,Leah Stone,26,Atlanta,AB-,Unknown,Retired,"40,000",Good,710,12/10/2022
+8760,Luis Barnes,33,Atlanta,O-,Master's,Retired,"55,000",Excellent,790,12/08/2020
+8763,Robert Arellano,20,Atlanta,O-,High School,Gig Worker,"28,000",Poor,520,08/01/2021
+8766,Dr. Jeffrey Cole,33,Albuquerque,O-,Bachelor's,Self-employed,"80,000",Average,630,07/02/2024
+8767,Suzanne Schneider,59,Albuquerque,AB-,Bachelor's,Employed (Contract),"85,000",Excellent,720,25/08/2023
+8769,Cathy Robinson,25,Baltimore,A+,Unknown,Student (Internship),"20,000",Good,0,14/05/2023
+8771,Douglas King,42,Atlanta,B-,Master's,Student (Full-time),0,Excellent,0,06/12/2020
+8776,Joshua Oliver,58,Albuquerque,B+,PhD,Self-employed,0,Poor,480,03/10/2023
+8790,Jeffrey Ferguson,33,Atlanta,B+,Associate,Gig Worker,"42,000",Average,640,26/04/2023
+8801,Jose Lopez,32,Albuquerque,A-,Unknown,Retired,"40,000",Good,710,09/01/2022
+8805,Dana Walton,43,Atlanta,A-,High School,Gig Worker,"38,000",Average,610,30/06/2022
+8806,Deborah Garner,43,Atlanta,A+,Bachelor's,Self-employed,"150,000",Poor,500,12/10/2021
+8806,Amanda White,35,Baltimore,O+,Bachelor's,Self-employed,"150,000",Poor,500,01/06/2019
+8808,Jeffrey Bailey,18,Baltimore,A+,Bachelor's,Student (Part-time),"18,000",Good,0,31/01/2023
+8820,Christopher Palmer,33,Albuquerque,AB-,High School,Employed (Part-time),"25,000",Excellent,740,29/12/2023
+8822,Anthony Coleman,54,Atlanta,O+,Associate,Employed (Part-time),"30,000",Excellent,760,29/12/2019
+8825,Daniel Moore,20,Baltimore,O-,Master's,Student (Full-time),0,Excellent,0,21/10/2019
+8832,Daniel Brooks,22,Baltimore,AB-,Associate,Employed,"40,000",Good,650,26/08/2022
+8859,Malik Martinez,31,Albuquerque,A+,Master's,Retired,"50,000",Average,700,10/07/2020
+8865,Dwayne Davis,74,Albuquerque,O+,High School,Employed,"55,000",Excellent,780,15/01/2024
+8870,Darryl Cruz,20,Atlanta,O+,Unknown,Self-employed,"60,000",Poor,580,03/04/2024
+8886,Priscilla Decker,50,Atlanta,B-,PhD,Employed,"110,000",Good,830,12/11/2022
+8886,Ashley Hawkins,42,Atlanta,B-,Unknown,Student,0,Unknown,,22/11/2020
+8887,Manuel Knight,37,Atlanta,A+,Associate,Unemployed,0,Good,,25/09/2023
+8908,Courtney Patrick,36,Atlanta,AB-,Associate,Employed,"50,000",Good,690,11/01/2020
+8925,Mrs. Courtney Moore Md,58,Atlanta,AB+,Master's,Self-employed,"135,068",Average,794,19/09/2019
+8937,Christina Barber,19,Baltimore,AB-,Bachelor's,Self-employed (Business Closed),0,Poor,450,28/12/2021
+8939,Brooke Torres,36,Atlanta,O+,Associate,Unemployed,0,Good,,08/09/2019
+8941,Mitchell Carroll,24,Albuquerque,B-,PhD,Employed,"90,000",Good,800,10/09/2022
+8941,Jason Thompson,29,Atlanta,B+,Bachelor's,Self-employed,"110,000",Excellent,820,15/01/2024
+8946,Roger Soto,24,Baltimore,B-,PhD,Employed,"100,000",Average,750,05/07/2019
+8959,Barbara Diaz,55,Atlanta,A-,Bachelor's,Self-employed,"150,000",Poor,500,27/03/2024
+8963,Ms. Natalie Gamble,43,Albuquerque,AB-,Unknown,Student,0,Unknown,,01/01/2023
+8972,Maria Johnston,22,Atlanta,A+,Master's,Retired,"55,000",Excellent,790,29/09/2019
+8977,David Owen,58,Atlanta,O-,PhD,Employed,"90,000",Good,800,27/02/2020
+8983,Jamie Salazar,21,Atlanta,O-,Bachelor's,Student,0,Excellent,0,29/12/2020
+8990,Jimmy Jones,35,Baltimore,AB-,High School,Gig Worker,"32,000",Average,600,03/06/2020
+8996,Brett Marshall,40,Baltimore,B+,Bachelor's,Self-employed,"70,000",Average,670,10/11/2021
+8998,Christina Lawrence,43,Albuquerque,AB-,Associate,Employed,"40,000",Good,650,05/02/2021
+9000,Victoria Williams,92,Atlanta,B+,Bachelor's,Retired,0,Unknown,0,24/06/2023
+9000,Stacey Wood,31,Atlanta,B+,Bachelor's,Self-employed,"110,000",Excellent,820,10/02/2020
+9015,John Howard,70,Atlanta,AB-,Associate,Unemployed,0,Poor,,30/10/2022
+9019,Terry Bennett,39,Atlanta,A-,High School,Freelance,"25,000",Excellent,720,06/09/2019
+9028,Mary Walker,24,Baltimore,O+,Bachelor's,Employed (Contract),"95,000",Excellent,790,28/04/2021
+9042,Erica Ford,51,Atlanta,AB+,Unknown,Employed (Part-time),"15,000",Excellent,690,19/03/2023
+9043,Leslie Terry,17,Albuquerque,A+,Associate,Unemployed,0,Excellent,,20/08/2019
+9060,Nancy Munoz,23,Atlanta,AB+,PhD,Retired,"75,000",Excellent,810,01/04/2020
+9065,James Anderson,21,Albuquerque,AB+,Associate,Employed,"65,000",Unknown,750,16/06/2022
+9065,John Mccarty,43,Atlanta,A+,High School,Freelance,"25,000",Excellent,720,20/01/2023
+9091,Sabrina May,28,Atlanta,O+,Associate,Gig Worker,"42,000",Average,640,28/05/2022
+9094,Angela Young Md,37,Baltimore,A+,Bachelor's,Employed (Contract),"80,000",Good,750,14/02/2023
+9100,Stephanie Gibson,24,Baltimore,B+,PhD,Employed,"150,000",Good,820,31/10/2020
+9106,Lindsey Lambert,2,Albuquerque,A+,PhD,Unemployed,0,Poor,,19/11/2021
+9120,Karen Clark,53,Baltimore,B-,Unknown,Student (Full-time),0,Good,0,29/11/2021
+9125,Michael Miller,0,Albuquerque,B+,Associate,Unemployed,0,Poor,,06/02/2024
+9126,Dr. Matthew Wilkins,32,Albuquerque,A-,High School,Gig Worker,"32,000",Average,600,14/07/2021
+9126,Mrs. Rachel Spencer,19,Baltimore,A+,PhD,Employed,"150,000",Excellent,880,08/02/2020
+9131,Eric Stewart,42,Albuquerque,O+,PhD,Self-employed,0,Poor,480,14/04/2023
+9137,Anna Rogers,23,Atlanta,O-,Associate,Unemployed,0,Unknown,,30/01/2022
+9147,Eric Fernandez,19,Baltimore,A+,High School,Gig Worker,"38,000",Average,610,10/07/2022
+9148,Patricia Turner,33,Albuquerque,AB+,High School (GED),Unemployed,0,Poor,,19/11/2022
+9169,Katelyn Cunningham,54,Atlanta,B+,PhD,Employed,"110,000",Good,770,29/10/2021
+9175,Michelle Daniels,20,Albuquerque,O+,PhD,Retired,0,Average,537,19/04/2020
+9175,Eric Hall,28,Albuquerque,B+,Bachelor's,Employed (Contract),"85,000",Excellent,720,25/11/2020
+9180,Martha Martin,33,Atlanta,A+,Master's,Self-employed,"100,000",Average,680,16/02/2024
+9183,David Carroll,17,Atlanta,A-,Master's,Unemployed,0,Poor,,23/04/2022
+9192,Billy Petersen,37,Atlanta,B+,PhD,Employed,"100,000",Average,790,02/07/2019
+9203,Andrew Walsh,27,Baltimore,B-,Unknown,Self-employed,"120,000",Average,660,28/12/2022
+9230,Emma Ray,26,Atlanta,O-,Unknown,Unemployed,0,Poor,380,01/11/2019
+9246,Paula Morales,23,Atlanta,A+,PhD,Employed,"130,000",Average,710,23/03/2024
+9257,Lori Trevino,28,Atlanta,O+,PhD,Employed,"100,000",Average,790,06/07/2022
+9262,Alisha Murphy,35,Atlanta,A+,High School,Employed (Part-time),"25,000",Excellent,740,08/01/2023
+9266,Jacob Graham,17,Atlanta,A+,Bachelor's,Employed (Contract),"100,000",Excellent,790,07/06/2020
+9266,Samantha Bates,50,Atlanta,O-,Master's,Unemployed,0,Good,814,14/06/2019
+9267,Angela Wiley,34,Atlanta,A-,Unknown,Student (Part-time),"15,000",Good,0,13/05/2020
+9268,Jacob Williams,27,Albuquerque,B+,PhD,Employed,"140,000",Good,730,29/07/2022
+9272,James White,33,Baltimore,AB+,Bachelor's,Student (Full-time),0,Good,0,02/06/2020
+9274,Linda Cardenas,1,Atlanta,A-,Associate,Gig Worker,"42,000",Average,640,11/06/2021
+9276,Robert Boone,21,Atlanta,AB+,High School,Employed,"45,000",Excellent,800,06/08/2019
+9278,Sharon Freeman,55,Atlanta,O-,PhD,Unemployed,0,Poor,,26/03/2021
+9289,Jamie Jimenez,58,Atlanta,A-,Associate,Employed,"40,000",Good,650,15/03/2020
+9289,Mitchell Decker,33,Atlanta,B-,High School,Student (Full-time),0,Excellent,0,23/08/2021
+9291,Bradley Miranda,2,Atlanta,B-,PhD,Retired,"75,000",Excellent,810,30/05/2022
+9295,Mr. Jack Willis,60,Atlanta,O+,High School,Gig Worker,"30,000",Poor,580,01/09/2023
+9301,Eric Collins,35,Atlanta,B+,Associate,Unemployed,0,Good,,07/10/2021
+9302,Nicole Knight,33,Atlanta,B+,Bachelor's,Employed (Contract),"95,000",Excellent,790,31/07/2022
+9309,James Moore,58,Atlanta,A-,High School,Employed (Part-time),"25,000",Excellent,740,29/04/2021
+9317,Mr. Nathan Avila,33,Albuquerque,O+,PhD,Employed,"100,000",Average,750,16/09/2019
+9331,Debra Mckee,35,Atlanta,A-,Unknown,Retired,"40,000",Good,710,25/10/2020
+9339,Erik Montoya,30,Atlanta,AB-,Master's,Self-employed,"100,000",Average,690,27/07/2020
+9341,Nicholas Hall,21,Albuquerque,A-,Master's,Retired,"50,000",Average,680,15/12/2020
+9345,Julie Freeman,22,Atlanta,A+,High School,Gig Worker,"22,000",Average,540,01/08/2022
+9352,Mark Hicks,50,Atlanta,AB-,Bachelor's,Student (Part-time),"15,000",Good,0,18/06/2020
+9358,David Ortiz,24,Atlanta,O-,Bachelor's,Student (Full-time),0,Good,0,05/02/2022
+9361,Juan Kelley,33,Atlanta,AB+,PhD,Unemployed,0,Poor,,05/11/2021
+9364,Jennifer Baker,20,Baltimore,AB+,PhD,Employed,"100,000",Average,750,29/01/2024
+9366,Jennifer Johnson,18,Baltimore,AB+,Unknown,Unemployed,0,Average,400,29/02/2024
+9368,Jennifer Ford,29,Atlanta,B-,Associate,Employed,"45,000",Average,680,07/09/2019
+9375,Claudia Tyler,30,Baltimore,AB+,Unknown,Student,0,Good,,25/06/2019
+9377,Christina Macias,22,Albuquerque,O+,Unknown,Student,0,Good,,08/12/2022
+9382,William Rodriguez,36,Baltimore,B-,PhD,Employed,"90,000",Good,800,21/04/2020
+9394,Christina Schmitt,37,Albuquerque,B+,PhD,Employed,"100,000",Average,750,08/06/2023
+9397,Sarah Villarreal,26,Baltimore,O+,PhD,Employed,"100,000",Average,750,20/06/2023
+9405,Kristina Payne,28,Baltimore,AB+,Associate,Unemployed,0,Good,,13/03/2021
+9406,Allen Camacho,30,Atlanta,A+,Associate,Employed (Part-time),"30,000",Excellent,760,09/08/2019
+9413,Sierra White,26,Atlanta,O-,Unknown,Self-employed,"120,000",Average,660,13/11/2021
+9416,Aaron Cox,21,Atlanta,O+,PhD,Unemployed,0,Excellent (?!),,10/04/2022
+9424,Laurie Edwards,46,Atlanta,A-,Bachelor's,Employed (Contract),"85,000",Excellent,720,08/10/2022
+9443,Sharon Carpenter,57,Atlanta,AB-,PhD,Unemployed,0,Poor,,10/03/2021
+9443,James Nguyen,43,Atlanta,AB+,PhD,Self-employed,0,Poor,480,26/02/2023
+9444,Christopher Shea Jr.,17,Albuquerque,B-,Unknown,Unemployed,0,Average,400,07/06/2020
+9448,Daniel Jones,22,Atlanta,O-,Unknown,Unemployed,0,Poor,480,03/01/2024
+9454,Daniel Ortiz,47,Atlanta,AB-,Master's,Self-employed,"140,000",Excellent,850,16/11/2020
+9459,John Garcia,21,Albuquerque,A+,Associate,Unemployed,0,Good,,29/08/2023
+9459,Amanda Lucero,32,Atlanta,AB-,Bachelor's,Self-employed,"70,000",Average,670,17/08/2022
+9476,James Hudson,13,Baltimore,O+,Associate,Unemployed,0,Poor,,04/03/2024
+9483,Gregory Adams,47,Atlanta,AB+,Bachelor's,Employed (Contract),"85,000",Excellent,720,14/03/2020
+9501,Judy Ruiz,20,Baltimore,O+,Unknown,Student (Internship),"20,000",Good,0,09/08/2020
+9505,Joseph Garrett,29,Atlanta,AB-,Bachelor's,Employed (Contract),"85,000",Excellent,720,11/07/2023
+9508,Kimberly Vasquez,39,Atlanta,A-,High School,Student (Part-time),"15,000",Good,0,23/10/2023
+9509,David Miranda,23,Atlanta,B+,Master's,Self-employed,"140,000",Excellent,850,11/03/2020
+9514,James Williams,49,Atlanta,A-,High School,Unemployed,0,Good,457,01/12/2021
+9515,Vincent Ray,50,Atlanta,A-,Unknown,Unemployed,0,Average,400,21/06/2019
+9521,Victoria Brady,53,Atlanta,O+,PhD,Employed,"130,000",Good,740,22/02/2021
+9524,Ruth Adams,32,Baltimore,O+,Bachelor's,Employed (Contract),"85,000",Excellent,720,09/02/2021
+9525,Julia Reynolds,39,Atlanta,O-,Bachelor's,Self-employed,"110,000",Excellent,820,07/05/2021
+9530,Sarah Evans,23,Atlanta,B-,High School,Gig Worker,"35,000",Average,620,21/04/2024
+9536,Jason Parker,38,Atlanta,AB+,Bachelor's,Student (Part-time),"18,000",Good,0,06/12/2019
+9541,Lisa Anderson,47,Atlanta,O-,High School,Gig Worker,"28,000",Poor,520,28/06/2023
+9541,Brandon Johnson,22,Baltimore,AB+,Bachelor's,Employed (Contract),"95,000",Excellent,790,21/12/2023
+9548,Cassandra Robinson,95,Albuquerque,B-,High School,Unemployed,0,Poor,,19/12/2021
+9549,Shawn Brown,34,Atlanta,B-,Master's,Self-employed,"120,000",Good,810,10/11/2023
+9554,Lawrence Williams,1,Atlanta,AB+,PhD,Employed,"130,000",Good,740,13/02/2024
+9558,Leah Drake,49,Albuquerque,B-,Unknown,Self-employed,"60,000",Poor,580,03/04/2020
+9568,Steven James,62,Atlanta,A+,Unknown,Unemployed,0,Poor,420,27/06/2020
+9571,Chris Stevenson,22,Atlanta,A-,High School,Student (Full-time),0,Excellent,0,10/10/2019
+9584,Nancy Glover,49,Albuquerque,A-,Bachelor's,Employed (Contract),"100,000",Excellent,790,08/05/2020
+9603,Wayne Hodge,68,Atlanta,A-,Unknown,Unemployed,0,Average,400,09/10/2019
+9605,Scott Clark,44,Atlanta,B+,Master's,Retired,"60,000",Average,740,18/09/2020
+9617,Mark Armstrong,21,Baltimore,AB-,PhD,Employed,"140,000",Good,730,11/08/2020
+9624,John Perez,55,Albuquerque,AB-,Associate,Employed,"50,000",Good,690,25/05/2020
+9624,Cody Nichols,33,Albuquerque,A+,Associate,Unemployed,0,Poor,,25/11/2022
+9638,Rita Archer,28,Albuquerque,O-,High School,Employed,"60,000",Excellent,810,05/01/2024
+9643,Monica White,21,Baltimore,AB-,High School,Employed,"55,000",Excellent,780,12/03/2022
+9648,Sarah Cannon,59,Albuquerque,AB+,Master's,Retired,"50,000",Average,700,06/07/2019
+9652,Kenneth Weeks,1,Atlanta,O+,High School,Employed (Part-time),"25,000",Excellent,740,30/01/2021
+9659,Anthony Odom,28,Atlanta,O+,PhD,Employed,"-50,975",Good,0,28/01/2024
+9661,Jose Anderson,23,Baltimore,O-,Unknown,Self-employed,"120,000",Average,660,19/11/2023
+9665,Kyle Perez,30,Atlanta,AB-,High School,Employed (Part-time),"25,000",Excellent,740,23/01/2020
+9669,Robert Smith,47,Albuquerque,AB+,Master's,Self-employed,"140,000",Excellent,850,11/05/2020
+9669,John Khan,18,Atlanta,AB+,Unknown,Student,0,Good,,31/10/2019
+9671,Caroline Mcintyre,36,Atlanta,AB+,Master's,Student (Full-time),0,Excellent,0,30/04/2020
+9677,Katherine Kelly,51,Atlanta,B-,Master's,Retired,"65,000",Good,760,25/09/2023
+9682,Jamie Collins,32,Atlanta,B-,PhD,Employed,"110,000",Good,770,17/06/2023
+9691,Ryan Liu,57,Atlanta,AB+,Bachelor's,Employed (Contract),"85,000",Excellent,720,16/10/2021
+9692,David Vincent,59,Albuquerque,O+,Associate,Self-employed,"80,000",Poor,590,24/09/2023
+9692,Robert Clark,4,Atlanta,B-,High School,Employed,"55,000",Excellent,780,28/04/2020
+9693,Edward Jones Jr.,57,Atlanta,O-,Unknown,Self-employed,"120,000",Average,660,16/03/2020
+9695,Michael Newman,26,Baltimore,A+,Unknown,Employed (Part-time),"15,000",Excellent,690,20/01/2022
+9699,Andrea Buck,18,Atlanta,O-,PhD,Employed,"90,000",Good,800,08/08/2023
+9703,Kevin Smith,41,Atlanta,A-,Master's,Retired,"60,000",Average,740,10/08/2019
+9715,Brandon Smith,25,Atlanta,AB+,Unknown,Employed (Part-time),"15,000",Excellent,690,17/12/2021
+9731,Jacqueline Jordan,33,Albuquerque,O+,Bachelor's,Self-employed,"120,000",Excellent,840,10/07/2020
+9731,Lori Harvey,36,Atlanta,AB-,High School,Unemployed,0,Good,457,07/09/2022
+9739,Emily Joseph,52,Atlanta,AB-,Associate,Unemployed,0,Good,,14/06/2022
+9747,Cindy Williams,39,Atlanta,A-,Master's,Retired,"50,000",Average,700,06/08/2019
+9751,Ashley Bell,23,Atlanta,AB-,PhD,Employed,"100,000",Average,750,09/04/2020
+9757,Sarah Hicks,35,Atlanta,A-,High School,Gig Worker,"30,000",Poor,580,23/02/2023
+9761,Anthony Davis,33,Albuquerque,B+,Associate,Unemployed,0,Poor,,26/05/2020
+9764,Richard Anderson,27,Atlanta,O-,Unknown,Unemployed,0,Poor,420,12/09/2023
+9764,Rachel Swanson,2,Atlanta,AB-,High School,Gig Worker,"38,000",Average,610,28/01/2022
+9766,Ashley Williams,31,Atlanta,B-,Master's,Retired,"60,000",Average,740,04/10/2023
+9767,Jake Copeland,29,Atlanta,AB-,Unknown,Unemployed,0,Average,400,09/01/2024
+9772,Lori Lawrence,4,Atlanta,B-,High School,Student (Full-time),0,Excellent,0,26/05/2022
+9775,Linda Butler,1,Atlanta,O+,High School,Freelance,"25,000",Excellent,720,07/11/2023
+9776,Megan Wheeler,25,Atlanta,B+,Master's,Retired,"55,000",Good,730,30/07/2020
+9789,Tyrone Newman,20,Baltimore,AB+,Unknown,Unemployed,0,Average,400,03/08/2022
+9801,William Faulkner,40,Atlanta,B+,Bachelor's,Employed (Contract),"100,000",Excellent,790,13/06/2019
+9802,Anne Anthony,33,Albuquerque,AB+,Associate,Unemployed,0,Good,,20/01/2023
+9810,Sherri Garcia,46,Atlanta,B+,Unknown,Unemployed,0,Poor,420,21/09/2021
+9811,Brian Smith,23,Baltimore,B-,Master's,Retired,"55,000",Excellent,790,31/05/2022
+9828,Andrew Bryan,31,Atlanta,O-,PhD,Employed,"110,000",Good,770,05/01/2024
+9828,Krista Thornton,30,Atlanta,AB+,Unknown,Unemployed,0,Poor,400,01/10/2022
+9839,William Harmon,30,Atlanta,O+,Associate,Unemployed,0,Good,,22/08/2022
+9842,Bethany Moore,49,Albuquerque,A+,PhD,Unemployed,0,Poor,,09/04/2023
+9842,Katie Howard,30,Atlanta,AB-,PhD,Employed,"130,000",Average,710,05/03/2020
+9844,Anthony Gonzalez Phd,29,Atlanta,AB+,Unknown,Self-employed,"120,000",Average,660,16/09/2019
+9848,Valerie Hodges,27,Atlanta,AB+,High School,Gig Worker,"30,000",Poor,580,19/09/2019
+9855,Andrew Hill,25,Atlanta,O+,PhD,Employed,"130,000",Good,740,13/12/2021
+9861,Amy Powell,38,Atlanta,B+,Associate,Employed,"50,000",Good,780,20/07/2020
+9862,Lisa Jackson,44,Atlanta,B+,Unknown,Unemployed,0,Average,400,20/12/2019
+9862,Eric Smith,34,Atlanta,AB-,Associate,Unemployed,0,Unknown,,23/10/2020
+9873,James Ross,57,Albuquerque,A+,Unknown,Unemployed,0,Average,400,13/01/2024
+9883,Matthew Bell,23,Atlanta,O+,Master's,Unemployed,0,Average,650,04/02/2021
+9886,Isabella Martin,55,Atlanta,A-,Associate,Unemployed,0,Good,,10/08/2023
+9887,Teresa Harrison,16,Baltimore,O-,Bachelor's,Self-employed,"70,000",Average,670,14/06/2021
+9890,Pamela Duncan,50,Atlanta,B+,PhD,Unemployed,0,Poor,,05/10/2023
+9892,Travis Carter,49,Albuquerque,A+,Associate,Unemployed,0,Poor,,06/07/2022
+9894,Mark Nguyen,20,Atlanta,A+,Unknown,Unemployed,0,Average,400,23/11/2019
+9895,Alexander Smith,32,Baltimore,A+,High School,Gig Worker,"38,000",Average,610,10/08/2019
+9896,Tyler Gonzalez,24,Atlanta,A-,Bachelor's,Student (Part-time),"18,000",Good,0,28/09/2022
+9904,Mr. Timothy Flores,25,Albuquerque,A-,Master's,Unemployed,0,Poor,,07/07/2020
+9910,Leah Frederick,19,Atlanta,O-,High School,Gig Worker,"38,000",Average,610,03/02/2023
+9913,Jillian Marks,33,Albuquerque,A-,Unknown,Retired,"40,000",Good,710,20/06/2020
+9915,Melissa Brady,51,Atlanta,O-,Master's,Student (Full-time),0,Excellent,0,29/09/2022
+9921,David Higgins,20,Albuquerque,B-,Master's,Self-employed,"140,000",Excellent,850,05/03/2021
+9922,Clayton Peterson,29,Albuquerque,B-,Bachelor's,Employed (Contract),"90,000",Excellent,770,11/06/2021
+9923,Amanda Aguirre,21,Atlanta,AB+,High School,Employed,"60,000",Excellent,800,18/03/2020
+9925,David Chandler,24,Atlanta,AB+,Bachelor's,Student (Part-time),"18,000",Good,0,20/06/2020
+9929,Krystal Mendoza,48,Atlanta,A-,Associate,Unemployed,0,Poor,,18/09/2020
+9930,Devin Shelton,26,Atlanta,B-,Bachelor's,Self-employed,"80,000",Average,630,04/05/2022
+9931,Christopher Weiss,32,Atlanta,AB-,High School,Gig Worker,"32,000",Average,600,16/02/2023
+9933,Cynthia Clarke,26,Atlanta,AB-,High School,Gig Worker,"30,000",Poor,580,12/03/2024
+9935,Matthew Burnett,28,Atlanta,AB-,PhD,Self-employed,"-102,073",Poor,780,29/04/2021
+9940,Mr. Mark Hancock,32,Atlanta,O+,Associate,Gig Worker,"42,000",Average,640,05/06/2021
+9940,Shannon Alexander,35,Atlanta,A-,High School,Gig Worker,"38,000",Average,610,11/01/2024
+9941,Michelle Pierce,27,Albuquerque,O-,Master's,Self-employed,"120,000",Good,810,23/11/2020
+9942,Brenda Beck,28,Atlanta,B+,Bachelor's,Employed (Contract),"85,000",Excellent,720,24/02/2023
+9946,Kyle Anderson,58,Atlanta,AB-,PhD,Employed,"-50,975",Good,0,12/08/2022
+9950,Michael Richardson,32,Atlanta,B+,Bachelor's,Self-employed (Business Closed),0,Poor,450,14/10/2023
+9956,Deborah Moore,22,Atlanta,O+,Unknown,Unemployed,0,Average,450,09/03/2020
+9962,Michael Edwards,20,Albuquerque,AB+,Master's,Retired,"55,000",Good,730,01/11/2021
+9967,Catherine Gardner,53,Albuquerque,A-,Unknown,Employed (Part-time),"15,000",Excellent,690,19/08/2019
+9968,Donald Lynch,23,Atlanta,O+,PhD,Unemployed,0,Poor,,13/03/2021
+9981,Jennifer Fuentes,24,Atlanta,B+,Associate,Employed (Part-time),"30,000",Excellent,760,14/04/2023
+9983,Katherine Smith,36,Albuquerque,N/A,High School,Gig Worker,"35,000",Average,620,09/06/2021
+9987,Joseph Sellers,21,Atlanta,O-,High School,Unemployed,0,Good,457,20/11/2022
+9995,Michaela Patterson Md,33,Atlanta,O+,PhD,Employed,"150,000",Excellent,880,25/03/2020
+9999,Daniel Morris,25,Atlanta,AB+,Associate,Employed,"50,000",Good,690,25/06/2021
